@@ -7,8 +7,27 @@ const sourcePath = path.resolve(
 );
 const targetPath = path.join(repoRoot, "data", "exam-data.json");
 const reportPath = path.join(repoRoot, "data", "build-report.json");
+const hintsPath = path.resolve(repoRoot, "../hints.txt");
 
 const markdown = fs.readFileSync(sourcePath, "utf8");
+
+const hintsData = {};
+if (fs.existsSync(hintsPath)) {
+  const hintsRaw = fs.readFileSync(hintsPath, "utf8");
+  const blocks = hintsRaw.split("---");
+  blocks.forEach(b => {
+    const lines = b.split(/\r?\n/);
+    let orig = "", hint = "";
+    lines.forEach(l => {
+      if (l.trim().startsWith("Original:")) orig = l.replace("Original:", "").trim();
+      if (l.trim().startsWith("Hint:")) hint = l.replace("Hint:", "").trim();
+    });
+    if (orig && hint) {
+      const norm = orig.toLowerCase().replace(/[^a-z0-9]/g, "");
+      hintsData[norm] = hint;
+    }
+  });
+}
 const base = JSON.parse(fs.readFileSync(targetPath, "utf8"));
 
 function stripMd(text) {
@@ -325,11 +344,15 @@ function parseSectionE() {
       finalAnswer = stripMd(rawAns).trim();
     }
 
+    const promptNorm = prompt.toLowerCase().replace(/[^a-z0-9]/g, "");
+    const hint = hintsData[promptNorm] || "";
+
     out.push({
       id: `E${String(qNo).padStart(3, "0")}`,
       prompt,
       keyword,
       prefix,
+      hint,
       answer: finalAnswer
     });
   }

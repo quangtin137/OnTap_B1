@@ -12,7 +12,7 @@
       "G": 4,
       "H": 4
     },
-    "generatedAt": "2026-06-11T12:21:54.328Z"
+    "generatedAt": "2026-06-11T13:00:41.820Z"
   },
   "A": {
     "vocabularyGrammar": [
@@ -2333,6 +2333,7 @@
         "prompt": "Please play your electric guitar more quietly!",
         "keyword": "down",
         "prefix": "Please",
+        "hint": "\"Turn down\" = vặn xuống → giảm âm lượng. Khi thấy \"more quietly / louder\", nghĩ ngay đến turn down / turn up.",
         "answer": "turn down your electric guitar"
       },
       {
@@ -2340,6 +2341,7 @@
         "prompt": "How long has Alice been Tony’s girlfriend?",
         "keyword": "out",
         "prefix": "How long has",
+        "hint": "\"Go out with sb\" = hẹn hò. Nhớ giới từ WITH, không phải \"go out to\".",
         "answer": "Alice been going out with Tony?"
       },
       {
@@ -2347,6 +2349,7 @@
         "prompt": "When was the last time you heard from Nigel?",
         "keyword": "contact",
         "prefix": "When was the last time",
+        "hint": "\"Be in contact WITH sb\" — giới từ \"with\" cố định. Mở rộng: keep / stay in contact with.",
         "answer": "you were in contact with Nigel?"
       },
       {
@@ -2354,6 +2357,7 @@
         "prompt": "Let me just make a note of your phone number.",
         "keyword": "write",
         "prefix": "Let me just",
+        "hint": "\"Write down\" = bút di chuyển xuống tờ giấy. Linh hoạt: write down sth / write sth down đều đúng.",
         "answer": "write down your phone number"
       },
       {
@@ -2361,6 +2365,7 @@
         "prompt": "Do you think going to university in another country is a good idea?",
         "keyword": "favor",
         "prefix": "Are you in",
+        "hint": "Cấu trúc cố định: be in favor OF + V-ing. Không dùng \"for\" hay \"to\".",
         "answer": "favor of going to university in another country?"
       },
       {
@@ -2368,6 +2373,7 @@
         "prompt": "The exam started at nine and we wrote for three hours until twelve.",
         "keyword": "writing",
         "prefix": "When the exam finished at twelve,",
+        "hint": "Có 2 thời điểm quá khứ + \"for\" chỉ khoảng thời gian → Past Perfect Continuous: had been + V-ing + for [thời gian].",
         "answer": "we had been writing for three hours."
       },
       {
@@ -2375,6 +2381,7 @@
         "prompt": "Why don’t you start to run and see if that helps you lose weight?",
         "keyword": "up",
         "prefix": "Why don’t you",
+        "hint": "\"Take up\" = nhặt lên một sở thích mới. Sau take up luôn dùng V-ing: take up running / swimming / painting.",
         "answer": "take up running and see if that helps you lose weight?"
       },
       {
@@ -2382,6 +2389,7 @@
         "prompt": "I did German lessons until last year, but I stopped because I didn’t have time.",
         "keyword": "used",
         "prefix": "I used to do",
+        "hint": "\"but I stopped\" = dấu hiệu dùng \"used to\". Phân biệt: used to do (quá khứ) ≠ be used to doing (quen với việc gì).",
         "answer": "German lessons until last year, but I stopped because I didn't have time."
       },
       {
@@ -2389,6 +2397,7 @@
         "prompt": "When you make a mistake, put a line through it and write the correct answer above.",
         "keyword": "cross",
         "prefix": "When you make",
+        "hint": "Hình dung dấu ✗ trên giấy = \"cross out\". Đại từ phải đặt giữa: cross it out (không được viết cross out it).",
         "answer": "a mistake, cross it out and write the correct answer above."
       },
       {
@@ -2396,6 +2405,7 @@
         "prompt": "Have you played Monopoly before?",
         "keyword": "time",
         "prefix": "Is this the",
+        "hint": "Công thức cố định: \"Is this the first time + S + have + V3?\" Sau \"the first time\" dùng Present Perfect, không dùng Past Simple.",
         "answer": "first time you have played Monopoly."
       },
       {
@@ -2403,6 +2413,7 @@
         "prompt": "I started studying at six and now it’s ten o’clock.",
         "keyword": "for",
         "prefix": "It’s ten o’clock and",
+        "hint": "Tính khoảng thời gian: 10 - 6 = 4 giờ → \"for four hours\". Dấu hiệu: \"now it's...\" + thời điểm bắt đầu = Present Perfect Continuous + for.",
         "answer": "I have been studying for four hours."
       },
       {
@@ -2410,6 +2421,7 @@
         "prompt": "- “I’m sorry I broke your glasses, Paul,” said Stacy.",
         "keyword": "apologised",
         "prefix": "Stacy",
+        "hint": "Nhớ 2 giới từ: apologise TO (người) FOR (hành động) + V-ing.",
         "answer": "apologised to Paul for breaking his glasses."
       },
       {
@@ -2417,6 +2429,7 @@
         "prompt": "When I’m an adult, I want to be a pop star!",
         "keyword": "up",
         "prefix": "When I",
+        "hint": "\"Grow up\" = cây mọc lên = lớn lên. Phrasal verb không tách được, không có tân ngữ.",
         "answer": "grow up, I want to be a pop star!"
       },
       {
@@ -2424,6 +2437,7 @@
         "prompt": "Let’s leave at seven o’clock tomorrow morning.",
         "keyword": "set",
         "prefix": "Let’s",
+        "hint": "\"Set off\" = bấm nút khởi động rồi đi. Đồng nghĩa: set off = set out = depart (dùng cho hành trình).",
         "answer": "set off at seven o'clock tomorrow morning."
       },
       {
@@ -2431,6 +2445,7 @@
         "prompt": "You’ve really disappointed me, Rachel.",
         "keyword": "down",
         "prefix": "You’ve really",
+        "hint": "\"Let sb down\" = kéo ai xuống = làm thất vọng. Đại từ phải đặt giữa: let ME down (không viết let down me).",
         "answer": "let me down, Rachel."
       },
       {
@@ -2438,6 +2453,7 @@
         "prompt": "They gave me a map of the town center.",
         "keyword": "provided",
         "prefix": "They",
+        "hint": "Công thức: provide sb WITH sth. Tương tự: supply sb with / present sb with — cùng dùng \"with\".",
         "answer": "provided me with a map of the town center."
       },
       {
@@ -2445,6 +2461,7 @@
         "prompt": "Hurry up or we’ll miss the plane!",
         "keyword": "late",
         "prefix": "Hurry up or we’ll",
+        "hint": "\"Be late FOR\" — giới từ \"for\" đi với phương tiện/sự kiện: late for the plane / school / meeting.",
         "answer": "be late for the plane!"
       },
       {
@@ -2452,6 +2469,7 @@
         "prompt": "Did you really go into town by yourself, Sam?",
         "keyword": "own",
         "prefix": "Did you really go",
+        "hint": "\"On my/your/his own\" — thay đổi tính từ sở hữu theo chủ ngữ. Cả hai nghĩa: không ai giúp + một mình.",
         "answer": "into town on your own, Sam?"
       },
       {
@@ -2459,6 +2477,7 @@
         "prompt": "I don’t really like traveling.",
         "keyword": "fond",
         "prefix": "I’m not",
+        "hint": "\"Be fond of\" luôn đi với V-ing. Tương tự: be keen on / be interested in / be passionate about — tất cả đều + V-ing.",
         "answer": "fond of traveling."
       },
       {
@@ -2466,6 +2485,7 @@
         "prompt": "You need to stop the engine and then check to see if there’s any oil on the ground.",
         "keyword": "turn",
         "prefix": "You need to",
+        "hint": "turn OFF ↔ turn ON là cặp đối lập. Linh hoạt: turn off the engine / turn the engine off.",
         "answer": "turn off the engine and then check to see if there’s any oil on the"
       },
       {
@@ -2473,6 +2493,7 @@
         "prompt": "Before the aeroplane was invented, people told stories about flying machines.",
         "keyword": "made",
         "prefix": "Before the aeroplane was invented,",
+        "hint": "\"Make up\" có nhiều nghĩa: (1) bịa đặt, (2) trang điểm, (3) bù đắp. Ở đây nghĩa (1): make up a story = invent/fabricate.",
         "answer": "people made up stories about flying machines."
       },
       {
@@ -2480,6 +2501,7 @@
         "prompt": "Don’t just put your batteries in the bin – recycle them!",
         "keyword": "away",
         "prefix": "Don’t just",
+        "hint": "Khi dùng đại từ, BẮT BUỘC đặt giữa: \"throw them away\" — không được viết \"throw away them\".",
         "answer": "throw your batteries away recycle them!"
       },
       {
@@ -2487,6 +2509,7 @@
         "prompt": "It took a long time for scientists to discover what stars are made of.",
         "keyword": "find",
         "prefix": "It took a long time for scientists",
+        "hint": "\"Find out\" = lật lên để tìm thông tin ẩn. Dùng khi tìm thông tin/sự thật, khác \"find\" đơn thuần (tìm đồ vật).",
         "answer": "to find out what stars are made of."
       },
       {
@@ -2494,6 +2517,7 @@
         "prompt": "I found some old coins in a drawer while I was looking for a pen.",
         "keyword": "across",
         "prefix": "I came",
+        "hint": "Từ khóa: \"while I was looking for sth else\" = không chủ tâm → come across (tình cờ gặp).",
         "answer": "across some old coins in a drawer while I was looking for a pen."
       },
       {
@@ -2501,6 +2525,7 @@
         "prompt": "If your watch doesn’t work, return it to the shop.",
         "keyword": "back",
         "prefix": "If your watch doesn’t work,",
+        "hint": "\"Take it back\" — đại từ PHẢI đặt giữa: take it back (không viết take back it).",
         "answer": "take it back to the shop."
       },
       {
@@ -2508,6 +2533,7 @@
         "prompt": "Our car stopped working last weekend, and I don’t know why.",
         "keyword": "down",
         "prefix": "Our car",
+        "hint": "\"Break down\" chỉ dùng cho máy móc/xe bị hỏng, không có tân ngữ. Khác với \"break down\" nghĩa sụp đổ cảm xúc.",
         "answer": "broke down last weekend and I don’t know why."
       },
       {
@@ -2515,6 +2541,7 @@
         "prompt": "Did you give Mark the money you borrowed from him?",
         "keyword": "pay",
         "prefix": "Did you",
+        "hint": "\"Pay back\" = trả lại tiền. Lưu ý: \"borrow FROM\" → đổi thành \"lend\" (chiều ngược lại) trong câu trả lời.",
         "answer": "pay Mark back the money Mark lent you?"
       },
       {
@@ -2522,6 +2549,7 @@
         "prompt": "The magazine is published every Friday.",
         "keyword": "out",
         "prefix": "The magazine",
+        "hint": "\"Come out\" = ra mắt công chúng. Dùng cho sách, tạp chí, phim, album: \"The new album comes out next month.\"",
         "answer": "comes out every Friday."
       },
       {
@@ -2529,6 +2557,7 @@
         "prompt": "Could you complete this application form, please?",
         "keyword": "in",
         "prefix": "Could you",
+        "hint": "\"Fill in\" = điền vào ô trống (in = vào trong). Biến thể Mỹ: fill out. Cả hai đều được chấp nhận trong bài thi.",
         "answer": "fill in this application form, please?"
       },
       {
@@ -2536,6 +2565,7 @@
         "prompt": "I am writing with regard to your advertisement for a part-time shop assistant.",
         "keyword": "response",
         "prefix": "I am writing",
+        "hint": "Cụm thư trang trọng cố định: \"I am writing in response to your advertisement for...\" — học thuộc cả cụm.",
         "answer": "in response to your advertisement for a part-time shop assistant."
       }
     ]

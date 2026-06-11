@@ -225,6 +225,7 @@ function renderTransformation(items, parent) {
       `<div class="question" data-type="text" data-answer="${escapeHtml(q.answer)}" data-key="E_${q.id}" data-qn="${qn}">
         <h4>Câu ${qn}. ${escapeHtml(q.prompt)}</h4>
         <div class="meta">Keyword: ${escapeHtml(q.keyword)}</div>
+        ${q.hint ? `<details style="margin-bottom: 12px; font-size: 0.9rem;"><summary style="color: var(--accent); font-weight: 600; cursor: pointer; outline: none; user-select: none;">💡 Xem gợi ý</summary><div style="margin-top: 6px; padding: 10px; background: #fffde7; border-left: 3px solid #fbc02d; border-radius: 4px; color: #424242; line-height: 1.5;">${escapeHtml(q.hint)}</div></details>` : ""}
         <div style="display: flex; align-items: baseline; gap: 8px;">
           ${q.prefix ? `<span class="prefix" style="font-weight: 600; color: var(--accent);">${escapeHtml(q.prefix)}</span>` : ""}
           <input class="answer-input" type="text" name="q_E_${q.id}" placeholder="Nhập đáp án..." style="flex: 1;" />
