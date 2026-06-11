@@ -12,7 +12,7 @@
       "G": 4,
       "H": 4
     },
-    "generatedAt": "2026-06-11T11:24:12.427Z"
+    "generatedAt": "2026-06-11T12:21:54.328Z"
   },
   "A": {
     "vocabularyGrammar": [
@@ -2332,181 +2332,211 @@
         "id": "E030",
         "prompt": "Please play your electric guitar more quietly!",
         "keyword": "down",
-        "answer": "Please turn down your electric guitar"
+        "prefix": "Please",
+        "answer": "turn down your electric guitar"
       },
       {
         "id": "E031",
         "prompt": "How long has Alice been Tony’s girlfriend?",
         "keyword": "out",
-        "answer": "How long has Alice been going out with Tony?"
+        "prefix": "How long has",
+        "answer": "Alice been going out with Tony?"
       },
       {
         "id": "E032",
         "prompt": "When was the last time you heard from Nigel?",
         "keyword": "contact",
-        "answer": "When was the last time you were in contact with Nigel?"
+        "prefix": "When was the last time",
+        "answer": "you were in contact with Nigel?"
       },
       {
         "id": "E033",
         "prompt": "Let me just make a note of your phone number.",
         "keyword": "write",
-        "answer": "Let me just write down your phone number"
+        "prefix": "Let me just",
+        "answer": "write down your phone number"
       },
       {
         "id": "E034",
         "prompt": "Do you think going to university in another country is a good idea?",
         "keyword": "favor",
-        "answer": "Are you in favor of going to university in another country?"
+        "prefix": "Are you in",
+        "answer": "favor of going to university in another country?"
       },
       {
         "id": "E035",
         "prompt": "The exam started at nine and we wrote for three hours until twelve.",
         "keyword": "writing",
-        "answer": "When the exam finished at twelve, we had been writing for three hours."
+        "prefix": "When the exam finished at twelve,",
+        "answer": "we had been writing for three hours."
       },
       {
         "id": "E036",
         "prompt": "Why don’t you start to run and see if that helps you lose weight?",
         "keyword": "up",
-        "answer": "Why don’t you take up running and see if that helps you lose weight?"
+        "prefix": "Why don’t you",
+        "answer": "take up running and see if that helps you lose weight?"
       },
       {
         "id": "E037",
         "prompt": "I did German lessons until last year, but I stopped because I didn’t have time.",
         "keyword": "used",
-        "answer": "I used to do German lessons until last year, but I stopped because I didn't have time."
+        "prefix": "I used to do",
+        "answer": "German lessons until last year, but I stopped because I didn't have time."
       },
       {
         "id": "E038",
         "prompt": "When you make a mistake, put a line through it and write the correct answer above.",
         "keyword": "cross",
-        "answer": "When you make a mistake, cross it out and write the correct answer above."
+        "prefix": "When you make",
+        "answer": "a mistake, cross it out and write the correct answer above."
       },
       {
         "id": "E039",
         "prompt": "Have you played Monopoly before?",
         "keyword": "time",
-        "answer": "Is this the first time you have played Monopoly."
+        "prefix": "Is this the",
+        "answer": "first time you have played Monopoly."
       },
       {
         "id": "E040",
         "prompt": "I started studying at six and now it’s ten o’clock.",
         "keyword": "for",
-        "answer": "It’s ten o’clock and I have been studying for four hours."
+        "prefix": "It’s ten o’clock and",
+        "answer": "I have been studying for four hours."
       },
       {
         "id": "E041",
         "prompt": "- “I’m sorry I broke your glasses, Paul,” said Stacy.",
         "keyword": "apologised",
-        "answer": "Stacy apologised to Paul for breaking his glasses."
+        "prefix": "Stacy",
+        "answer": "apologised to Paul for breaking his glasses."
       },
       {
         "id": "E042",
         "prompt": "When I’m an adult, I want to be a pop star!",
         "keyword": "up",
-        "answer": "When I grow up, I want to be a pop star!"
+        "prefix": "When I",
+        "answer": "grow up, I want to be a pop star!"
       },
       {
         "id": "E043",
         "prompt": "Let’s leave at seven o’clock tomorrow morning.",
         "keyword": "set",
-        "answer": "Let’s set off at seven o'clock tomorrow morning."
+        "prefix": "Let’s",
+        "answer": "set off at seven o'clock tomorrow morning."
       },
       {
         "id": "E044",
         "prompt": "You’ve really disappointed me, Rachel.",
         "keyword": "down",
-        "answer": "You’ve really let me down, Rachel."
+        "prefix": "You’ve really",
+        "answer": "let me down, Rachel."
       },
       {
         "id": "E045",
         "prompt": "They gave me a map of the town center.",
         "keyword": "provided",
-        "answer": "They provided me with a map of the town center."
+        "prefix": "They",
+        "answer": "provided me with a map of the town center."
       },
       {
         "id": "E046",
         "prompt": "Hurry up or we’ll miss the plane!",
         "keyword": "late",
-        "answer": "Hurry up or we’ll be late for the plane!"
+        "prefix": "Hurry up or we’ll",
+        "answer": "be late for the plane!"
       },
       {
         "id": "E047",
         "prompt": "Did you really go into town by yourself, Sam?",
         "keyword": "own",
-        "answer": "Did you really go into town on your own, Sam?"
+        "prefix": "Did you really go",
+        "answer": "into town on your own, Sam?"
       },
       {
         "id": "E048",
         "prompt": "I don’t really like traveling.",
         "keyword": "fond",
-        "answer": "I’m not fond of traveling."
+        "prefix": "I’m not",
+        "answer": "fond of traveling."
       },
       {
         "id": "E049",
         "prompt": "You need to stop the engine and then check to see if there’s any oil on the ground.",
         "keyword": "turn",
-        "answer": "You need to turn off the engine and then check to see if there’s any oil on the"
+        "prefix": "You need to",
+        "answer": "turn off the engine and then check to see if there’s any oil on the"
       },
       {
         "id": "E050",
         "prompt": "Before the aeroplane was invented, people told stories about flying machines.",
         "keyword": "made",
-        "answer": "Before the aeroplane was invented, people made up stories about flying machines."
+        "prefix": "Before the aeroplane was invented,",
+        "answer": "people made up stories about flying machines."
       },
       {
         "id": "E051",
         "prompt": "Don’t just put your batteries in the bin – recycle them!",
         "keyword": "away",
-        "answer": "Don’t just throw your batteries away recycle them!"
+        "prefix": "Don’t just",
+        "answer": "throw your batteries away recycle them!"
       },
       {
         "id": "E052",
         "prompt": "It took a long time for scientists to discover what stars are made of.",
         "keyword": "find",
-        "answer": "It took a long time for scientists to find out what stars are made of."
+        "prefix": "It took a long time for scientists",
+        "answer": "to find out what stars are made of."
       },
       {
         "id": "E053",
         "prompt": "I found some old coins in a drawer while I was looking for a pen.",
         "keyword": "across",
-        "answer": "I came across some old coins in a drawer while I was looking for a pen."
+        "prefix": "I came",
+        "answer": "across some old coins in a drawer while I was looking for a pen."
       },
       {
         "id": "E054",
         "prompt": "If your watch doesn’t work, return it to the shop.",
         "keyword": "back",
-        "answer": "If your watch doesn’t work, take it back to the shop."
+        "prefix": "If your watch doesn’t work,",
+        "answer": "take it back to the shop."
       },
       {
         "id": "E055",
         "prompt": "Our car stopped working last weekend, and I don’t know why.",
         "keyword": "down",
-        "answer": "Our car broke down last weekend and I don’t know why."
+        "prefix": "Our car",
+        "answer": "broke down last weekend and I don’t know why."
       },
       {
         "id": "E056",
         "prompt": "Did you give Mark the money you borrowed from him?",
         "keyword": "pay",
-        "answer": "Did you pay Mark back the money Mark lent you?"
+        "prefix": "Did you",
+        "answer": "pay Mark back the money Mark lent you?"
       },
       {
         "id": "E057",
         "prompt": "The magazine is published every Friday.",
         "keyword": "out",
-        "answer": "The magazine comes out every Friday."
+        "prefix": "The magazine",
+        "answer": "comes out every Friday."
       },
       {
         "id": "E058",
         "prompt": "Could you complete this application form, please?",
         "keyword": "in",
-        "answer": "Could you fill in this application form, please?"
+        "prefix": "Could you",
+        "answer": "fill in this application form, please?"
       },
       {
         "id": "E059",
         "prompt": "I am writing with regard to your advertisement for a part-time shop assistant.",
         "keyword": "response",
-        "answer": "I am writing in response to your advertisement for a part-time shop assistant."
+        "prefix": "I am writing",
+        "answer": "in response to your advertisement for a part-time shop assistant."
       }
     ]
   },

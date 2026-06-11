@@ -312,13 +312,25 @@ function parseSectionE() {
     const qNo = Number(m[1]);
     const prompt = stripMd(m[2]);
     const keyword = stripMd(m[3]);
-    const answer = stripMd(m[4]).replace(/^→\s*/, "").trim();
+    const rawAns = m[4].replace(/^→\s*/, "").trim();
+    const firstBoldIdx = rawAns.indexOf("**");
+    let prefix = "";
+    let finalAnswer = "";
+
+    if (firstBoldIdx !== -1) {
+      prefix = stripMd(rawAns.slice(0, firstBoldIdx)).trim();
+      finalAnswer = stripMd(rawAns.slice(firstBoldIdx)).trim();
+    } else {
+      prefix = "";
+      finalAnswer = stripMd(rawAns).trim();
+    }
 
     out.push({
       id: `E${String(qNo).padStart(3, "0")}`,
       prompt,
       keyword,
-      answer
+      prefix,
+      answer: finalAnswer
     });
   }
 
