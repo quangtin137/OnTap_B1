@@ -13,14 +13,55 @@ let questionCursor = 1;
 let examState = null;
 
 const examRoot = document.getElementById("examRoot");
-const resultRoot = document.getElementById("resultRoot");
 const summaryRoot = document.getElementById("examSummary");
 const datasetStatus = document.getElementById("datasetStatus");
 const btnGenerate = document.getElementById("btnGenerate");
-const btnSubmit = document.getElementById("btnSubmit");
 
 btnGenerate.addEventListener("click", initExam);
-btnSubmit.addEventListener("click", submitExam);
+
+examRoot.addEventListener("change", (e) => {
+  const node = e.target.closest(".question");
+  if (!node) return;
+
+  const type = node.dataset.type;
+  const answer = node.dataset.answer;
+
+  let userValue = "";
+  let isCorrect = false;
+
+  if (type === "mcq" || type === "tf") {
+    if (e.target.type !== "radio") return;
+    userValue = e.target.value;
+    isCorrect = userValue === answer;
+  } else if (type === "text") {
+    if (e.target.tagName !== "INPUT" || e.target.type !== "text") return;
+    userValue = e.target.value;
+    isCorrect = normalizeText(userValue) === normalizeText(answer);
+  }
+
+  let correctAnswerText = answer;
+  if (type === "mcq" || type === "tf") {
+    const correctInput = node.querySelector(`input[value="${answer}"]`);
+    if (correctInput && correctInput.parentElement) {
+      correctAnswerText = correctInput.parentElement.textContent.trim();
+    }
+  }
+
+  let existingResult = node.querySelector(".immediate-result");
+  if (!existingResult) {
+    existingResult = document.createElement("div");
+    existingResult.className = "immediate-result";
+    node.appendChild(existingResult);
+  }
+
+  if (isCorrect) {
+    existingResult.innerHTML = `<span class="good">✔ Đúng!</span>`;
+    existingResult.style.borderLeftColor = "var(--ok)";
+  } else {
+    existingResult.innerHTML = `<span class="bad">✘ Sai. Đáp án đúng: ${escapeHtml(correctAnswerText)}</span>`;
+    existingResult.style.borderLeftColor = "var(--bad)";
+  }
+});
 
 initExam();
 
@@ -30,8 +71,6 @@ async function initExam() {
     examState = buildExam(bank);
     renderSummary(bank);
     renderExam(examState);
-    resultRoot.classList.add("hidden");
-    btnSubmit.disabled = false;
   } catch (error) {
     examRoot.innerHTML = `<p class="bad">Không thể tải dữ liệu: ${escapeHtml(error.message)}</p>`;
   }
@@ -261,70 +300,7 @@ function renderTrueFalse(texts, parent) {
   parent.appendChild(block);
 }
 
-function submitExam() {
-  const nodes = Array.from(document.querySelectorAll(".question"));
-  const review = [];
-  let correct = 0;
 
-  nodes.forEach((node) => {
-    const type = node.dataset.type;
-    const key = node.dataset.key;
-    const qn = node.dataset.qn;
-    const answer = node.dataset.answer;
-
-    let userValue = "";
-    let isCorrect = false;
-
-    if (type === "mcq" || type === "tf") {
-      const checked = node.querySelector("input:checked");
-      userValue = checked ? checked.value : "";
-      isCorrect = userValue === answer;
-    } else if (type === "text") {
-      const input = node.querySelector("input");
-      userValue = input ? input.value : "";
-      isCorrect = normalizeText(userValue) === normalizeText(answer);
-    }
-
-    if (isCorrect) {
-      correct += 1;
-      return;
-    }
-
-    review.push({
-      qn,
-      key,
-      correctAnswer: answer,
-      yourAnswer: userValue || "(blank)"
-    });
-  });
-
-  const total = nodes.length;
-  const pct = Math.round((correct / total) * 100);
-
-  resultRoot.classList.remove("hidden");
-  resultRoot.innerHTML = `
-    <h3>Kết quả</h3>
-    <p class="${pct >= 70 ? "good" : "bad"}">Điểm: ${correct}/${total} (${pct}%)</p>
-    <p class="meta">Sai ${review.length} câu. Lưu ý: phần text currently chấm theo exact-match (đã normalize cơ bản).</p>
-    <div>${review
-      .map(
-        (r) => `<div class="review-item"><b>Câu ${r.qn}</b> (${escapeHtml(r.key)})<br/>Bạn chọn: ${escapeHtml(
-          r.yourAnswer
-        )}<br/>Đáp án đúng: ${escapeHtml(r.correctAnswer)}</div>`
-      )
-      .join("")}</div>
-  `;
-
-  localStorage.setItem(
-    "ontap_b1_last_result",
-    JSON.stringify({
-      at: new Date().toISOString(),
-      score: correct,
-      total,
-      pct
-    })
-  );
-}
 
 function sectionBlock(title) {
   const block = document.createElement("section");
