@@ -12,7 +12,7 @@
       "G": 4,
       "H": 4
     },
-    "generatedAt": "2026-06-11T13:00:41.820Z"
+    "generatedAt": "2026-06-11T13:26:33.270Z"
   },
   "A": {
     "vocabularyGrammar": [
@@ -2575,6 +2575,7 @@
       {
         "id": "F_1",
         "title": "TEXT 23: Listen carefully and fill the missing words in the blanks.",
+        "audio": "audio/Text 23.mp3",
         "text": "I BOUGHT IT ON EBAY!\nLinda\nThe first time I used eBay I bought a stove! It’s for the kitchen in my new house. I was amazed, because it was so easy. And it was cheap, too! I bought an (1) stove for only $200, and I went to get it yesterday. It looks (2) in my new kitchen. I think eBay’s a brilliant idea. I’m going to buy a (3) next!\nMegan\nOooh! Don’t talk to me about eBay! It’s a real problem for me – I like it too much. (4)\narrive every day, usually with shoes. I just love buying shoes on eBay. Yesterday a beautiful pair of green (5) arrived. They only cost $5. Can you believe it? My husband says he gets worried every time he sees the (6) – but you can’t have too many shoes, can you?\nCharlie\nI can’t believe it! I’m so (7) ! I bought a car on eBay, and it was a big mistake. I’ve bought (8) of other things on eBay, and it usually works very well. And I heard that a car sells every two (9) on eBay, and the sellers are usually very good. So, I paid $2,000 for an old Volvo, and I went to get it last week. But on the way home the car broke down. A (10) told me it was worth less half the price I paid. Now I don’t know what to do. But I’m not going to use eBay again for a while.",
         "blanks": [
           {
@@ -2632,6 +2633,7 @@
       {
         "id": "F_2",
         "title": "TEXT 26: Listen carefully and fill the missing words in the blanks.",
+        "audio": "audio/Text 26.mp3",
         "text": "LEAVING HOME – IAN MITCHELL\nMy daughter Evie is living in New York now. She went there (1) months ago, and I’m really worried about her. She says she’s having a great time, but she’s still only (2) , and I just think New York’s such a (3) place for a young woman. Sheshouldn’t live so far away from home. Her mother went with her to help her look for somewhere to live. But I didn’t go. I don’t like New York. I don’t like big cities.\nWhy did she have to go there, anyway? I don’t understand. She says she wants to be a dancer, and she’s taking some kind of class, a ballet class or (4) . But ballet isn’t a real job, and you don’t make much money being a dancer, do you? She’s a smart girl. I think she should go to (5) .\nShe’s living in an (6) there in New York by herself – she’s on her own, and I don’t like that at all! (7) , she has a boyfriend. We’ve never met him – Michael, I think his name is. He doesn’t have a job. But Evie works hard, though. She works on the weekends as a (8) in a restaurant. I just hope it’s a nice place.\nShe calls home sometimes, but not a lot, and we call her, but usually her cell phone’s turned off or she doesn’t answer. When I do (9) to talk to her, she just tells us that we should get a (10) so she can text us. She says we shouldn’t worry. How can we not worry? We’re her parents, we miss her, and of course we worry. Sometimes I can’t sleep at night. She really should come home more often.",
         "blanks": [
           {
@@ -2689,6 +2691,7 @@
       {
         "id": "F_3",
         "title": "TEXT 29: Listen carefully and fill the missing words in the blanks.",
+        "audio": "audio/Text 29.mp3",
         "text": "AT A CROSSROADS IN LIFE\nAndy\nI just got some bad news about my job. I’m going to be laid (1) in three months. It’s such a shock! I’ve worked for the same computer company for twelve years. I need to think what to do next. Actually, I’ve always dreamed of (2) to Australia. So, I might try that! I have a friend in Melbourne, and I’m sure he would help me to find a job there. But if I went to Australia, my parents would be so sad. And they wouldn’t be able to visit me very much. It’s so expensive. So, I would have to find a really good job, so that I could come home a lot, or pay for them to visit me. That might not be easy.\nAnother thing I might do is start my own business, using my (3) pay. What if I started a computer (4) company? People are always having problems with their computers. If I did that, I’d have to work really hard in the beginning. It wouldn’t be easy, but I would enjoy it, I think.\nLucy\nI’m so surprised! My boyfriend just asked me to marry him! It was (5) , because I couldn’t give him an answer right away. You see. I really love my boyfriend, and I think I want to marry him sometime, but not yet.\nHe wants us to get married next June. That’s only nine months away. I think it might be better to wait. If we got married in June, we’d have to save all our money for the wedding and a house. But I don’t want to do that. I want us to enjoy (6) while we’re young. I want to go away and travel. I’d like to learn how to ride a horse and how to (7) . Oh, there’s a lot of things I want to do. If we waited a little while, we could do all those things. If I got married now, I might feel trapped. That would be terrible. But what if I told him I didn’t want to marry him yet? Would he understand? He might not, and I don’t want to lose him. I do want to marry him. I just want to put the wedding off for a while. That’s all.\nMaureen\nWell, my husband died three months ago, and I have to decide what to do next. He was sick for a long time, so it wasn’t a shock. But we were married for 41 years, and I can’t (8) life without him. I don’t think I want to live in this house anymore. Anyway, it’s so big for just one person. So, I might sell it and move to an apartment. I’d feel safer if I lived in an apartment, because there would be other people around. I think it might be hard living on my own.\nOr my daughter says I can live with her and her family. So, I might do that, but I’m not sure. I love my daughter and my grandchildren very much. But if I lived with them, I wouldn’t feel (9) anymore. And I’m still young – I’m only 68! I’m healthy with (10) of friends. There’s lots I can still do with my life, I’m sure. I just need to keep busy.",
         "blanks": [
           {
@@ -2750,6 +2753,7 @@
       {
         "id": "G_TEXT_1",
         "title": "TEXT 41: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "audio": "audio/Text 41.mp3",
         "questions": [
           {
             "id": "G1Q1",
@@ -2806,6 +2810,7 @@
       {
         "id": "G_TEXT_2",
         "title": "TEXT 42: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "audio": "audio/Text 42.mp3",
         "questions": [
           {
             "id": "G2Q1",
@@ -2862,6 +2867,7 @@
       {
         "id": "G_TEXT_3",
         "title": "TEXT 47: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "audio": "audio/Text 47.mp3",
         "questions": [
           {
             "id": "G3Q1",
@@ -2918,6 +2924,7 @@
       {
         "id": "G_TEXT_4",
         "title": "TEXT 48: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "audio": "audio/Text 48.mp3",
         "questions": [
           {
             "id": "G4Q1",
@@ -2978,6 +2985,7 @@
       {
         "id": "H_TEXT_1",
         "title": "TEXT 53: Listen and decide if the following statements are True (T) or False (F).",
+        "audio": "audio/Text 53.mp3",
         "statements": [
           {
             "id": "H1S1",
@@ -3009,6 +3017,7 @@
       {
         "id": "H_TEXT_2",
         "title": "TEXT 59: Listen and decide if the following statements are True (T) or False (F).",
+        "audio": "audio/Text 59.mp3",
         "statements": [
           {
             "id": "H2S1",
@@ -3040,6 +3049,7 @@
       {
         "id": "H_TEXT_3",
         "title": "TEXT 61: Listen to Jessie and decide if the following statements are True (T) or False (F).",
+        "audio": "audio/Text 61.mp3",
         "statements": [
           {
             "id": "H3S1",
@@ -3071,6 +3081,7 @@
       {
         "id": "H_TEXT_4",
         "title": "TEXT 66: Listen and decide if the following statements are True (T) or False (F).",
+        "audio": "audio/Text 66.mp3",
         "statements": [
           {
             "id": "H4S1",

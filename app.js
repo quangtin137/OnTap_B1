@@ -242,6 +242,7 @@ function renderFillBlanks(fill, parent) {
   block.insertAdjacentHTML(
     "beforeend",
     `<p class="meta">${escapeHtml(fill.title)}</p>
+     ${fill.audio ? `<audio controls src="${fill.audio}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
      <div class="passage">${renderPassage(fill.text)}</div>`
   );
 
@@ -263,7 +264,11 @@ function renderChooseABC(texts, parent) {
   const block = sectionBlock("Phần 3G - Listening Choose ABC");
 
   texts.forEach((text) => {
-    block.insertAdjacentHTML("beforeend", `<p class="meta">${escapeHtml(text.title)}</p>`);
+    block.insertAdjacentHTML(
+      "beforeend",
+      `<p class="meta">${escapeHtml(text.title)}</p>
+       ${text.audio ? `<audio controls src="${text.audio}" style="width: 100%; margin: 10px 0 20px 0; border-radius: 8px;"></audio>` : ""}`
+    );
     text.questions.forEach((q) => {
       const qn = nextQn();
       block.insertAdjacentHTML(
@@ -285,7 +290,11 @@ function renderTrueFalse(texts, parent) {
   const block = sectionBlock("Phần 3H - Listening True/False");
 
   texts.forEach((text) => {
-    block.insertAdjacentHTML("beforeend", `<p class="meta">${escapeHtml(text.title)}</p>`);
+    block.insertAdjacentHTML(
+      "beforeend",
+      `<p class="meta">${escapeHtml(text.title)}</p>
+       ${text.audio ? `<audio controls src="${text.audio}" style="width: 100%; margin: 10px 0 20px 0; border-radius: 8px;"></audio>` : ""}`
+    );
     text.statements.forEach((s) => {
       const qn = nextQn();
       block.insertAdjacentHTML(

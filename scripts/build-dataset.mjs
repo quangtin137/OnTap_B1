@@ -42,6 +42,19 @@ function stripMd(text) {
     .trim();
 }
 
+// getAudioPath helper
+function getAudioPath(title) {
+  const m = title.match(/TEXT\s*(\d+)/i);
+  if (m) {
+    const filename = `Text ${m[1]}.mp3`;
+    const audioPath = path.join(repoRoot, "audio", filename);
+    if (fs.existsSync(audioPath)) {
+      return `audio/${filename}`;
+    }
+  }
+  return null;
+}
+
 // Join passage lines preserving paragraph breaks (blank lines → "\n").
 function buildPassageText(rawLines) {
   const paras = [];
@@ -409,6 +422,7 @@ function parseSectionF() {
     out.push({
       id: `F_${out.length + 1}`,
       title,
+      audio: getAudioPath(title),
       text: buildPassageText(rawTextLines),
       blanks: deduped
         .sort((a, b) => a.blankNo - b.blankNo)
@@ -499,6 +513,7 @@ function parseSectionG() {
       out.push({
         id: `G_TEXT_${out.length + 1}`,
         title,
+        audio: getAudioPath(title),
         questions: questions.slice(0, 5)
       });
     }
@@ -552,6 +567,7 @@ function parseSectionH() {
       out.push({
         id: `H_TEXT_${out.length + 1}`,
         title,
+        audio: getAudioPath(title),
         statements: statements.slice(0, 5)
       });
     }
