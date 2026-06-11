@@ -1,0 +1,3044 @@
+{
+  "meta": {
+    "source": "Generated from File_on_tap_B1_13.06.2026.md",
+    "note": "Full pool dataset: A100 B40 C4 D4 E29 F3 G4 H4. All sections generated from source markdown.",
+    "poolCounts": {
+      "A": 100,
+      "B": 40,
+      "C": 4,
+      "D": 4,
+      "E": 30,
+      "F": 3,
+      "G": 4,
+      "H": 4
+    },
+    "generatedAt": "2026-06-11T11:24:12.427Z"
+  },
+  "A": {
+    "vocabularyGrammar": [
+      {
+        "id": "A001",
+        "question": "Tim ______ the news, while his son was playing computer games.",
+        "options": [
+          "is watching",
+          "watches",
+          "was watching",
+          "watching"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A002",
+        "question": "Lenny ______ his old house two months ago.",
+        "options": [
+          "were selling",
+          "sells",
+          "is selling",
+          "sold"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A003",
+        "question": "He didn’t meet Joe and Alf, because they left ______ than they usually do.",
+        "options": [
+          "early",
+          "earlier",
+          "earliest",
+          "the earliest"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A004",
+        "question": "______ you finish your report on time?",
+        "options": [
+          "Was",
+          "Are",
+          "Did",
+          "Were"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A005",
+        "question": "I was resting all day yesterday, because I was ______ tired.",
+        "options": [
+          "terrible",
+          "most terrible",
+          "terribly",
+          "more terribly"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A006",
+        "question": "Robert was crossing the street when he ______ Fred riding a motorcycle.",
+        "options": [
+          "saw",
+          "was seeing",
+          "seeing",
+          "is seeing"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A007",
+        "question": "This artist is ______ famous of all three that you mentioned.",
+        "options": [
+          "the less",
+          "least",
+          "less",
+          "the least"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A008",
+        "question": "That’s the boy ______ father is our teacher.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "that"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A009",
+        "question": "Can you tell me ______ to put these boxes?",
+        "options": [
+          "where",
+          "when",
+          "which",
+          "who"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A010",
+        "question": "Mark, ______ is only twenty, teaches French.",
+        "options": [
+          "which",
+          "who",
+          "when",
+          "whose"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A011",
+        "question": "My doctor advised me to ______ a sport.",
+        "options": [
+          "take off",
+          "take after",
+          "take up",
+          "take on"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A012",
+        "question": "I can’t believe that they ______ your offer.",
+        "options": [
+          "turned on",
+          "turned off",
+          "turned out",
+          "turned down"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A013",
+        "question": "When I suggested a walk in the woods, he ______ .",
+        "options": [
+          "credited",
+          "nodded",
+          "raised",
+          "shook"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A014",
+        "question": "After his mother’s ______ , he moved to Argentina.",
+        "options": [
+          "death",
+          "strength",
+          "power",
+          "impression"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A015",
+        "question": "It was really ______ that nobody was hurt in that accident.",
+        "options": [
+          "strong",
+          "powerful",
+          "incredible",
+          "truthful"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A016",
+        "question": "Both my children are afraid ______ the dark.",
+        "options": [
+          "of",
+          "for",
+          "on",
+          "with"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A017",
+        "question": "They did everything in their ______ to keep the company.",
+        "options": [
+          "truth",
+          "strength",
+          "impression",
+          "power"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A018",
+        "question": "I bought a leather bag that ______ my new boots.",
+        "options": [
+          "match",
+          "matches",
+          "suits",
+          "suit"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A019",
+        "question": "Both her children have a very vivid ______ .",
+        "options": [
+          "description",
+          "impression",
+          "admiration",
+          "imagination"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A020",
+        "question": "I’ve got the ______ that they’re lying again.",
+        "options": [
+          "impression",
+          "admiration",
+          "imagination",
+          "description"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A021",
+        "question": "Teddy ______ of moving closer to the city centre.",
+        "options": [
+          "thinks",
+          "is thinking",
+          "don’t think",
+          "aren’t thinking"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A022",
+        "question": "We ______ giving you a lift home.",
+        "options": [
+          "don’t mind",
+          "aren’t minding",
+          "doesn’t mind",
+          "isn’t minding"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A023",
+        "question": "The Potters ______ to Dubai at 9:00 tomorrow morning.",
+        "options": [
+          "is flying",
+          "don’t fly",
+          "doesn’t fly",
+          "are flying"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A024",
+        "question": "______ is your favorite European city?",
+        "options": [
+          "When",
+          "How",
+          "Which",
+          "Who"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A025",
+        "question": "______ much do they charge for a single room with breakfast?",
+        "options": [
+          "How",
+          "Who",
+          "What",
+          "Where"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A026",
+        "question": "______ is your brother talking to?",
+        "options": [
+          "When",
+          "Who",
+          "Whose",
+          "How"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A027",
+        "question": "The teacher ______ believe his excuse for not coming to school yesterday.",
+        "options": [
+          "didn’t",
+          "don’t",
+          "used to not",
+          "use to"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A028",
+        "question": "Bobby ______ skinny when he was a child.",
+        "options": [
+          "was used to",
+          "were",
+          "used to be",
+          "got used"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A029",
+        "question": "I ______ to contact Mr. Peterson twice, but didn’t find him.",
+        "options": [
+          "tried",
+          "tries",
+          "used to try",
+          "try"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A030",
+        "question": "After a couple of days, Sam finally ______ up early in the morning.",
+        "options": [
+          "used to wake",
+          "get used to wake",
+          "wake",
+          "got used to waking"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A031",
+        "question": "It took him a month to recover ______ his illness.",
+        "options": [
+          "for",
+          "from",
+          "of",
+          "at"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A032",
+        "question": "The book exhibition took ______ at the Carlton Hotel.",
+        "options": [
+          "part",
+          "advantage",
+          "it easy",
+          "place"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A033",
+        "question": "I didn’t ______ Jason to come on time.",
+        "options": [
+          "expect",
+          "remember",
+          "wait",
+          "reminded"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A034",
+        "question": "I’m sorry but I can’t find it ______ the map.",
+        "options": [
+          "over",
+          "on",
+          "between",
+          "along"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A035",
+        "question": "They spent the whole day in Alexandria looking at the ______ .",
+        "options": [
+          "tasks",
+          "part",
+          "jobs",
+          "sights"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A036",
+        "question": "He was lucky to find that ______ in their law firm.",
+        "options": [
+          "job",
+          "work",
+          "site",
+          "task"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A037",
+        "question": "I think that these trainers belong ______ your brother.",
+        "options": [
+          "on",
+          "in",
+          "to",
+          "at"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A038",
+        "question": "They usually take ______ of what I tell them.",
+        "options": [
+          "their time",
+          "part",
+          "place",
+          "no notice"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A039",
+        "question": "We never argue ______ our teacher.",
+        "options": [
+          "with",
+          "at",
+          "on",
+          "from"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A040",
+        "question": "This dish is very healthy because it consists ______ fish and vegetables.",
+        "options": [
+          "on",
+          "of",
+          "at",
+          "with"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A041",
+        "question": "At this time tomorrow, Gerry ______ his driving test.",
+        "options": [
+          "shall take",
+          "going to take",
+          "shall have taken",
+          "will be taking"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A042",
+        "question": "Henry ______ a shower as soon as he finishes cleaning his room.",
+        "options": [
+          "will have had",
+          "will have",
+          "have",
+          "is having"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A043",
+        "question": "Will you ______ painting the house by tomorrow?",
+        "options": [
+          "finished",
+          "going to fish",
+          "have finished",
+          "finishing"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A044",
+        "question": "Those cars are going really fast. There ______ an accident.",
+        "options": [
+          "is",
+          "will have been",
+          "is going to be",
+          "going to be"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A045",
+        "question": "They could take better pictures if they ______ a digital camera.",
+        "options": [
+          "would have",
+          "will have",
+          "had",
+          "are going to have"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A046",
+        "question": "If I ______ by the sea, I would go fishing every day.",
+        "options": [
+          "lived",
+          "would live",
+          "live",
+          "will be living"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A047",
+        "question": "Could I have ______ more apple juice, please?",
+        "options": [
+          "no",
+          "some",
+          "any",
+          "many"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A048",
+        "question": "I can’t drink this tea. There’s too ______ sugar in it.",
+        "options": [
+          "much",
+          "plenty",
+          "many",
+          "lot of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A049",
+        "question": "How ______ teachers were there at the seminar yesterday?",
+        "options": [
+          "some",
+          "many",
+          "any",
+          "much"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A050",
+        "question": "Don’t leave. There are ______ more things I want to tell you.",
+        "options": [
+          "few",
+          "any",
+          "little",
+          "a few"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A051",
+        "question": "He finished my portrait yesterday, but he’s putting ______ at the moment.",
+        "options": [
+          "it mildly",
+          "the final touches",
+          "ideas into my head",
+          "an end to"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A052",
+        "question": "Do you think you could put ______ with the head teacher?",
+        "options": [
+          "an end to",
+          "it mildly",
+          "the final touches",
+          "in a good word for me"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A053",
+        "question": "I finally ______ trying to make him change his mind.",
+        "options": [
+          "gave up",
+          "gave out",
+          "gave back",
+          "gave off"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A054",
+        "question": "They told me to ______ these leaflets.",
+        "options": [
+          "give off",
+          "give out",
+          "give up",
+          "give in to"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A055",
+        "question": "They ______ the meeting because the chairman had to leave.",
+        "options": [
+          "showed off",
+          "paid off",
+          "got off",
+          "put off"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A056",
+        "question": "Andy loves ______ his brand-new sports car.",
+        "options": [
+          "giving off",
+          "putting off",
+          "showing off",
+          "cooling off"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A057",
+        "question": "I broke my leg as I was ______ the bus yesterday morning.",
+        "options": [
+          "cooling off",
+          "giving off",
+          "paying off",
+          "getting off"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A058",
+        "question": "According ______ Ned, that’s the best Chinese restaurant in the city.",
+        "options": [
+          "of",
+          "in",
+          "at",
+          "to"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A059",
+        "question": "Unfortunately, he didn’t succeed ______ getting the job after all.",
+        "options": [
+          "in",
+          "on",
+          "for",
+          "at"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A060",
+        "question": "Matt worked so hard that he finally made ______ .",
+        "options": [
+          "haste",
+          "it to the top",
+          "the most of",
+          "difficult"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A061",
+        "question": "The Carltons have never ______ Denmark before.",
+        "options": [
+          "been to",
+          "gone to",
+          "gone in",
+          "been at"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A062",
+        "question": "Have you ______ thought of studying abroad?",
+        "options": [
+          "since",
+          "before",
+          "never",
+          "ever"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A063",
+        "question": "Danny ______ tennis since he was a child.",
+        "options": [
+          "played",
+          "plays",
+          "been playing",
+          "has been playing"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A064",
+        "question": "It has been raining heavily ______ our plane took off two hours ago.",
+        "options": [
+          "while",
+          "already",
+          "since",
+          "still"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A065",
+        "question": "Mr. Marfin ______ go on business trips very often.",
+        "options": [
+          "need",
+          "needs",
+          "doesn’t have",
+          "has to"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A066",
+        "question": "We can’t meet Jack today. We ______ to work overtime.",
+        "options": [
+          "have",
+          "must",
+          "had better",
+          "would rather"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A067",
+        "question": "I’d ______ join you for dinner than stay at home.",
+        "options": [
+          "rather",
+          "had better",
+          "need",
+          "must"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A068",
+        "question": "Luckily, we ______ wait for them. We can leave right now.",
+        "options": [
+          "don’t have",
+          "don’t need",
+          "needn’t",
+          "not have to"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A069",
+        "question": "She ______ still be at home. I talked to her on the phone a couple of minutes ago.",
+        "options": [
+          "has to",
+          "better",
+          "must",
+          "needs"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A070",
+        "question": "I ______ see an optician. I can’t see very clearly lately.",
+        "options": [
+          "would rather",
+          "may not",
+          "might not",
+          "had better"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A071",
+        "question": "My brother came ______ the flu last week and hasn’t recovered yet.",
+        "options": [
+          "across",
+          "apart",
+          "up with",
+          "down with"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A072",
+        "question": "Why don’t you ask Felix? He always comes ______ great ideas.",
+        "options": [
+          "off",
+          "up with",
+          "down with",
+          "apart"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A073",
+        "question": "They haven’t cleaned their attic ______ .",
+        "options": [
+          "for ages",
+          "in the future",
+          "in common",
+          "out of the ordinary"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A074",
+        "question": "I really had no intention ______ insulting your father.",
+        "options": [
+          "of",
+          "for",
+          "on",
+          "at"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A075",
+        "question": "They aren’t interested ______ buying Steve’s country house.",
+        "options": [
+          "to",
+          "on",
+          "in",
+          "for"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A076",
+        "question": "We must ______ into consideration everything he said.",
+        "options": [
+          "regard",
+          "give",
+          "think",
+          "take"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A077",
+        "question": "We’re looking ______ seeing our grandparents.",
+        "options": [
+          "after",
+          "out",
+          "over",
+          "forward to"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A078",
+        "question": "Brad ______ his best to please his guests yesterday evening.",
+        "options": [
+          "took",
+          "did",
+          "brought",
+          "made"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A079",
+        "question": "Eating more fruit and vegetables will do you ______ .",
+        "options": [
+          "badly",
+          "well",
+          "good",
+          "best"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A080",
+        "question": "I’m afraid that the new sales representative doesn’t ______ the manager.",
+        "options": [
+          "get by",
+          "get through",
+          "get across",
+          "get on well with"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A081",
+        "question": "I could ______ killed if the driver hadn't stopped quickly.",
+        "options": [
+          "have",
+          "have been",
+          "to have",
+          "to have been"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A082",
+        "question": "If the meat ______ so tough, the children would have eaten it.",
+        "options": [
+          "hadn’t been",
+          "hasn’t been",
+          "wouldn’t be",
+          "wouldn’t have been"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A083",
+        "question": "If you hadn't helped me, I ______ finished on time.",
+        "options": [
+          "didn’t",
+          "wouldn’t",
+          "wouldn’t be",
+          "wouldn’t have"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A084",
+        "question": "He wouldn't have believed me if he ______ it with his own eyes.",
+        "options": [
+          "haven’t seen",
+          "wouldn’t see",
+          "hadn’t seen",
+          "hadn’t been seen"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A085",
+        "question": "I wish I ______ answer all his questions.",
+        "options": [
+          "can",
+          "could",
+          "had",
+          "have to"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A086",
+        "question": "If only the fire brigade ______ earlier.",
+        "options": [
+          "arrives",
+          "has arrived",
+          "was arriving",
+          "had arrived"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A087",
+        "question": "He wishes he ______ so many mistakes.",
+        "options": [
+          "made",
+          "hadn’t made",
+          "hasn’t made",
+          "had made"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A088",
+        "question": "______ these two books have the information I need.",
+        "options": [
+          "None",
+          "Not any",
+          "Neither of",
+          "Not of"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A089",
+        "question": "______ Ian and Gerry took part in the competition.",
+        "options": [
+          "Both",
+          "Either",
+          "Neither",
+          "All"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A090",
+        "question": "______ four of my friends have their own computer.",
+        "options": [
+          "None",
+          "All",
+          "Either",
+          "Both"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A091",
+        "question": "I thought I knew him very well, but it would never have gone that he would decide to live abroad.",
+        "options": [
+          "wild",
+          "red",
+          "bananas",
+          "through my mind"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A092",
+        "question": "Liam and Ken have checked it. I'm sure nothing can ______ .",
+        "options": [
+          "go wrong",
+          "go wild",
+          "go red",
+          "go over the top"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A093",
+        "question": "Dean is very shy. He always goes ______ when somebody talks to him.",
+        "options": [
+          "bad",
+          "red",
+          "wrong",
+          "through his mind"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A094",
+        "question": "It's very hot in here. Don't leave the fish out of the fridge because it will ______ .",
+        "options": [
+          "go wild",
+          "go bananas",
+          "go bad",
+          "go over the top"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A095",
+        "question": "At ______ , you’ve got your own bedroom now that you moved house.",
+        "options": [
+          "last",
+          "late",
+          "lately",
+          "later"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "A096",
+        "question": "I've noticed that Helen hasn't been feeling very well ______ .",
+        "options": [
+          "latest",
+          "later",
+          "late",
+          "lately"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A097",
+        "question": "I try not to have dinner ______ at night.",
+        "options": [
+          "last",
+          "late",
+          "latest",
+          "least"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "A098",
+        "question": "You could at ______ phone me to let me know that you wouldn't come.",
+        "options": [
+          "later",
+          "late",
+          "least",
+          "latest"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "A099",
+        "question": "I can't stand him anymore; I'm going to put things straight ______ .",
+        "options": [
+          "all over",
+          "at all",
+          "all the same",
+          "once and for all"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "A100",
+        "question": "______ , his comments on their behaviour seemed fair.",
+        "options": [
+          "All over",
+          "All in all",
+          "At all",
+          "All year round"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  },
+  "B": {
+    "signs": [
+      {
+        "id": "B001",
+        "image": "images/image_004_spd2m_image1.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Always keep this door open.",
+          "Do not park in front of this entrance.",
+          "Permission is needed to park here.",
+          "Only use this entrance in an emergency."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B002",
+        "image": "images/image_005_spd2m_image2.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Drinks cannot be ordered at the bar.",
+          "Use this machine when the bar is closed.",
+          "There is a drinks machine in the bar.",
+          "This machine is not working at the moment."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B003",
+        "image": "images/image_006_spd2m_image3.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "The librarian needs to see your books before you go.",
+          "Make sure you take all your books with you.",
+          "Return your books before you leave the library.",
+          "The librarian will show you where to put your books."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B004",
+        "image": "images/image_007_spd2m_image4.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "This room cannot be used at present.",
+          "This door must always be kept locked.",
+          "Lock the room when it is not being used.",
+          "Keep the key to this door in the room."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B005",
+        "image": "images/image_008_spd2m_image5.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Supersaver tickets can be used every day except Fridays.",
+          "You need a special ticket to travel on a Friday.",
+          "Supersaver tickets cannot be bought before the weekend.",
+          "You can save money by traveling on a Friday."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B006",
+        "image": "images/image_003_spd2m_image6.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Do not forget to put your luggage outside your room.",
+          "Keep the corridor clear of luggage.",
+          "Bags left in the corridor will be removed.",
+          "Bags will be collected from the corridor."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B007",
+        "image": "images/image_009_spd2m_image7.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Wait upstairs to see the nurse.",
+          "Go upstairs to make an appointment with the nurse.",
+          "The nurse will tell you when it is your turn.",
+          "The nurse can only see patients with appointments."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B008",
+        "image": "images/image_010_spd2m_image8.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Do not touch the fruit before paying for it.",
+          "Damaged fruit must be paid for.",
+          "Self-service fruit is cheaper.",
+          "Choose your fruit and then pay for it."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B009",
+        "image": "images/image_011_spd2m_image9.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Please be quiet while people are taking their examination.",
+          "Do not talk to the examiner.",
+          "Do not speak during the examination.",
+          "The examiner will tell you when you can talk."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B010",
+        "image": "images/image_012_spd2m_image10.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Bring your computer here for repairs.",
+          "We will not mend computers bought from other shops.",
+          "We charge to repair computers not bought here.",
+          "Computers bought here never need repairing."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B011",
+        "image": "images/image_013_spd2m_image11.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "The entrance to the bank is through the library.",
+          "The travel agency has moved its entrance.",
+          "The library is now a travel agency.",
+          "The travel agency is no longer open."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B012",
+        "image": "images/image_014_spd2m_image12.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "This list shows who has been chosen to go on the trip.",
+          "This list should be signed by people wanting to go on the trip.",
+          "Check the list for information if you are going on the trip.",
+          "If you find your name on this list, you can go on the trip."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B013",
+        "image": "images/image_015_spd2m_image13.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "The new ticket office is now open.",
+          "There will be two ticket offices after 17 September.",
+          "This ticket office will be closed for one day.",
+          "This ticket office will be closed on 16 September."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B014",
+        "image": "images/image_016_spd2m_image14.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "If you spend less than £10, you cannot pay by credit card.",
+          "We prefer cash for large sales.",
+          "We make a charge if you pay by credit card.",
+          "If you spend more than £ 10, you must pay by credit card."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B015",
+        "image": "images/image_017_spd2m_image15.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Dogs must wait outside.",
+          "Dogs must walk with their owners.",
+          "Dogs must be kept on a chain.",
+          "Dogs must be held."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B016",
+        "image": "images/image_018_spd2m_image16.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Everything is cheaper this week.",
+          "No extra charges next week.",
+          "Usual prices this week.",
+          "Cheaper prices next week."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B017",
+        "image": "images/image_019_spd2m_image17.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "You can send your groceries from here.",
+          "You can store your groceries here.",
+          "You can get your free groceries here.",
+          "You can have your groceries sent to you."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B018",
+        "image": "images/image_020_spd2m_image18.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Cleaning now costs twice as much.",
+          "Cleaning costs are now cheaper.",
+          "Cleaning costs are going up.",
+          "Cleaning costs will stay the same."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B019",
+        "image": "images/image_021_spd2m_image19.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "You must pay to park here.",
+          "If you use the train you can park here.",
+          "This space is for railway officials.",
+          "No one is allowed to park here."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B020",
+        "image": "images/image_022_spd2m_image20.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "You can buy your ticket during the journey.",
+          "You pay when you get off.",
+          "You have to book a seat before traveling.",
+          "You have to buy a ticket before your journey."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B021",
+        "image": "images/image_023_spd2m_image21.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Passengers are allowed to change their seats.",
+          "Passengers are allowed to eat snacks on the bus.",
+          "Passengers can make noise on the bus.",
+          "Passengers have to follow the bus rules."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B022",
+        "image": "images/image_024_spd2m_image22.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Knock the door if you want to enter when it does not often.",
+          "Open the door when you want to enter.",
+          "You are not allowed to enter when the door does not open.",
+          "You are not allowed to enter if the door is open."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B023",
+        "image": "images/image_025_spd2m_image23.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "It’s unsafe to go ahead because the area is flooding.",
+          "You will be drown if you turn around.",
+          "You should go ahead if you want to avoid flooding area.",
+          "If you can swim, you can go ahead."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B024",
+        "image": "images/image_026_spd2m_image24.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "This is dogs’ play area.",
+          "Children can play with dogs in this area.",
+          "Dogs are not allowed to enter this area.",
+          "People can take their dogs with them in this area."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B025",
+        "image": "images/image_027_spd2m_image25.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "People must wear long sleeve shirt and trousers in this area.",
+          "People must wear casual clothes in this area except long sleeve shirt and trousers.",
+          "People have to wear formal clothes in this area except long sleeve shirt and trousers.",
+          "Long sleeve shirt and trousers should be worn in this area."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B026",
+        "image": "images/image_028_spd2m_image26.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Pay attention to the kids when you are playing.",
+          "You have to slow down your speed and be careful when you are driving in this area.",
+          "You are not allowed to drive in this area.",
+          "Driving is prohibited in this area."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B027",
+        "image": "images/image_029_spd2m_image27.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "This area is for smoking only.",
+          "This area is for eating only.",
+          "This area is for drinking only.",
+          "You are not allowed to smoke, eat and drink in this area."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B028",
+        "image": "images/image_030_spd2m_image28.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Only adults are permitted to drink alcohol on this site.",
+          "People under 18 are not allowed to drink alcohol on this site.",
+          "No one can drink alcohol on this site.",
+          "You are permitted to buy alcohol on this site."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B029",
+        "image": "images/image_031_spd2m_image29.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "People will give you a free drive when they see this sign.",
+          "Drivers won’t stop when you want to hitchhike here.",
+          "You are allowed to hitchhike when you see this sign.",
+          "Hitch hiking is accepted here."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B030",
+        "image": "images/image_032_spd2m_image30.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Parents and visitors are free to enter the school.",
+          "Visitors have to sign in at the office to enter the school.",
+          "Parents don’t have to sign in at the office to enter the school.",
+          "All parents and visitors have to sign in to receive a pass at the office in order to enter the school."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B031",
+        "image": "images/image_033_spd2m_image31.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Students can use their cell phones outside the school campus.",
+          "Students are allowed to use cell phones in the school campus.",
+          "Students have to submit their cell phones at the school gate before they enter the school campus.",
+          "Parents should keep their children’s cell phones before their children enter the school."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B032",
+        "image": "images/image_034_spd2m_image32.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "There is no parking left in this area.",
+          "This parking zone is used only for buses.",
+          "Bus drivers are not allowed to stop here.",
+          "This parking zone is used only for loading goods."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B033",
+        "image": "images/image_035_spd2m_image33.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "It won’t hurt if you are falling down.",
+          "This area of work is safe.",
+          "You will be in danger of falling if you don’t work at a safe distance and don’t use safety belt.",
+          "You don’t need to use a safety belt when you work on this"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B034",
+        "image": "images/image_036_spd2m_image34.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Drivers can park in this area after 6 PM on Saturday and Sunday.",
+          "Parking time in this area is from 7 AM to 6 PM Monday to Friday.",
+          "Drivers are allowed to park their cars in this area before 7 AM and after 6 PM.",
+          "Parking is not allowed in this area from 7AM to 6 PM Monday through Friday."
+        ],
+        "answerIndex": 3
+      },
+      {
+        "id": "B035",
+        "image": "images/image_037_spd2m_image35.jpeg",
+        "question": "What does this sign mean?",
+        "options": [
+          "Avoid smoking and naked lights because this area is highly flammable.",
+          "This is a non-smoker area.",
+          "Naked lights aren’t allowed to be used in this area.",
+          "Smokers should use naked lights to light their cigarettes in this area."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B036",
+        "image": "images/image_002_spd2m_image36.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "We cannot deliver papers over the weekend.",
+          "We plan to stop delivering papers five days from now.",
+          "You must tell us five days early if you don’t want papers.",
+          "Please tell us if you don’t want papers at the weekend."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B037",
+        "image": "images/image_038_spd2m_image37.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Accident patients are not admitted here.",
+          "The emergency department is closed.",
+          "This hospital only accepts accident patients.",
+          "Contact this hospital in an emergency."
+        ],
+        "answerIndex": 0
+      },
+      {
+        "id": "B038",
+        "image": "images/image_039_spd2m_image38.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Family tickets save time.",
+          "Family tickets save money.",
+          "Family tickets may be more expensive.",
+          "Family tickets have gone down in price."
+        ],
+        "answerIndex": 1
+      },
+      {
+        "id": "B039",
+        "image": "images/image_040_spd2m_image39.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "Many people don’t want a motorway.",
+          "Building the motorway starts today.",
+          "People are going to talk about building a motorway.",
+          "Everyone travelling on the motorway should meet here."
+        ],
+        "answerIndex": 2
+      },
+      {
+        "id": "B040",
+        "image": "images/image_001_spd2m_image40.png",
+        "question": "What does this sign mean?",
+        "options": [
+          "You cannot bring your luggage into the dining room.",
+          "You must look after your things yourself.",
+          "You should give your things to the manager.",
+          "You should lock things in your suitcase."
+        ],
+        "answerIndex": 1
+      }
+    ]
+  },
+  "C": {
+    "readingPassages": [
+      {
+        "id": "C_TEXT4",
+        "title": "TEXT 4 - CROSS-COUNTRY SKIING IN SWEDEN",
+        "passage": "CROSS-COUNTRY SKIING IN SWEDEN\n\nby Jenna Walton, aged 15\n\nLast year, Mum and I wanted to try a winter sport called cross-country skiing – travelling on skis across the countryside. And pictures of one area in Sweden, with people skiing along through forests on wonderful white snow, persuaded us that destination was a good choice. We hadn’t done much skiing, though, so weren’t sure how difficult cross-country skiing was, compared with skiing fast down steep mountains. But we signed up to join a group of people, of all ages, plus a guide.\n\nWe'd read about the place we went to before we left, so we knew it was close to where Sweden ends and Norway starts. And our family knew we couldn't text home, as there was no internet connection - and actually, it was relaxing to be far from anywhere, or anyone. What we hadn't realised was that from there, we'd be able to see amazing colored lights in the sky, which appeared at certain times of year, called the Northern Lights - what a sight!\n\nOn our first day there, I hated getting up in the dark, but it meant I saw the sun come up over the forest, so I was glad I did. And sunshine was forecast for the week, I was delighted to hear! But the real problem was my 15kg rucksack, full of food and clothes - I had no idea it would weigh that much. Anyway, we skied for hours across mainly flat snow. Having special light skis was supposed to help us climb the few hills there were - although I still couldn't do it!\n\nFinally, we stopped for the night. It wasn't until we'd reached our hut that our guide mentioned we'd just crossed a frozen lake to get there - but nothing surprised us by that point! Anyway, he gave us all jobs to do - cutting firewood and cooking food - and soon we were having dinner, made from whatever food we'd brought - a strange mix, but it tasted delicious. And everywhere was so peaceful outside that none of us stayed awake long.\n\nMum and I want to try another winter sports trip, maybe snowboarding. But we'll probably end up just as exhausted as we were after this trip!\n\nJenna and her mum decided to go cross-country skiing in Sweden because\n\nthey wanted a change from mountain skiing holidays. they'd heard the sport would be easier than skiing down hills. they'd met a group of people who wanted to go, too. they found a place there that they were keen to visit.\n\nAfter their arrival, what did they discover about where they were staying?\n\nIt wasn't far from the border with another country. They could get great views of a spectacular natural event.\n\nIt was at a point where they couldn't use technology. They weren't near local people or their homes. How did Jenna feel about the long trips through the snow on skis?\n\nsurprised she had to carry such a heavy bag\n\npleased about the weight of the skis she was given glad that going uphill wasn't as hard as she'd thought worried the good weather they were having wouldn't last Regarding their accommodation, Jenna says everyone\n\nhad difficulties getting to sleep there. was unhappy at the quality of the food. had to help out with all the housework.\n\nwas shocked to hear details of their journey there. What would Jenna text to a friend about her trip?\n\nOne reason we chose this trip was that we thought we'd be among loads of trees, which we love - but that hasn't happened so far. The people in our group were really friendly - but they were all Mum's age and older, really. I'm not used to getting out of bed so early to do things! But it was worth it, as the sunrise was wonderful.\n\nMum and I have agreed that although the trip was great, we might attempt something less tiring on our next winter holiday.",
+        "questions": [
+          {
+            "id": "C_TEXT4_Q1",
+            "question": "Jenna and her mum decided to go cross-country skiing in Sweden because",
+            "options": [
+              "they wanted a change from mountain skiing holidays.",
+              "they'd heard the sport would be easier than skiing down hills.",
+              "they'd met a group of people who wanted to go, too.",
+              "they found a place there that they were keen to visit."
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "C_TEXT4_Q2",
+            "question": "After their arrival, what did they discover about where they were staying?",
+            "options": [
+              "It wasn't far from the border with another country.",
+              "They could get great views of a spectacular natural event.",
+              "It was at a point where they couldn't use technology.",
+              "They weren't near local people or their homes."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C_TEXT4_Q3",
+            "question": "How did Jenna feel about the long trips through the snow on skis?",
+            "options": [
+              "surprised she had to carry such a heavy bag",
+              "pleased about the weight of the skis she was given",
+              "glad that going uphill wasn't as hard as she'd thought",
+              "worried the good weather they were having wouldn't last"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "C_TEXT4_Q4",
+            "question": "Regarding their accommodation, Jenna says everyone",
+            "options": [
+              "had difficulties getting to sleep there.",
+              "was unhappy at the quality of the food.",
+              "had to help out with all the housework.",
+              "was shocked to hear details of their journey there."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "C_TEXT4_Q5",
+            "question": "What would Jenna text to a friend about her trip?",
+            "options": [
+              "One reason we chose this trip was that we thought we'd be among loads of trees, which we love - but that hasn't happened so far.",
+              "The people in our group were really friendly - but they were all Mum's age and older, really.",
+              "I'm not used to getting out of bed so early to do things! But it was worth it, as the sunrise was wonderful.",
+              "Mum and I have agreed that although the trip was great, we might attempt something less tiring on our next winter holiday."
+            ],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": "C_TEXT6",
+        "title": "TEXT 6 - WHALE-WATCHING TRIP",
+        "passage": "WHALE-WATCHING TRIP\n\nby Jack Madison, 15\n\nA while ago, my friend Olivia was telling me about a whale-watching trip she'd been on, in Canada. I wanted to tell her I was about to do the same thing, off the north coast of the UK, where my grandparents live. Whales had recently appeared there again, and my grandparents were convinced we'd see some - so I was sure my trip would be as good as Olivia's! But then I saw some reviews of the trip my dad had booked for us, when no- one had seen any whales at all. So, in the end, I decided not to tell Olivia anything about my trip, in case it wasn't successful!\n\nAnyway, Dad and I set off on our trip - which was Dad's idea - and it was fantastic! Travelling out to sea on the tour boat with our guide, we soon reached the spot where whales often appeared. Then we waited - and nothing happened. I was sure this wouldn't last, though. People kept calling out they'd seen one, which was exciting – but then it turned out they were wrong. Then finally I saw something move under the water - a minke whale! So I felt like a hero for the rest of the trip!\n\nThe whale was a wonderful sight, with its huge back not far from the boat. Our guide said it was around five tonnes in weight and around 10 metres long. Yet, despite its size, it swam alongside us at speed, and with little effort. We waited to see if more appeared, and some time later, we saw three more some distance away, that kept diving under the water and coming up again. Then just after I'd filmed them, they disappeared.\n\nAlthough the water's less deep around the coast, larger whale species appear in the area with minke whales, feeding on fish. But minkes are curious creatures, so they're more likely to approach tourist boats - which was why we were successful! Then later, up on the cliffs, we looked out to sea, searching for signs of whales. Sometimes seabirds diving into the water means whales are around, as they're stealing the whales' meal. We were unlucky, sadly – but we'll be back!\n\nJack wasn't keen to mention his whale-watching trip to Olivia because\n\nhe thought her trip sounded a lot more exciting. he'd read some negative reports about where he was going.\n\nhe wasn't sure if his dad had definitely arranged it. he didn't know whether she was very interested in whales. On board the whale-watching boat, Jack\n\nwas proud to be the first person to see a whale.\n\nbegan to worry that they might all be disappointed. tried not to get excited when anyone saw something. was glad he'd persuaded his dad to come with him. When Jack saw the minke whale, he was\n\nsurprised at how close it came to the boat. amazed that it was so much bigger than he'd imagined. impressed that it moved through the water so easily.\n\ndelighted to see it had arrived with several others. Jack suggests minke whales appeared in the same area as the boat because\n\nthey knew there were plenty of fish there. they were attracted by the arrival of the visitors.\n\nthey didn't have to compete for food with seabirds. they preferred how deep the water was there. What would Jack text to his grandparents about the whales?\n\nI'll send you my video of the group of whales - they only appeared briefly, so they weren't as interesting as the first one we saw. Dad said he'd really wanted to go to Canada to watch whales, like my friend Olivia - but now we’re really happy we came here. I must take you up to the cliffs to look for whales – we’ve seen them every time we’ve been there, so far. You were so sure our whale-watching trip would be a success, while I still had doubts – but you were right.",
+        "questions": [
+          {
+            "id": "C_TEXT6_Q1",
+            "question": "Jack wasn't keen to mention his whale-watching trip to Olivia because",
+            "options": [
+              "he thought her trip sounded a lot more exciting.",
+              "he'd read some negative reports about where he was going.",
+              "he wasn't sure if his dad had definitely arranged it.",
+              "he didn't know whether she was very interested in whales."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C_TEXT6_Q2",
+            "question": "On board the whale-watching boat, Jack",
+            "options": [
+              "was proud to be the first person to see a whale.",
+              "began to worry that they might all be disappointed.",
+              "tried not to get excited when anyone saw something.",
+              "was glad he'd persuaded his dad to come with him."
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "C_TEXT6_Q3",
+            "question": "When Jack saw the minke whale, he was",
+            "options": [
+              "surprised at how close it came to the boat.",
+              "amazed that it was so much bigger than he'd imagined.",
+              "impressed that it moved through the water so easily.",
+              "delighted to see it had arrived with several others."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "C_TEXT6_Q4",
+            "question": "Jack suggests minke whales appeared in the same area as the boat because",
+            "options": [
+              "they knew there were plenty of fish there.",
+              "they were attracted by the arrival of the visitors.",
+              "they didn't have to compete for food with seabirds.",
+              "they preferred how deep the water was there."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C_TEXT6_Q5",
+            "question": "What would Jack text to his grandparents about the whales?",
+            "options": [
+              "I'll send you my video of the group of whales - they only appeared briefly, so they weren't as interesting as the first one we saw.",
+              "Dad said he'd really wanted to go to Canada to watch whales, like my friend Olivia - but now we're really happy we came here.",
+              "I must take you up to the cliffs to look for whales – we've seen them every time we've been there, so far.",
+              "You were so sure our whale-watching trip would be a success, while I still had doubts – but you were right."
+            ],
+            "answerIndex": 3
+          }
+        ]
+      },
+      {
+        "id": "C_TEXT8",
+        "title": "TEXT 8 - MY NEW HOBBY - GARDENING",
+        "passage": "MY NEW HOBBY - GARDENING\n\nby Beth Collins\n\nA garden is much more than just creating a beautiful environment. It can be a way to save or even make money and, more than that, it can be a place where you can express yourself. For me it's a bit of all these things. I know it may sound strange for a 13-year-old to be interested in gardening but I always have been and I would love to make a career out of it.\n\nI have learned many things these past few years I have been reading about and doing some gardening. So, here is my top advice about gardening. First, you do not need to spend a lot of money to have a beautiful garden. Some of the gardens I think are the prettiest are just lines of plants. There aren't many garden decorations and pathways. It's just beautiful plants loaded with fruits and vegetables. We can also find many useful things for free, from pieces of old wood, to old pots and pans. Or, we can build things for free from materials that other people have thrown away.\n\nIf you just remember that planting way more than you need will take the stress away of losing some plants, you will save yourself a lot of worry, too.\n\nYou need to ask yourself, which plants produce enough food to make them worth growing. I actually sat down and did the maths on that one this spring. It amazed me what some plants were worth. A tomato, for example, can produce £50-£150 worth of fruit. It takes up a lot of space but that's a lot of money coming out of a 50p seed! So if I had known sooner what each plant could save us, I would have told my parents to fill our garden with different plants.\n\nAnd finally, gardening doesn't have to be all or nothing. But then I guess that's more of a personality weakness than anything. I struggle with doing things a little at a time. Once I decide to do something, I usually devote every waking hour to it for a little while and then get tired. So it's okay to just have one tomato plant, and it's okay to have an off year. It will save you a lot of stress.\n\nBeth wants to express\n\nhow designing your own garden should be hard work. how gardens can mean different things to different people\n\nthe importance of selling flowers to make money. how gardeners have the best job when it comes to profit. How does Beth describe her perfect garden?\n\nA. decorativeB. colorfulC. simpleD. complicated\n\nWhat advice does Beth give to future gardeners?\n\nspend lots of money to make your garden perfect use what you can find around you\n\nrefuse to spend any money on your garden ask other gardeners to help you How does Beth feel about gardening?\n\nShe wants to grow everything she eats. She hasn't learned from her mistakes. She needs to work harder in her garden. She has learned plenty of useful tips.\n\nWhat would Beth text her friend about gardening?\n\nI'm so excited about my new hobby; it's not only fun but I hope I'll make money out of it one day.\n\nGardening is so hard; you have to spend a lot of money and it's stressful, too. I'm now spending lots of time watching my parents do the gardening and it looks great. Gardening needs lots of skills and money but it's certainly worth it. I love it.",
+        "questions": [
+          {
+            "id": "C8Q1",
+            "question": "What does Beth want to express about gardens?",
+            "options": [
+              "How designing your own garden should be hard work.",
+              "How gardens can mean different things to different people.",
+              "The importance of selling flowers to make money.",
+              "How gardeners have the best job when it comes to profit."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C8Q2",
+            "question": "How does Beth describe her perfect garden?",
+            "options": [
+              "Decorative",
+              "Colorful",
+              "Simple",
+              "Complicated"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "C8Q3",
+            "question": "What advice does Beth give to future gardeners?",
+            "options": [
+              "Spend lots of money to make your garden perfect.",
+              "Use what you can find around you.",
+              "Refuse to spend any money on your garden.",
+              "Ask other gardeners to help you."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C8Q4",
+            "question": "How does Beth feel about gardening?",
+            "options": [
+              "She wants to grow everything she eats.",
+              "She hasn't learned from her mistakes.",
+              "She needs to work harder in her garden.",
+              "She has learned plenty of useful tips."
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "C8Q5",
+            "question": "What would Beth text her friend about gardening?",
+            "options": [
+              "I'm so excited about my new hobby; it's not only fun but I hope I'll make money out of it one day.",
+              "Gardening is so hard; you have to spend a lot of money and it's stressful, too.",
+              "I'm now spending lots of time watching my parents do the gardening and it looks great.",
+              "Gardening needs lots of skills and money but it's certainly worth it."
+            ],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "C_TEXT25",
+        "title": "TEXT 25 - STEVE CUMMINS: STARTING HIS OWN BUSINESS",
+        "passage": "STEVE CUMMINS TALKS ABOUT STARTING HIS OWN BUSINESS\n\nI'd worked for the company for almost ten years. They were good employers and the money wasn't that bad. They trusted in my ability and always left me to get on with my work. And I shared an office and met some lovely people, so I certainly wasn't unhappy there. But I just couldn't stop wondering how better my life would be if I had my own business and could make my own decisions. And so one year ago this week I left my job.\n\nWe don't have a spare room at home, so the kitchen table has been my office. It was difficult to begin with, but I soon got used to working in this way. I started by visiting small businesses in the area to see if I could interest them in my services. My proudest moment was making my first sale, a website for a local cake shop. Soon after, I started getting calls from other people asking for help with websites of their own and I found myself getting quite busy.\n\nOf course, there have been challenges. I'm not earning quite as much as before but it's enough. I don't have to pay for transport to work anymore so that means I'm not spending quite so much. My biggest problem has been managing my time. There's no boss to tell me what to do and I'm sometimes a little lazy. I have this rule that work stops on a Friday afternoon so I can spend time with the family at weekends, so I need to pay more attention to this.\n\nSo, I wouldn't say it's been easy, but I don't regret my decision at all. I've enjoyed being my own boss and I'm quite hopeful about the future. During the next 12 months, I plan to rent some office space as I'd like to be able to separate work from my home life. I'm going to need to earn more money to pay for it but I think it will help me to focus on my work.\n\nWhy did Steve leave his job?\n\nHe didn't like attending meetings. He wanted more control of his work.\n\nHe had a great idea for a product. He wanted to earn more money. Steve’s greatest pleasure so far has been\n\ngetting his first customer.\n\nnot having to drive to work. having his own office. not having to answer the telephone. What does Steve say is the most difficult about working for himself?\n\nworking hard enough\n\nnot having a regular salary feeling lonely working at the weekend In the next year, Steve thinks\n\nhe will get an office job. He will earn less money. he might not need to work in his kitchen\n\nthere will be much more competition. What would be a good introduction to this article?\n\nIn this article, Steve Cummins explains the problems of starting your own business and dealing with difficult customers. Thinking of starting your own business? Steve Cummins did just that and now wishes he had done it sooner. Steve Cummins made a big decision last year to leave his job. Read on to find out about the ups and downs of being your own boss.\n\nSteve Cummins explains below how he dealt with not enjoying his job by leaving his employer and starting his own business.",
+        "questions": [
+          {
+            "id": "C25Q1",
+            "question": "Why did Steve leave his job?",
+            "options": [
+              "He didn't like attending meetings.",
+              "He wanted more control of his work.",
+              "He had a great idea for a product.",
+              "He wanted to earn more money."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "C25Q2",
+            "question": "What has been Steve's greatest pleasure so far?",
+            "options": [
+              "Getting his first customer.",
+              "Not having to drive to work.",
+              "Having his own office.",
+              "Not having to answer the telephone."
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "C25Q3",
+            "question": "What does Steve say is the most difficult about working for himself?",
+            "options": [
+              "Working hard enough.",
+              "Not having a regular salary.",
+              "Feeling lonely.",
+              "Working at the weekend."
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "C25Q4",
+            "question": "In the next year, Steve thinks",
+            "options": [
+              "he will get an office job.",
+              "He will earn less money.",
+              "he might not need to work in his kitchen.",
+              "there will be much more competition."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "C25Q5",
+            "question": "What would be a good introduction to this article?",
+            "options": [
+              "In this article, Steve Cummins explains the problems of starting your own business and dealing with difficult customers.",
+              "Thinking of starting your own business? Steve Cummins did just that and now wishes he had done it sooner.",
+              "Steve Cummins made a big decision last year to leave his job. Read on to find out about the ups and downs of being your own boss.",
+              "Steve Cummins explains below how he dealt with not enjoying his job by leaving his employer and starting his own business."
+            ],
+            "answerIndex": 2
+          }
+        ]
+      }
+    ]
+  },
+  "D": {
+    "clozeTexts": [
+      {
+        "id": "D_1",
+        "title": "TEXT",
+        "text": "The village of Jukkasjarvi is in Swedish Lapland, and winter temperatures there can reach -40℃. But 6,000 holidaymakers (1) go there annually, to visit what is probably Europe's most unusual accommodation. In this hotel you eat, drink, and sleep in rooms made (2) ice. If you want, you can (3) get married in one. The bar is nice too, and putting hot drinks on it is obviously not (4) ! The bedrooms are around -4° C, but fortunately guests are (5) with special sleeping bags that will keep (6) warm in the coldest of temperatures. (7) outdoor clothes can be supplied too, if needed.\nThe hotel is never more than six months old (8) it melts in summer and (9) winter it is rebuilt. Creating the hotel (10) 10,000 tonnes of ice, plus 30,000 tonnes of snow.",
+        "blanks": [
+          {
+            "id": "TEXT_B1",
+            "blankNo": 1,
+            "options": [
+              "therefore",
+              "ever",
+              "also",
+              "still"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B2",
+            "blankNo": 2,
+            "options": [
+              "by",
+              "of",
+              "within",
+              "for"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B3",
+            "blankNo": 3,
+            "options": [
+              "even",
+              "however",
+              "already",
+              "yet"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B4",
+            "blankNo": 4,
+            "options": [
+              "supported",
+              "recognised",
+              "recommended",
+              "agreed"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B5",
+            "blankNo": 5,
+            "options": [
+              "given",
+              "offered",
+              "provided",
+              "delivered"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B6",
+            "blankNo": 6,
+            "options": [
+              "these",
+              "those",
+              "they",
+              "them"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B7",
+            "blankNo": 7,
+            "options": [
+              "Suitable",
+              "Convenient",
+              "Acceptable",
+              "Satisfactory"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B8",
+            "blankNo": 8,
+            "options": [
+              "although",
+              "because",
+              "so",
+              "while"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B9",
+            "blankNo": 9,
+            "options": [
+              "other",
+              "any",
+              "each",
+              "another"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B10",
+            "blankNo": 10,
+            "options": [
+              "brings",
+              "puts",
+              "fetches",
+              "takes"
+            ],
+            "answerIndex": 3
+          }
+        ]
+      },
+      {
+        "id": "D_2",
+        "title": "TEXT",
+        "text": "The Atacama Desert in Chile is known as the driest place on Earth. It is almost 1,000 kilometers (1) length, lying between the Pacific Ocean and the Andes mountains. Under a centimeter of rain (2) annually, and the center is so dry (3) scientists have never recorded (4) rain there.\nOver a million people (5) live in the Atacama today. Most live on the coast, which is also home to teams of astronomers who are there to (6) advantage of the clear skies. In the north, farmers grow tomatoes with water they have collected from underground rocks. However, for (7) who have their farms on higher ground, the water comes from melting snow.\nPeople generally seem to (8) knowledge about what the desert has to offer, but in (9) , there is plenty to do – from seeing the amazing natural sights to playing golf, one of the more recent activities (10) tourists to the region.",
+        "blanks": [
+          {
+            "id": "TEXT_B1",
+            "blankNo": 1,
+            "options": [
+              "by",
+              "at",
+              "to",
+              "in"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B2",
+            "blankNo": 2,
+            "options": [
+              "pours",
+              "falls",
+              "sinks",
+              "lowers"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B3",
+            "blankNo": 3,
+            "options": [
+              "as",
+              "that",
+              "when",
+              "than"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B4",
+            "blankNo": 4,
+            "options": [
+              "any",
+              "no",
+              "some",
+              "little"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B5",
+            "blankNo": 5,
+            "options": [
+              "totally",
+              "exactly",
+              "actually",
+              "finally"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B6",
+            "blankNo": 6,
+            "options": [
+              "have",
+              "make",
+              "get",
+              "take"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B7",
+            "blankNo": 7,
+            "options": [
+              "those",
+              "these",
+              "them",
+              "they"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B8",
+            "blankNo": 8,
+            "options": [
+              "fail",
+              "lose",
+              "miss",
+              "lack"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B9",
+            "blankNo": 9,
+            "options": [
+              "case",
+              "turn",
+              "fact",
+              "time"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B10",
+            "blankNo": 10,
+            "options": [
+              "arriving",
+              "attracting",
+              "approaching",
+              "arranging"
+            ],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "D_3",
+        "title": "TEXT",
+        "text": "Horses have been valuable to humans for thousands of years. Because there are several different (1) of horses such as coldbloods, which are large but gentle, or hotbloods that are (2) for their running ability, there are horses for every purpose. We use them for transport as (3) as for physical work, for example (4) farm machinery. It’s now also very (5) to see horses used in sports.\nHorses need food and water in large (6) . A horse can drink (7) twenty and forty liters of water a day, and around a kilo of food for (8) fifty kilos of its body weight. Horses need to be out in the fields, as grass is part of their diet.\nThey can live for (9) 25 years, so their owners need to give them (10) of love and attention – but horses always give lots back.",
+        "blanks": [
+          {
+            "id": "TEXT_B1",
+            "blankNo": 1,
+            "options": [
+              "makes",
+              "style",
+              "marks",
+              "sorts"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B2",
+            "blankNo": 2,
+            "options": [
+              "known",
+              "noticed",
+              "familiar",
+              "realized"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B3",
+            "blankNo": 3,
+            "options": [
+              "long",
+              "far",
+              "well",
+              "soon"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B4",
+            "blankNo": 4,
+            "options": [
+              "going",
+              "pulling",
+              "taking",
+              "doing"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B5",
+            "blankNo": 5,
+            "options": [
+              "obvious",
+              "clear",
+              "common",
+              "regular"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B6",
+            "blankNo": 6,
+            "options": [
+              "totals",
+              "sums",
+              "taking",
+              "amount"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B7",
+            "blankNo": 7,
+            "options": [
+              "from",
+              "between",
+              "about",
+              "beyond"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B8",
+            "blankNo": 8,
+            "options": [
+              "both",
+              "any",
+              "every",
+              "all"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B9",
+            "blankNo": 9,
+            "options": [
+              "after",
+              "through",
+              "over",
+              "towards"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B10",
+            "blankNo": 10,
+            "options": [
+              "plenty",
+              "more",
+              "full",
+              "enough"
+            ],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "D_4",
+        "title": "TEXT",
+        "text": "Modern technology is changing and improving all the time. Every month, scientists (1) new gadgets and (2) to help us with our daily lives, and (3) ways to make existing technology faster and better. Our homes are full of hardware (such as DVD players and computers) and (4) (such as computer games and MP3s).\n(5) suggests, however, that it’s young people who are best able to deal with this change. Whereas teenagers have no problem (6) a DVD player, their mums and dads and grandparents often find using new technology (7) and difficult.\nBut if you’re a teenager who criticises your parents for their (8) of technological awareness, don’t be too hard on them! Some time (9) the future, when you’ve got children of your own, your ability to deal with new technology will probably (10) and your children will feel more comfortable with new technology than you do. You won’t want them to criticise you, will you?",
+        "blanks": [
+          {
+            "id": "TEXT_B1",
+            "blankNo": 1,
+            "options": [
+              "estimate",
+              "invent",
+              "involve",
+              "experiment"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B2",
+            "blankNo": 2,
+            "options": [
+              "experiments",
+              "effects",
+              "laboratories",
+              "equipment"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B3",
+            "blankNo": 3,
+            "options": [
+              "involve",
+              "discover",
+              "decrease",
+              "connect"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B4",
+            "blankNo": 4,
+            "options": [
+              "screens",
+              "gadgets",
+              "software",
+              "laptops"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "TEXT_B5",
+            "blankNo": 5,
+            "options": [
+              "Research",
+              "Experiment",
+              "Program",
+              "Technology"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "TEXT_B6",
+            "blankNo": 6,
+            "options": [
+              "involving",
+              "operating",
+              "discovering",
+              "inventing"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B7",
+            "blankNo": 7,
+            "options": [
+              "automatic",
+              "unique",
+              "sudden",
+              "complicated"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B8",
+            "blankNo": 8,
+            "options": [
+              "research",
+              "experiment",
+              "effect",
+              "lack"
+            ],
+            "answerIndex": 3
+          },
+          {
+            "id": "TEXT_B9",
+            "blankNo": 9,
+            "options": [
+              "to",
+              "in",
+              "on",
+              "at"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "TEXT_B10",
+            "blankNo": 10,
+            "options": [
+              "decrease",
+              "involve",
+              "lack",
+              "estimate"
+            ],
+            "answerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  "E": {
+    "sentenceTransformation": [
+      {
+        "id": "E030",
+        "prompt": "Please play your electric guitar more quietly!",
+        "keyword": "down",
+        "answer": "Please turn down your electric guitar"
+      },
+      {
+        "id": "E031",
+        "prompt": "How long has Alice been Tony’s girlfriend?",
+        "keyword": "out",
+        "answer": "How long has Alice been going out with Tony?"
+      },
+      {
+        "id": "E032",
+        "prompt": "When was the last time you heard from Nigel?",
+        "keyword": "contact",
+        "answer": "When was the last time you were in contact with Nigel?"
+      },
+      {
+        "id": "E033",
+        "prompt": "Let me just make a note of your phone number.",
+        "keyword": "write",
+        "answer": "Let me just write down your phone number"
+      },
+      {
+        "id": "E034",
+        "prompt": "Do you think going to university in another country is a good idea?",
+        "keyword": "favor",
+        "answer": "Are you in favor of going to university in another country?"
+      },
+      {
+        "id": "E035",
+        "prompt": "The exam started at nine and we wrote for three hours until twelve.",
+        "keyword": "writing",
+        "answer": "When the exam finished at twelve, we had been writing for three hours."
+      },
+      {
+        "id": "E036",
+        "prompt": "Why don’t you start to run and see if that helps you lose weight?",
+        "keyword": "up",
+        "answer": "Why don’t you take up running and see if that helps you lose weight?"
+      },
+      {
+        "id": "E037",
+        "prompt": "I did German lessons until last year, but I stopped because I didn’t have time.",
+        "keyword": "used",
+        "answer": "I used to do German lessons until last year, but I stopped because I didn't have time."
+      },
+      {
+        "id": "E038",
+        "prompt": "When you make a mistake, put a line through it and write the correct answer above.",
+        "keyword": "cross",
+        "answer": "When you make a mistake, cross it out and write the correct answer above."
+      },
+      {
+        "id": "E039",
+        "prompt": "Have you played Monopoly before?",
+        "keyword": "time",
+        "answer": "Is this the first time you have played Monopoly."
+      },
+      {
+        "id": "E040",
+        "prompt": "I started studying at six and now it’s ten o’clock.",
+        "keyword": "for",
+        "answer": "It’s ten o’clock and I have been studying for four hours."
+      },
+      {
+        "id": "E041",
+        "prompt": "- “I’m sorry I broke your glasses, Paul,” said Stacy.",
+        "keyword": "apologised",
+        "answer": "Stacy apologised to Paul for breaking his glasses."
+      },
+      {
+        "id": "E042",
+        "prompt": "When I’m an adult, I want to be a pop star!",
+        "keyword": "up",
+        "answer": "When I grow up, I want to be a pop star!"
+      },
+      {
+        "id": "E043",
+        "prompt": "Let’s leave at seven o’clock tomorrow morning.",
+        "keyword": "set",
+        "answer": "Let’s set off at seven o'clock tomorrow morning."
+      },
+      {
+        "id": "E044",
+        "prompt": "You’ve really disappointed me, Rachel.",
+        "keyword": "down",
+        "answer": "You’ve really let me down, Rachel."
+      },
+      {
+        "id": "E045",
+        "prompt": "They gave me a map of the town center.",
+        "keyword": "provided",
+        "answer": "They provided me with a map of the town center."
+      },
+      {
+        "id": "E046",
+        "prompt": "Hurry up or we’ll miss the plane!",
+        "keyword": "late",
+        "answer": "Hurry up or we’ll be late for the plane!"
+      },
+      {
+        "id": "E047",
+        "prompt": "Did you really go into town by yourself, Sam?",
+        "keyword": "own",
+        "answer": "Did you really go into town on your own, Sam?"
+      },
+      {
+        "id": "E048",
+        "prompt": "I don’t really like traveling.",
+        "keyword": "fond",
+        "answer": "I’m not fond of traveling."
+      },
+      {
+        "id": "E049",
+        "prompt": "You need to stop the engine and then check to see if there’s any oil on the ground.",
+        "keyword": "turn",
+        "answer": "You need to turn off the engine and then check to see if there’s any oil on the"
+      },
+      {
+        "id": "E050",
+        "prompt": "Before the aeroplane was invented, people told stories about flying machines.",
+        "keyword": "made",
+        "answer": "Before the aeroplane was invented, people made up stories about flying machines."
+      },
+      {
+        "id": "E051",
+        "prompt": "Don’t just put your batteries in the bin – recycle them!",
+        "keyword": "away",
+        "answer": "Don’t just throw your batteries away recycle them!"
+      },
+      {
+        "id": "E052",
+        "prompt": "It took a long time for scientists to discover what stars are made of.",
+        "keyword": "find",
+        "answer": "It took a long time for scientists to find out what stars are made of."
+      },
+      {
+        "id": "E053",
+        "prompt": "I found some old coins in a drawer while I was looking for a pen.",
+        "keyword": "across",
+        "answer": "I came across some old coins in a drawer while I was looking for a pen."
+      },
+      {
+        "id": "E054",
+        "prompt": "If your watch doesn’t work, return it to the shop.",
+        "keyword": "back",
+        "answer": "If your watch doesn’t work, take it back to the shop."
+      },
+      {
+        "id": "E055",
+        "prompt": "Our car stopped working last weekend, and I don’t know why.",
+        "keyword": "down",
+        "answer": "Our car broke down last weekend and I don’t know why."
+      },
+      {
+        "id": "E056",
+        "prompt": "Did you give Mark the money you borrowed from him?",
+        "keyword": "pay",
+        "answer": "Did you pay Mark back the money Mark lent you?"
+      },
+      {
+        "id": "E057",
+        "prompt": "The magazine is published every Friday.",
+        "keyword": "out",
+        "answer": "The magazine comes out every Friday."
+      },
+      {
+        "id": "E058",
+        "prompt": "Could you complete this application form, please?",
+        "keyword": "in",
+        "answer": "Could you fill in this application form, please?"
+      },
+      {
+        "id": "E059",
+        "prompt": "I am writing with regard to your advertisement for a part-time shop assistant.",
+        "keyword": "response",
+        "answer": "I am writing in response to your advertisement for a part-time shop assistant."
+      }
+    ]
+  },
+  "F": {
+    "fillInBlanks": [
+      {
+        "id": "F_1",
+        "title": "TEXT 23: Listen carefully and fill the missing words in the blanks.",
+        "text": "I BOUGHT IT ON EBAY!\nLinda\nThe first time I used eBay I bought a stove! It’s for the kitchen in my new house. I was amazed, because it was so easy. And it was cheap, too! I bought an (1) stove for only $200, and I went to get it yesterday. It looks (2) in my new kitchen. I think eBay’s a brilliant idea. I’m going to buy a (3) next!\nMegan\nOooh! Don’t talk to me about eBay! It’s a real problem for me – I like it too much. (4)\narrive every day, usually with shoes. I just love buying shoes on eBay. Yesterday a beautiful pair of green (5) arrived. They only cost $5. Can you believe it? My husband says he gets worried every time he sees the (6) – but you can’t have too many shoes, can you?\nCharlie\nI can’t believe it! I’m so (7) ! I bought a car on eBay, and it was a big mistake. I’ve bought (8) of other things on eBay, and it usually works very well. And I heard that a car sells every two (9) on eBay, and the sellers are usually very good. So, I paid $2,000 for an old Volvo, and I went to get it last week. But on the way home the car broke down. A (10) told me it was worth less half the price I paid. Now I don’t know what to do. But I’m not going to use eBay again for a while.",
+        "blanks": [
+          {
+            "id": "F1B1",
+            "blankNo": 1,
+            "answer": "Italian"
+          },
+          {
+            "id": "F1B2",
+            "blankNo": 2,
+            "answer": "fantastic"
+          },
+          {
+            "id": "F1B3",
+            "blankNo": 3,
+            "answer": "fridge"
+          },
+          {
+            "id": "F1B4",
+            "blankNo": 4,
+            "answer": "packages"
+          },
+          {
+            "id": "F1B5",
+            "blankNo": 5,
+            "answer": "sandals"
+          },
+          {
+            "id": "F1B6",
+            "blankNo": 6,
+            "answer": "mailman"
+          },
+          {
+            "id": "F1B7",
+            "blankNo": 7,
+            "answer": "stupid"
+          },
+          {
+            "id": "F1B8",
+            "blankNo": 8,
+            "answer": "plenty"
+          },
+          {
+            "id": "F1B9",
+            "blankNo": 9,
+            "answer": "minutes"
+          },
+          {
+            "id": "F1B10",
+            "blankNo": 10,
+            "answer": "mechanic"
+          }
+        ]
+      },
+      {
+        "id": "F_2",
+        "title": "TEXT 26: Listen carefully and fill the missing words in the blanks.",
+        "text": "LEAVING HOME – IAN MITCHELL\nMy daughter Evie is living in New York now. She went there (1) months ago, and I’m really worried about her. She says she’s having a great time, but she’s still only (2) , and I just think New York’s such a (3) place for a young woman. Sheshouldn’t live so far away from home. Her mother went with her to help her look for somewhere to live. But I didn’t go. I don’t like New York. I don’t like big cities.\nWhy did she have to go there, anyway? I don’t understand. She says she wants to be a dancer, and she’s taking some kind of class, a ballet class or (4) . But ballet isn’t a real job, and you don’t make much money being a dancer, do you? She’s a smart girl. I think she should go to (5) .\nShe’s living in an (6) there in New York by herself – she’s on her own, and I don’t like that at all! (7) , she has a boyfriend. We’ve never met him – Michael, I think his name is. He doesn’t have a job. But Evie works hard, though. She works on the weekends as a (8) in a restaurant. I just hope it’s a nice place.\nShe calls home sometimes, but not a lot, and we call her, but usually her cell phone’s turned off or she doesn’t answer. When I do (9) to talk to her, she just tells us that we should get a (10) so she can text us. She says we shouldn’t worry. How can we not worry? We’re her parents, we miss her, and of course we worry. Sometimes I can’t sleep at night. She really should come home more often.",
+        "blanks": [
+          {
+            "id": "F2B1",
+            "blankNo": 1,
+            "answer": "four"
+          },
+          {
+            "id": "F2B2",
+            "blankNo": 2,
+            "answer": "18"
+          },
+          {
+            "id": "F2B3",
+            "blankNo": 3,
+            "answer": "dangerous"
+          },
+          {
+            "id": "F2B4",
+            "blankNo": 4,
+            "answer": "something"
+          },
+          {
+            "id": "F2B5",
+            "blankNo": 5,
+            "answer": "college"
+          },
+          {
+            "id": "F2B6",
+            "blankNo": 6,
+            "answer": "apartment"
+          },
+          {
+            "id": "F2B7",
+            "blankNo": 7,
+            "answer": "Apparently"
+          },
+          {
+            "id": "F2B8",
+            "blankNo": 8,
+            "answer": "waitress"
+          },
+          {
+            "id": "F2B9",
+            "blankNo": 9,
+            "answer": "manage"
+          },
+          {
+            "id": "F2B10",
+            "blankNo": 10,
+            "answer": "cell phone"
+          }
+        ]
+      },
+      {
+        "id": "F_3",
+        "title": "TEXT 29: Listen carefully and fill the missing words in the blanks.",
+        "text": "AT A CROSSROADS IN LIFE\nAndy\nI just got some bad news about my job. I’m going to be laid (1) in three months. It’s such a shock! I’ve worked for the same computer company for twelve years. I need to think what to do next. Actually, I’ve always dreamed of (2) to Australia. So, I might try that! I have a friend in Melbourne, and I’m sure he would help me to find a job there. But if I went to Australia, my parents would be so sad. And they wouldn’t be able to visit me very much. It’s so expensive. So, I would have to find a really good job, so that I could come home a lot, or pay for them to visit me. That might not be easy.\nAnother thing I might do is start my own business, using my (3) pay. What if I started a computer (4) company? People are always having problems with their computers. If I did that, I’d have to work really hard in the beginning. It wouldn’t be easy, but I would enjoy it, I think.\nLucy\nI’m so surprised! My boyfriend just asked me to marry him! It was (5) , because I couldn’t give him an answer right away. You see. I really love my boyfriend, and I think I want to marry him sometime, but not yet.\nHe wants us to get married next June. That’s only nine months away. I think it might be better to wait. If we got married in June, we’d have to save all our money for the wedding and a house. But I don’t want to do that. I want us to enjoy (6) while we’re young. I want to go away and travel. I’d like to learn how to ride a horse and how to (7) . Oh, there’s a lot of things I want to do. If we waited a little while, we could do all those things. If I got married now, I might feel trapped. That would be terrible. But what if I told him I didn’t want to marry him yet? Would he understand? He might not, and I don’t want to lose him. I do want to marry him. I just want to put the wedding off for a while. That’s all.\nMaureen\nWell, my husband died three months ago, and I have to decide what to do next. He was sick for a long time, so it wasn’t a shock. But we were married for 41 years, and I can’t (8) life without him. I don’t think I want to live in this house anymore. Anyway, it’s so big for just one person. So, I might sell it and move to an apartment. I’d feel safer if I lived in an apartment, because there would be other people around. I think it might be hard living on my own.\nOr my daughter says I can live with her and her family. So, I might do that, but I’m not sure. I love my daughter and my grandchildren very much. But if I lived with them, I wouldn’t feel (9) anymore. And I’m still young – I’m only 68! I’m healthy with (10) of friends. There’s lots I can still do with my life, I’m sure. I just need to keep busy.",
+        "blanks": [
+          {
+            "id": "F3B1",
+            "blankNo": 1,
+            "answer": "off"
+          },
+          {
+            "id": "F3B2",
+            "blankNo": 2,
+            "answer": "moving"
+          },
+          {
+            "id": "F3B3",
+            "blankNo": 3,
+            "answer": "severance"
+          },
+          {
+            "id": "F3B4",
+            "blankNo": 4,
+            "answer": "repair"
+          },
+          {
+            "id": "F3B5",
+            "blankNo": 5,
+            "answer": "terrible"
+          },
+          {
+            "id": "F3B6",
+            "blankNo": 6,
+            "answer": "ourselves"
+          },
+          {
+            "id": "F3B7",
+            "blankNo": 7,
+            "answer": "scuba dive"
+          },
+          {
+            "id": "F3B8",
+            "blankNo": 8,
+            "answer": "imagine"
+          },
+          {
+            "id": "F3B9",
+            "blankNo": 9,
+            "answer": "independent"
+          },
+          {
+            "id": "F3B10",
+            "blankNo": 10,
+            "answer": "plenty"
+          }
+        ]
+      }
+    ]
+  },
+  "G": {
+    "chooseABC": [
+      {
+        "id": "G_TEXT_1",
+        "title": "TEXT 41: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "questions": [
+          {
+            "id": "G1Q1",
+            "question": "What does Susan have to do on Saturday morning?",
+            "options": [
+              "Walk the dog",
+              "Clean the house",
+              "Go to the doctor"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G1Q2",
+            "question": "Where does Susan have to go at 12:30?",
+            "options": [
+              "To school",
+              "To the dentist",
+              "To the science museum"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G1Q3",
+            "question": "What time is Susan meeting with Julie?",
+            "options": [
+              "At 12:00 p.m.",
+              "At 1:00 p.m.",
+              "At 2:00 p.m."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G1Q4",
+            "question": "What will Susan do after she cooks dinner?",
+            "options": [
+              "Clean the dishes",
+              "Play soccer with her brother",
+              "Call a friend"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "G1Q5",
+            "question": "Why can't they watch a video at Susan's house?",
+            "options": [
+              "They can't decide on a video.",
+              "Susan's mother is going to use it.",
+              "The TV isn't working."
+            ],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": "G_TEXT_2",
+        "title": "TEXT 42: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "questions": [
+          {
+            "id": "G2Q1",
+            "question": "What does the boy want to do at the beginning of the conversation?",
+            "options": [
+              "Go play outside",
+              "Watch TV",
+              "Play video games"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "G2Q2",
+            "question": "What is one thing the boy is NOT assigned to do around the house?",
+            "options": [
+              "Clean the garage",
+              "Vacuum the floors",
+              "Wash the walls"
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "G2Q3",
+            "question": "What does the boy have to do in his bedroom?",
+            "options": [
+              "Put away his books",
+              "Make his bed",
+              "Pick up his dirty clothes"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G2Q4",
+            "question": "What is the father going to do while the boy is doing his household chores?",
+            "options": [
+              "Wash the car",
+              "Paint the house",
+              "Work in the yard"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G2Q5",
+            "question": "Where will the father and son go after the housework is done?",
+            "options": [
+              "To a movie",
+              "Out to eat",
+              "To a ball game"
+            ],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "G_TEXT_3",
+        "title": "TEXT 47: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "questions": [
+          {
+            "id": "G3Q1",
+            "question": "Gregorio is well known for his ability to work with ______ .",
+            "options": [
+              "famous athletes",
+              "animals",
+              "world dancers"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G3Q2",
+            "question": "What is one thing that is NOT true about him?",
+            "options": [
+              "He's tall.",
+              "He's wearing green slacks.",
+              "He has on a blue jacket."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G3Q3",
+            "question": "What does Georgina do for a living?",
+            "options": [
+              "She's a popular sports figure.",
+              "She's famous for her cooking skills.",
+              "She makes a living selling tennis shoes."
+            ],
+            "answerIndex": 0
+          },
+          {
+            "id": "G3Q4",
+            "question": "Georgina is awoman wearing a yellow dress.",
+            "options": [
+              "large",
+              "heavy",
+              "small"
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G3Q5",
+            "question": "What is the other invited guest, Brad Pitt, doing in the conversation?",
+            "options": [
+              "He's sitting in the room.",
+              "He's standing by a table.",
+              "He's eating some refreshments."
+            ],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "G_TEXT_4",
+        "title": "TEXT 48: Listen carefully and choose the best answer (A, B, C) for each question.",
+        "questions": [
+          {
+            "id": "G4Q1",
+            "question": "What is the woman's name?",
+            "options": [
+              "Her name is Ruth Ann.",
+              "It's Ronda.",
+              "The woman's name is Rachel."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G4Q2",
+            "question": "The woman spent most of her life in.",
+            "options": [
+              "California",
+              "Utah",
+              "New York"
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G4Q3",
+            "question": "What does the woman do for a living?",
+            "options": [
+              "She is a computer programmer.",
+              "She works at a school.",
+              "She has a job at a bank."
+            ],
+            "answerIndex": 1
+          },
+          {
+            "id": "G4Q4",
+            "question": "How often does the woman go to the gym?",
+            "options": [
+              "She goes there three times a week.",
+              "She works out four times a week.",
+              "She exercises five times a week."
+            ],
+            "answerIndex": 2
+          },
+          {
+            "id": "G4Q5",
+            "question": "Which statement is NOT true about the conversation?",
+            "options": [
+              "The man is from a city called Salt Lake.",
+              "The woman gives the man her phone number.",
+              "The woman knows a lot about science."
+            ],
+            "answerIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+  "H": {
+    "trueFalse": [
+      {
+        "id": "H_TEXT_1",
+        "title": "TEXT 53: Listen and decide if the following statements are True (T) or False (F).",
+        "statements": [
+          {
+            "id": "H1S1",
+            "statement": "The professor mainly discusses the history of Antarctica.",
+            "answer": "False"
+          },
+          {
+            "id": "H1S2",
+            "statement": "88 percent of the world’s ice is contained in Antarctica.",
+            "answer": "False"
+          },
+          {
+            "id": "H1S3",
+            "statement": "The professor emphasizes that Antarctica is cold by comparing Antarctica to Australia.",
+            "answer": "False"
+          },
+          {
+            "id": "H1S4",
+            "statement": "Another name for the South Pole is Antarctica.",
+            "answer": "True"
+          },
+          {
+            "id": "H1S5",
+            "statement": "Antarctica used to be connected to Australia.",
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "id": "H_TEXT_2",
+        "title": "TEXT 59: Listen and decide if the following statements are True (T) or False (F).",
+        "statements": [
+          {
+            "id": "H2S1",
+            "statement": "Stephane Breitweiser is the greatest technology thief in Europe.",
+            "answer": "False"
+          },
+          {
+            "id": "H2S2",
+            "statement": "Stephane Breitweiser stole 239 paintings from museums in France, Austria, and Denmark.",
+            "answer": "True"
+          },
+          {
+            "id": "H2S3",
+            "statement": "Stephane Breitweiser went into the museums just as they were closing and hid the paintings under his raincoat.",
+            "answer": "False"
+          },
+          {
+            "id": "H2S4",
+            "statement": "The police arrived at his apartment while he and his mother were having dinner.",
+            "answer": "True"
+          },
+          {
+            "id": "H2S5",
+            "statement": "Mireille cut some paintings from the wall in Stephane’s bedroom into small pieces.",
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "id": "H_TEXT_3",
+        "title": "TEXT 61: Listen to Jessie and decide if the following statements are True (T) or False (F).",
+        "statements": [
+          {
+            "id": "H3S1",
+            "statement": "Jessie is going to work in a young people’s home as soon as she finishes school.",
+            "answer": "False"
+          },
+          {
+            "id": "H3S2",
+            "statement": "Her job is to work with nurses and help people get dressed.",
+            "answer": "True"
+          },
+          {
+            "id": "H3S3",
+            "statement": "Jessie needn’t to go for walks with people.",
+            "answer": "False"
+          },
+          {
+            "id": "H3S4",
+            "statement": "The job starts in July and it’s for at least nine months.",
+            "answer": "True"
+          },
+          {
+            "id": "H3S5",
+            "statement": "She is going to Florida with some friends after the job ends.",
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "id": "H_TEXT_4",
+        "title": "TEXT 66: Listen and decide if the following statements are True (T) or False (F).",
+        "statements": [
+          {
+            "id": "H4S1",
+            "statement": "Paper has been used for hundreds of things for a long time ago.",
+            "answer": "False"
+          },
+          {
+            "id": "H4S2",
+            "statement": "Before paper, people wrote on animal skins, bones, and stones.",
+            "answer": "True"
+          },
+          {
+            "id": "H4S3",
+            "statement": "Papyrus was similar to paper.",
+            "answer": "True"
+          },
+          {
+            "id": "H4S4",
+            "statement": "A Chinese government official invented the first real paper in 2700 BC.",
+            "answer": "False"
+          },
+          {
+            "id": "H4S5",
+            "statement": "The first European paper mill was built in Spain in 1150.",
+            "answer": "True"
+          }
+        ]
+      }
+    ]
+  }
+}

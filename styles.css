@@ -1,0 +1,240 @@
+:root {
+  --ink: #1b1f2a;
+  --muted: #5b6374;
+  --paper: #fcfdff;
+  --accent: #0b7285;
+  --accent-2: #f08c00;
+  --dark: #202632;
+  --ok: #2b8a3e;
+  --bad: #c92a2a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Trebuchet MS", sans-serif;
+  color: var(--ink);
+  background: radial-gradient(circle at 20% 20%, #f9f5ef 0%, #f4f8ff 45%, #eef6f1 100%);
+  min-height: 100vh;
+}
+
+.container {
+  width: min(1100px, 94vw);
+  margin: 26px auto 48px;
+  position: relative;
+  z-index: 2;
+}
+
+.bg-shape {
+  position: fixed;
+  border-radius: 999px;
+  filter: blur(36px);
+  opacity: 0.45;
+  z-index: 1;
+}
+
+.bg-shape-1 {
+  width: 320px;
+  height: 320px;
+  background: #a5d8ff;
+  top: -80px;
+  right: -80px;
+}
+
+.bg-shape-2 {
+  width: 280px;
+  height: 280px;
+  background: #ffd8a8;
+  bottom: -90px;
+  left: -70px;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 14px 40px rgba(25, 35, 55, 0.08);
+  backdrop-filter: blur(4px);
+  margin-bottom: 14px;
+}
+
+.hero h1 {
+  margin: 8px 0 6px;
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.15;
+}
+
+.eyebrow {
+  margin: 0;
+  letter-spacing: 0.16em;
+  font-weight: 700;
+  font-size: 0.78rem;
+  color: var(--accent);
+}
+
+.subtitle {
+  color: var(--muted);
+  margin: 0;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  border: 0;
+  border-radius: 12px;
+  padding: 10px 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: linear-gradient(120deg, var(--accent), #1d4ed8);
+  color: #fff;
+}
+
+.btn-dark {
+  background: var(--dark);
+  color: #fff;
+}
+
+.status {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.section-block {
+  margin-bottom: 26px;
+}
+
+.section-title {
+  margin: 0 0 10px;
+  font-size: 1.3rem;
+}
+
+.question {
+  border: 1px solid #e8ecf4;
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+
+.question h4 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.86rem;
+  margin-bottom: 8px;
+}
+
+.options label {
+  display: block;
+  margin: 5px 0;
+}
+
+.sign-image {
+  width: min(360px, 100%);
+  border-radius: 10px;
+  border: 1px solid #dde5f3;
+  margin-bottom: 8px;
+}
+
+.answer-input {
+  width: min(420px, 100%);
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid #d5dbe8;
+}
+
+.passage {
+  white-space: pre-line;
+  background: #f9fbff;
+  border: 1px solid #e7edf8;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.kpi {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-right: 16px;
+  font-size: 0.95rem;
+}
+
+.badge {
+  background: #eef2ff;
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-weight: 700;
+}
+
+.good {
+  color: var(--ok);
+  font-weight: 700;
+}
+
+.bad {
+  color: var(--bad);
+  font-weight: 700;
+}
+
+.review-item {
+  border-left: 4px solid #ffd8a8;
+  padding-left: 10px;
+  margin: 10px 0;
+}
+
+/* Inline blank in MCQ questions (Section A) */
+.blank {
+  display: inline-block;
+  min-width: 80px;
+  border-bottom: 2px solid var(--accent);
+  color: var(--accent);
+  letter-spacing: 2px;
+  font-weight: 600;
+  padding: 0 2px;
+  margin: 0 2px;
+}
+
+/* Numbered blank marker in cloze/fill passages (Section D, F) */
+.cloze-blank {
+  display: inline-block;
+  background: rgba(11, 114, 133, 0.08);
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.88rem;
+  padding: 1px 5px;
+  margin: 0 1px;
+}
+
+@media (max-width: 700px) {
+  .card {
+    padding: 14px;
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-06-11T11:24:12.427Z",
+  "sourcePath": "d:\\Tin\\B1 - CEFR\\TargetMDDirectory\\File_on_tap_B1_13.06.2026\\File_on_tap_B1_13.06.2026.md",
+  "counts": {
+    "A": 100,
+    "B": 40,
+    "C": 4,
+    "D": 4,
+    "E": 30,
+    "F": 3,
+    "G": 4,
+    "H": 4
+  },
+  "extracted": {
+    "A": 100,
+    "B": 40,
+    "D": 4,
+    "E": 30,
+    "F": 3,
+    "G": 4,
+    "H": 4
+  }
+}
