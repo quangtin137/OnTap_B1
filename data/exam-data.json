@@ -2486,7 +2486,7 @@
         "keyword": "turn",
         "prefix": "You need to",
         "hint": "turn OFF ↔ turn ON là cặp đối lập. Linh hoạt: turn off the engine / turn the engine off.",
-        "answer": "turn off the engine and then check to see if there’s any oil on the"
+        "answer": "turn off the engine and then check to see if there’s any oil on the ground"
       },
       {
         "id": "E050",
