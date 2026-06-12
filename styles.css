@@ -185,6 +185,43 @@ body {
   margin-bottom: 10px;
 }
 
+.cloze-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 14px;
+  font-size: 0.93rem;
+}
+
+.cloze-table td {
+  border: 1px solid #e7edf8;
+  padding: 7px 12px;
+  vertical-align: middle;
+}
+
+.cloze-table tr.cloze-row:nth-child(odd) {
+  background: #fff;
+}
+
+.cloze-table tr.cloze-row:nth-child(even) {
+  background: #f4f8ff;
+}
+
+.cloze-table .cloze-num {
+  font-weight: 700;
+  color: var(--muted);
+  white-space: nowrap;
+  width: 36px;
+  text-align: center;
+}
+
+.cloze-table label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+
 .kpi {
   display: inline-flex;
   align-items: center;

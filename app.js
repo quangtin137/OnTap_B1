@@ -199,18 +199,23 @@ function renderClozeText(cloze, parent) {
      <div class="passage">${renderPassage(cloze.text)}</div>`
   );
 
+  const LETTERS = ["A", "B", "C", "D"];
+  let rows = "";
   cloze.blanks.forEach((q) => {
     const qn = nextQn();
-    block.insertAdjacentHTML(
-      "beforeend",
-      `<div class="question" data-type="mcq" data-answer="${q.answerIndex}" data-key="D_${q.id}" data-qn="${qn}">
-        <h4>Câu ${qn}. Blank (${q.blankNo})</h4>
-        <div class="options">${q.options
-          .map((opt, idx) => `<label><input type="radio" name="q_D_${q.id}" value="${idx}"> ${escapeHtml(opt)}</label>`)
-          .join("")}</div>
-      </div>`
-    );
+    const cells = q.options
+      .map((opt, idx) => `<td><label><input type="radio" name="q_D_${q.id}" value="${idx}"> ${LETTERS[idx]}. ${escapeHtml(opt)}</label></td>`)
+      .join("");
+    rows += `<tr class="question cloze-row" data-type="mcq" data-answer="${q.answerIndex}" data-key="D_${q.id}" data-qn="${qn}">
+      <td class="cloze-num">${qn}.</td>
+      ${cells}
+    </tr>`;
   });
+
+  block.insertAdjacentHTML(
+    "beforeend",
+    `<table class="cloze-table"><tbody>${rows}</tbody></table>`
+  );
 
   parent.appendChild(block);
 }
