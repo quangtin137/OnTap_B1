@@ -214,7 +214,7 @@ function renderClozeText(cloze, parent) {
 
   block.insertAdjacentHTML(
     "beforeend",
-    `<table class="cloze-table"><tbody>${rows}</tbody></table>`
+    `<div class="cloze-table-wrap"><table class="cloze-table"><tbody>${rows}</tbody></table></div>`
   );
 
   parent.appendChild(block);
