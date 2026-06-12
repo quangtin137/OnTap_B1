@@ -2501,8 +2501,8 @@
         "prompt": "Don’t just put your batteries in the bin – recycle them!",
         "keyword": "away",
         "prefix": "Don’t just",
-        "hint": "Khi dùng đại từ, BẮT BUỘC đặt giữa: \"throw them away\" — không được viết \"throw away them\".",
-        "answer": "throw your batteries away recycle them!"
+        "hint": "Dùng cụm động từ \"throw away\": có 2 cách viết đều đúng — \"throw away your batteries\" (phrasal verb liền) hoặc \"throw your batteries away\" (tách cụm với noun).",
+        "answer": "throw away your batteries – recycle them!|throw your batteries away – recycle them!"
       },
       {
         "id": "E052",

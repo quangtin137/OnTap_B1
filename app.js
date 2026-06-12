@@ -36,10 +36,11 @@ examRoot.addEventListener("change", (e) => {
   } else if (type === "text") {
     if (e.target.tagName !== "INPUT" || e.target.type !== "text") return;
     userValue = e.target.value;
-    isCorrect = normalizeText(userValue) === normalizeText(answer);
+    const acceptedAnswers = answer.split("|");
+    isCorrect = acceptedAnswers.some((a) => normalizeText(userValue) === normalizeText(a));
   }
 
-  let correctAnswerText = answer;
+  let correctAnswerText = answer.includes("|") ? answer.split("|")[0] : answer;
   if (type === "mcq" || type === "tf") {
     const correctInput = node.querySelector(`input[value="${answer}"]`);
     if (correctInput && correctInput.parentElement) {
