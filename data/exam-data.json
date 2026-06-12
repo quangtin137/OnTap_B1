@@ -1858,7 +1858,7 @@
     "clozeTexts": [
       {
         "id": "D_1",
-        "title": "TEXT",
+        "title": "TEXT 3: SWEDEN'S ICE HOTEL",
         "text": "The village of Jukkasjarvi is in Swedish Lapland, and winter temperatures there can reach -40℃. But 6,000 holidaymakers (1) go there annually, to visit what is probably Europe's most unusual accommodation. In this hotel you eat, drink, and sleep in rooms made (2) ice. If you want, you can (3) get married in one. The bar is nice too, and putting hot drinks on it is obviously not (4) ! The bedrooms are around -4° C, but fortunately guests are (5) with special sleeping bags that will keep (6) warm in the coldest of temperatures. (7) outdoor clothes can be supplied too, if needed.\nThe hotel is never more than six months old (8) it melts in summer and (9) winter it is rebuilt. Creating the hotel (10) 10,000 tonnes of ice, plus 30,000 tonnes of snow.",
         "blanks": [
           {
@@ -1892,7 +1892,7 @@
               "already",
               "yet"
             ],
-            "answerIndex": 2
+            "answerIndex": 0
           },
           {
             "id": "TEXT_B4",
@@ -1975,7 +1975,7 @@
       },
       {
         "id": "D_2",
-        "title": "TEXT",
+        "title": "TEXT 8: The driest place on Earth",
         "text": "The Atacama Desert in Chile is known as the driest place on Earth. It is almost 1,000 kilometers (1) length, lying between the Pacific Ocean and the Andes mountains. Under a centimeter of rain (2) annually, and the center is so dry (3) scientists have never recorded (4) rain there.\nOver a million people (5) live in the Atacama today. Most live on the coast, which is also home to teams of astronomers who are there to (6) advantage of the clear skies. In the north, farmers grow tomatoes with water they have collected from underground rocks. However, for (7) who have their farms on higher ground, the water comes from melting snow.\nPeople generally seem to (8) knowledge about what the desert has to offer, but in (9) , there is plenty to do – from seeing the amazing natural sights to playing golf, one of the more recent activities (10) tourists to the region.",
         "blanks": [
           {
@@ -2092,7 +2092,7 @@
       },
       {
         "id": "D_3",
-        "title": "TEXT",
+        "title": "TEXT 10: HORSES",
         "text": "Horses have been valuable to humans for thousands of years. Because there are several different (1) of horses such as coldbloods, which are large but gentle, or hotbloods that are (2) for their running ability, there are horses for every purpose. We use them for transport as (3) as for physical work, for example (4) farm machinery. It’s now also very (5) to see horses used in sports.\nHorses need food and water in large (6) . A horse can drink (7) twenty and forty liters of water a day, and around a kilo of food for (8) fifty kilos of its body weight. Horses need to be out in the fields, as grass is part of their diet.\nThey can live for (9) 25 years, so their owners need to give them (10) of love and attention – but horses always give lots back.",
         "blanks": [
           {
@@ -2209,7 +2209,7 @@
       },
       {
         "id": "D_4",
-        "title": "TEXT",
+        "title": "TEXT 14: Technology and the young",
         "text": "Modern technology is changing and improving all the time. Every month, scientists (1) new gadgets and (2) to help us with our daily lives, and (3) ways to make existing technology faster and better. Our homes are full of hardware (such as DVD players and computers) and (4) (such as computer games and MP3s).\n(5) suggests, however, that it’s young people who are best able to deal with this change. Whereas teenagers have no problem (6) a DVD player, their mums and dads and grandparents often find using new technology (7) and difficult.\nBut if you’re a teenager who criticises your parents for their (8) of technological awareness, don’t be too hard on them! Some time (9) the future, when you’ve got children of your own, your ability to deal with new technology will probably (10) and your children will feel more comfortable with new technology than you do. You won’t want them to criticise you, will you?",
         "blanks": [
           {

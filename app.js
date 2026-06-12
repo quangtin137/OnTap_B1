@@ -171,7 +171,7 @@ function renderReadingPassage(reading, parent) {
   const block = sectionBlock("Phần 1C - Reading Passage");
   block.insertAdjacentHTML(
     "beforeend",
-    `<p class="meta">${escapeHtml(reading.title)}</p>
+    `<p class="passage-title">${escapeHtml(reading.title)}</p>
      <div class="passage">${escapeHtml(reading.passage)}</div>`
   );
 
@@ -195,7 +195,7 @@ function renderClozeText(cloze, parent) {
   const block = sectionBlock("Phần 1D - Cloze Text");
   block.insertAdjacentHTML(
     "beforeend",
-    `<p class="meta">${escapeHtml(cloze.title)}</p>
+    `<p class="passage-title">${escapeHtml(cloze.title)}</p>
      <div class="passage">${renderPassage(cloze.text)}</div>`
   );
 
@@ -241,7 +241,7 @@ function renderFillBlanks(fill, parent) {
   const block = sectionBlock("Phần 3F - Listening Fill in Blanks");
   block.insertAdjacentHTML(
     "beforeend",
-    `<p class="meta">${escapeHtml(fill.title)}</p>
+    `<p class="passage-title">${escapeHtml(fill.title)}</p>
      ${fill.audio ? `<audio controls src="${fill.audio}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
      <div class="passage">${renderPassage(fill.text)}</div>`
   );

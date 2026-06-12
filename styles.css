@@ -168,6 +168,14 @@ body {
   border: 1px solid #d5dbe8;
 }
 
+.passage-title {
+  margin: 0 0 8px;
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+}
+
 .passage {
   white-space: pre-line;
   background: #f9fbff;
