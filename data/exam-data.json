@@ -2542,7 +2542,7 @@
         "keyword": "pay",
         "prefix": "Did you",
         "hint": "\"Pay back\" = trả lại tiền. Lưu ý: \"borrow FROM\" → đổi thành \"lend\" (chiều ngược lại) trong câu trả lời.",
-        "answer": "pay Mark back the money Mark lent you?"
+        "answer": "pay back the money Mark lent you?"
       },
       {
         "id": "E057",
