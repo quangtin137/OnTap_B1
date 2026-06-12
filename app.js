@@ -9,6 +9,17 @@ const BLUEPRINT = {
   H: 2
 };
 
+const SECTION_LABELS = {
+  A: "Vocabulary",
+  B: "Signs",
+  C: "Reading",
+  D: "Cloze Text",
+  E: "Transformation",
+  F: "Listening Fill",
+  G: "Listening ABC",
+  H: "True / False",
+};
+
 let questionCursor = 1;
 let examState = null;
 
@@ -136,6 +147,19 @@ function renderSummary(bank) {
 function renderExam(state) {
   examRoot.innerHTML = "";
 
+  // Section tab navigation
+  const nav = document.createElement("nav");
+  nav.className = "section-nav";
+  Object.entries(SECTION_LABELS).forEach(([key, label]) => {
+    const btn = document.createElement("button");
+    btn.className = "sec-btn";
+    btn.dataset.sec = key;
+    btn.textContent = `${key} · ${label}`;
+    btn.addEventListener("click", () => showSection(key));
+    nav.appendChild(btn);
+  });
+  examRoot.appendChild(nav);
+
   renderMultipleChoiceGroup("Phần 1A - Vocabulary & Grammar", "A", state.A, examRoot);
   renderMultipleChoiceGroup("Phần 1B - Signs", "B", state.B, examRoot, true);
   renderReadingPassage(state.C, examRoot);
@@ -144,10 +168,21 @@ function renderExam(state) {
   renderFillBlanks(state.F, examRoot);
   renderChooseABC(state.G, examRoot);
   renderTrueFalse(state.H, examRoot);
+
+  showSection("A");
+}
+
+function showSection(key) {
+  examRoot.querySelectorAll(".section-block").forEach((el) => {
+    el.classList.toggle("hidden", el.dataset.section !== key);
+  });
+  examRoot.querySelectorAll(".sec-btn").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.sec === key);
+  });
 }
 
 function renderMultipleChoiceGroup(title, sectionKey, questions, parent, includeImage = false) {
-  const block = sectionBlock(title);
+  const block = sectionBlock(title, sectionKey);
   questions.forEach((q) => {
     const qn = nextQn();
     const options = q.options
@@ -169,7 +204,7 @@ function renderMultipleChoiceGroup(title, sectionKey, questions, parent, include
 }
 
 function renderReadingPassage(reading, parent) {
-  const block = sectionBlock("Phần 1C - Reading Passage");
+  const block = sectionBlock("Phần 1C - Reading Passage", "C");
   block.insertAdjacentHTML(
     "beforeend",
     `<p class="passage-title">${escapeHtml(reading.title)}</p>
@@ -193,7 +228,7 @@ function renderReadingPassage(reading, parent) {
 }
 
 function renderClozeText(cloze, parent) {
-  const block = sectionBlock("Phần 1D - Cloze Text");
+  const block = sectionBlock("Phần 1D - Cloze Text", "D");
   block.insertAdjacentHTML(
     "beforeend",
     `<p class="passage-title">${escapeHtml(cloze.title)}</p>
@@ -222,7 +257,7 @@ function renderClozeText(cloze, parent) {
 }
 
 function renderTransformation(items, parent) {
-  const block = sectionBlock("Phần 2E - Sentence Transformation");
+  const block = sectionBlock("Phần 2E - Sentence Transformation", "E");
 
   items.forEach((q) => {
     const qn = nextQn();
@@ -244,7 +279,7 @@ function renderTransformation(items, parent) {
 }
 
 function renderFillBlanks(fill, parent) {
-  const block = sectionBlock("Phần 3F - Listening Fill in Blanks");
+  const block = sectionBlock("Phần 3F - Listening Fill in Blanks", "F");
   block.insertAdjacentHTML(
     "beforeend",
     `<p class="passage-title">${escapeHtml(fill.title)}</p>
@@ -267,7 +302,7 @@ function renderFillBlanks(fill, parent) {
 }
 
 function renderChooseABC(texts, parent) {
-  const block = sectionBlock("Phần 3G - Listening Choose ABC");
+  const block = sectionBlock("Phần 3G - Listening Choose ABC", "G");
 
   texts.forEach((text) => {
     block.insertAdjacentHTML(
@@ -293,7 +328,7 @@ function renderChooseABC(texts, parent) {
 }
 
 function renderTrueFalse(texts, parent) {
-  const block = sectionBlock("Phần 3H - Listening True/False");
+  const block = sectionBlock("Phần 3H - Listening True/False", "H");
 
   texts.forEach((text) => {
     block.insertAdjacentHTML(
@@ -321,9 +356,10 @@ function renderTrueFalse(texts, parent) {
 
 
 
-function sectionBlock(title) {
+function sectionBlock(title, sectionKey) {
   const block = document.createElement("section");
   block.className = "section-block";
+  if (sectionKey) block.dataset.section = sectionKey;
   block.innerHTML = `<h3 class="section-title">${escapeHtml(title)}</h3>`;
   return block;
 }
