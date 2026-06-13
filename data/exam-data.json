@@ -2382,7 +2382,8 @@
         "keyword": "up",
         "prefix": "Why don’t you",
         "hint": "\"Take up\" = nhặt lên một sở thích mới. Sau take up luôn dùng V-ing: take up running / swimming / painting.",
-        "answer": "take up running and see if that helps you lose weight?"
+        "answer": "take up running and see if",
+        "suffix": "that helps you lose weight?"
       },
       {
         "id": "E037",
@@ -2398,7 +2399,8 @@
         "keyword": "cross",
         "prefix": "When you make",
         "hint": "Hình dung dấu ✗ trên giấy = \"cross out\". Đại từ phải đặt giữa: cross it out (không được viết cross out it).",
-        "answer": "a mistake, cross it out and write the correct answer above."
+        "answer": "a mistake, cross it out and write",
+        "suffix": "the correct answer above."
       },
       {
         "id": "E039",
@@ -2486,7 +2488,8 @@
         "keyword": "turn",
         "prefix": "You need to",
         "hint": "turn OFF ↔ turn ON là cặp đối lập. Linh hoạt: turn off the engine / turn the engine off.",
-        "answer": "turn off the engine and then check to see if there’s any oil on the ground"
+        "answer": "turn off the engine and",
+        "suffix": "then check to see if there's any oil on the ground."
       },
       {
         "id": "E050",
@@ -2502,7 +2505,8 @@
         "keyword": "away",
         "prefix": "Don’t just",
         "hint": "Dùng cụm động từ \"throw away\": có 2 cách viết đều đúng — \"throw away your batteries\" (phrasal verb liền) hoặc \"throw your batteries away\" (tách cụm với noun).",
-        "answer": "throw away your batteries – recycle them!|throw your batteries away – recycle them!"
+        "answer": "throw away your batteries|throw your batteries away",
+        "suffix": "– recycle them!"
       },
       {
         "id": "E052",
@@ -2518,7 +2522,8 @@
         "keyword": "across",
         "prefix": "I came",
         "hint": "Từ khóa: \"while I was looking for sth else\" = không chủ tâm → come across (tình cờ gặp).",
-        "answer": "across some old coins in a drawer while I was looking for a pen."
+        "answer": "across some old coins in a drawer",
+        "suffix": "while I was looking for a pen."
       },
       {
         "id": "E054",
@@ -2534,7 +2539,8 @@
         "keyword": "down",
         "prefix": "Our car",
         "hint": "\"Break down\" chỉ dùng cho máy móc/xe bị hỏng, không có tân ngữ. Khác với \"break down\" nghĩa sụp đổ cảm xúc.",
-        "answer": "broke down last weekend and I don’t know why."
+        "answer": "broke down last weekend",
+        "suffix": "and I don't know why."
       },
       {
         "id": "E056",
@@ -2542,7 +2548,8 @@
         "keyword": "pay",
         "prefix": "Did you",
         "hint": "\"Pay back\" = trả lại tiền. Lưu ý: \"borrow FROM\" → đổi thành \"lend\" (chiều ngược lại) trong câu trả lời.",
-        "answer": "pay back the money Mark lent you?"
+        "answer": "pay back the money",
+        "suffix": "Mark lent you?"
       },
       {
         "id": "E057",
@@ -2566,7 +2573,8 @@
         "keyword": "response",
         "prefix": "I am writing",
         "hint": "Cụm thư trang trọng cố định: \"I am writing in response to your advertisement for...\" — học thuộc cả cụm.",
-        "answer": "in response to your advertisement for a part-time shop assistant."
+        "answer": "in response to your advertisement",
+        "suffix": "for a part-time shop assistant."
       }
     ]
   },

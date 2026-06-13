@@ -303,9 +303,10 @@ function renderTransformation(items, parent) {
         <h4>Câu ${qn}. ${escapeHtml(q.prompt)}</h4>
         <div class="meta">Keyword: ${escapeHtml(q.keyword)}</div>
         ${q.hint ? `<details style="margin-bottom: 12px; font-size: 0.9rem;"><summary style="color: var(--accent); font-weight: 600; cursor: pointer; outline: none; user-select: none;">💡 Xem gợi ý</summary><div style="margin-top: 6px; padding: 10px; background: #fffde7; border-left: 3px solid #fbc02d; border-radius: 4px; color: #424242; line-height: 1.5;">${escapeHtml(q.hint)}</div></details>` : ""}
-        <div style="display: flex; align-items: baseline; gap: 8px;">
-          ${q.prefix ? `<span class="prefix" style="font-weight: 600; color: var(--accent);">${escapeHtml(q.prefix)}</span>` : ""}
-          <input class="answer-input" type="text" name="q_E_${q.id}" placeholder="Nhập đáp án..." style="flex: 1;" />
+        <div style="display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;">
+          ${q.prefix ? `<span class="prefix" style="font-weight: 600; color: var(--accent); white-space: nowrap;">${escapeHtml(q.prefix)}</span>` : ""}
+          <input class="answer-input" type="text" name="q_E_${q.id}" placeholder="Nhập đáp án..." style="flex: 1; min-width: 160px;" />
+          ${q.suffix ? `<span style="color: var(--ink); white-space: nowrap;">${escapeHtml(q.suffix)}</span>` : ""}
         </div>
       </div>`
     );
