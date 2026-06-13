@@ -306,7 +306,7 @@ function renderTransformation(items, parent) {
         <div style="display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;">
           ${q.prefix ? `<span class="prefix" style="font-weight: 600; color: var(--accent); white-space: nowrap;">${escapeHtml(q.prefix)}</span>` : ""}
           <input class="answer-input" type="text" name="q_E_${q.id}" placeholder="Nhập đáp án..." style="flex: 1; min-width: 160px;" />
-          ${q.suffix ? `<span style="color: var(--ink); white-space: nowrap;">${escapeHtml(q.suffix)}</span>` : ""}
+          ${q.suffix ? `<span style="font-weight: 600; color: var(--accent); white-space: nowrap;">${escapeHtml(q.suffix)}</span>` : ""}
         </div>
       </div>`
     );
