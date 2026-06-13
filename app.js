@@ -169,7 +169,42 @@ function renderExam(state) {
   renderChooseABC(state.G, examRoot);
   renderTrueFalse(state.H, examRoot);
 
+  renderSectionFooterNav();
   showSection("A");
+}
+
+function renderSectionFooterNav() {
+  const keys = Object.keys(SECTION_LABELS);
+  keys.forEach((key, idx) => {
+    const block = examRoot.querySelector(`.section-block[data-section="${key}"]`);
+    if (!block) return;
+
+    const nav = document.createElement("div");
+    nav.className = "section-footer-nav";
+
+    const prevKey = keys[idx - 1];
+    const nextKey = keys[idx + 1];
+
+    if (prevKey) {
+      const btn = document.createElement("button");
+      btn.className = "sec-nav-btn sec-nav-prev";
+      btn.textContent = `← ${prevKey} · ${SECTION_LABELS[prevKey]}`;
+      btn.addEventListener("click", () => showSection(prevKey));
+      nav.appendChild(btn);
+    } else {
+      nav.appendChild(document.createElement("span"));
+    }
+
+    if (nextKey) {
+      const btn = document.createElement("button");
+      btn.className = "sec-nav-btn sec-nav-next";
+      btn.textContent = `${nextKey} · ${SECTION_LABELS[nextKey]} →`;
+      btn.addEventListener("click", () => showSection(nextKey));
+      nav.appendChild(btn);
+    }
+
+    block.appendChild(nav);
+  });
 }
 
 function showSection(key) {
@@ -179,6 +214,7 @@ function showSection(key) {
   examRoot.querySelectorAll(".sec-btn").forEach((btn) => {
     btn.classList.toggle("active", btn.dataset.sec === key);
   });
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function renderMultipleChoiceGroup(title, sectionKey, questions, parent, includeImage = false) {
