@@ -11,3 +11,14 @@ Thumbs.db
 *.log
 tmp/
 temp/
+
+# Dependencies
+node_modules/
+
+# Temporary test files
+test*.js
+test*.mjs
+
+# Source documents
+docs/*.pdf
+docs/*.docx
