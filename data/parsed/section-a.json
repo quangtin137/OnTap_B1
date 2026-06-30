@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "A_001",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 1,
+    "question": "Tim ______ the news, while his son was playing computer games.",
+    "options": {
+      "A": "is watching",
+      "B": "watches",
+      "C": "was watching",
+      "D": "watching"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_002",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 2,
+    "question": "Lenny ______ his old house two months ago.",
+    "options": {
+      "A": "were selling",
+      "B": "sells",
+      "C": "is selling",
+      "D": "sold"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_003",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 3,
+    "question": "He didn't meet Joe and Alf, because they left ______ than they usually do.",
+    "options": {
+      "A": "early",
+      "B": "earlier",
+      "C": "earliest",
+      "D": "the earliest"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_004",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 4,
+    "question": "you finish your report on time? ______",
+    "options": {
+      "A": "Was",
+      "B": "Are",
+      "C": "Did",
+      "D": "Were"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_005",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 5,
+    "question": "I was resting all day yesterday, because I was ______ tired.",
+    "options": {
+      "A": "terrible",
+      "B": "most terrible",
+      "C": "terribly",
+      "D": "more terribly"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_006",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 6,
+    "question": "Robert was crossing the street when he ______ Fred riding a motorcycle.",
+    "options": {
+      "A": "saw",
+      "B": "was seeing",
+      "C": "seeing",
+      "D": "is seeing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_007",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 7,
+    "question": "This artist is ______ famous of all three that you mentioned.",
+    "options": {
+      "A": "the less",
+      "B": "least",
+      "C": "less",
+      "D": "the least"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_008",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 8,
+    "question": "That's the boy ______ father is our teacher.",
+    "options": {
+      "A": "who",
+      "B": "which",
+      "C": "whose",
+      "D": "that"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_009",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 9,
+    "question": "Can you tell me ______ to put these boxes?",
+    "options": {
+      "A": "where",
+      "B": "when",
+      "C": "which",
+      "D": "who"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_010",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 10,
+    "question": "Mark, ______ is only twenty, teaches French.",
+    "options": {
+      "A": "which",
+      "B": "who",
+      "C": "when",
+      "D": "whose"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_011",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 11,
+    "question": "My doctor advised me to ______ a sport.",
+    "options": {
+      "A": "take off",
+      "B": "take after",
+      "C": "take up",
+      "D": "take on"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_012",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 12,
+    "question": "I can't believe that they ______ your offer.",
+    "options": {
+      "A": "turned on",
+      "B": "turned off",
+      "C": "turned out",
+      "D": "turned down"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_013",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 13,
+    "question": "When I suggested a walk in the woods, he ______ .",
+    "options": {
+      "A": "credited",
+      "B": "nodded",
+      "C": "raised",
+      "D": "shook"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_014",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 14,
+    "question": "After his mother's ______ , he moved to Argentina.",
+    "options": {
+      "A": "death",
+      "B": "strength",
+      "C": "power",
+      "D": "impression"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_015",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 15,
+    "question": "It was really ______ that nobody was hurt in that accident.",
+    "options": {
+      "A": "strong",
+      "B": "powerful",
+      "C": "incredible",
+      "D": "truthful"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_016",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 16,
+    "question": "Both my children are afraid ______ the dark.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "on",
+      "D": "with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_017",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 17,
+    "question": "They did everything in their ______ to keep the company.",
+    "options": {
+      "A": "truth",
+      "B": "strength",
+      "C": "impression",
+      "D": "power"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_018",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 18,
+    "question": "I bought a leather bag that ______ my new boots.",
+    "options": {
+      "A": "match",
+      "B": "matches",
+      "C": "suits",
+      "D": "suit"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_019",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 19,
+    "question": "Both her children have a very vivid ______ .",
+    "options": {
+      "A": "description",
+      "B": "impression",
+      "C": "admiration",
+      "D": "imagination"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_020",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 20,
+    "question": "I've got the ______ that they're lying again.",
+    "options": {
+      "A": "impression",
+      "B": "admiration",
+      "C": "imagination",
+      "D": "description"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_021",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 21,
+    "question": "Teddy ______ of moving closer to the city centre.",
+    "options": {
+      "A": "thinks",
+      "B": "is thinking",
+      "C": "don't think",
+      "D": "aren't thinking"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_022",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 22,
+    "question": "We ______ giving you a lift home.",
+    "options": {
+      "A": "don't mind",
+      "B": "aren't minding",
+      "C": "doesn't mind",
+      "D": "isn't minding"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_023",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 23,
+    "question": "The Potters ______ to Dubai at 9:00 tomorrow morning.",
+    "options": {
+      "A": "is flying",
+      "B": "don't fly",
+      "C": "doesn't fly",
+      "D": "are flying"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_024",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 24,
+    "question": "is your favorite European city? ______",
+    "options": {
+      "A": "When",
+      "B": "How",
+      "C": "Which",
+      "D": "Who"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_025",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 25,
+    "question": "much do they charge for a single room with breakfast? ______",
+    "options": {
+      "A": "How",
+      "B": "Who",
+      "C": "What",
+      "D": "Where"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_026",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 26,
+    "question": "is your brother talking to? ______",
+    "options": {
+      "A": "When",
+      "B": "Who",
+      "C": "Whose",
+      "D": "How"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_027",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 27,
+    "question": "The teacher ______ believe his excuse for not coming to school yesterday.",
+    "options": {
+      "A": "didn't",
+      "B": "don't",
+      "C": "used to not",
+      "D": "use to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_028",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 28,
+    "question": "Bobby ______ skinny when he was a child.",
+    "options": {
+      "A": "was used to",
+      "B": "were",
+      "C": "used to be",
+      "D": "got used"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_029",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 29,
+    "question": "I ______ to contact Mr. Peterson twice, but didn't find him.",
+    "options": {
+      "A": "tried",
+      "B": "tries",
+      "C": "used to try",
+      "D": "try"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_030",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 30,
+    "question": "After a couple of days, Sam finally ______ up early in the morning.",
+    "options": {
+      "A": "used to wake",
+      "B": "get used to wake",
+      "C": "wake",
+      "D": "got used to waking"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_031",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 31,
+    "question": "It took him a month to recover ______ his illness.",
+    "options": {
+      "A": "for",
+      "B": "from",
+      "C": "of",
+      "D": "at"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_032",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 32,
+    "question": "The book exhibition took ______ at the Carlton Hotel.",
+    "options": {
+      "A": "part",
+      "B": "advantage",
+      "C": "it easy",
+      "D": "place"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_033",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 33,
+    "question": "I didn't ______ Jason to come on time.",
+    "options": {
+      "A": "expect",
+      "B": "remember",
+      "C": "wait",
+      "D": "reminded"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_034",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 34,
+    "question": "I'm sorry but I can't find it ______ the map.",
+    "options": {
+      "A": "over",
+      "B": "on",
+      "C": "between",
+      "D": "along"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_035",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 35,
+    "question": "They spent the whole day in Alexandria looking at the ______ .",
+    "options": {
+      "A": "tasks",
+      "B": "part",
+      "C": "jobs",
+      "D": "sights"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_036",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 36,
+    "question": "He was lucky to find that ______ in their law firm.",
+    "options": {
+      "A": "job",
+      "B": "work",
+      "C": "site",
+      "D": "task"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_037",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 37,
+    "question": "I think that these trainers belong ______ your brother.",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "to",
+      "D": "at"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_038",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 38,
+    "question": "They usually take ______ of what I tell them.",
+    "options": {
+      "A": "their time",
+      "B": "part",
+      "C": "place",
+      "D": "no notice"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_039",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 39,
+    "question": "We never argue ______ our teacher.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "on",
+      "D": "from"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_040",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 40,
+    "question": "This dish is very healthy because it consists ______ fish and vegetables.",
+    "options": {
+      "A": "on",
+      "B": "of",
+      "C": "at",
+      "D": "with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_041",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 41,
+    "question": "At this time tomorrow, Gerry ______ his driving test.",
+    "options": {
+      "A": "shall take",
+      "B": "going to take",
+      "C": "shall have taken",
+      "D": "will be taking"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_042",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 42,
+    "question": "Henry ______ a shower as soon as he finishes cleaning his room.",
+    "options": {
+      "A": "will have had",
+      "B": "will have",
+      "C": "have",
+      "D": "is having"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_043",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 43,
+    "question": "Will you ______ painting the house by tomorrow?",
+    "options": {
+      "A": "finished",
+      "B": "going to fish",
+      "C": "have finished",
+      "D": "finishing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_044",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 44,
+    "question": "Those cars are going really fast. There ______ an accident.",
+    "options": {
+      "A": "is",
+      "B": "will have been",
+      "C": "is going to be",
+      "D": "going to be"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_045",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 45,
+    "question": "They could take better pictures if they ______ a digital camera.",
+    "options": {
+      "A": "would have",
+      "B": "will have",
+      "C": "had",
+      "D": "are going to have"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_046",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 46,
+    "question": "If I ______ by the sea, I would go fishing every day.",
+    "options": {
+      "A": "lived",
+      "B": "would live",
+      "C": "live",
+      "D": "will be living"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_047",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 47,
+    "question": "Could I have ______ more apple juice, please?",
+    "options": {
+      "A": "no",
+      "B": "some",
+      "C": "any",
+      "D": "many"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_048",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 48,
+    "question": "I can't drink this tea. There's too ______ sugar in it.",
+    "options": {
+      "A": "much",
+      "B": "plenty",
+      "C": "many",
+      "D": "lot of"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_049",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 49,
+    "question": "How ______ teachers were there at the seminar yesterday?",
+    "options": {
+      "A": "some",
+      "B": "many",
+      "C": "any",
+      "D": "much"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_050",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 50,
+    "question": "Don't leave. There are ______ more things I want to tell you.",
+    "options": {
+      "A": "few",
+      "B": "any",
+      "C": "little",
+      "D": "a few"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_051",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 51,
+    "question": "He finished my portrait yesterday, but he's putting ______ at the moment.",
+    "options": {
+      "A": "it mildly",
+      "B": "the final touches",
+      "C": "ideas into my head",
+      "D": "an end to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_052",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 52,
+    "question": "Do you think you could put ______ with the head teacher?",
+    "options": {
+      "A": "an end to",
+      "B": "it mildly",
+      "C": "the final touches",
+      "D": "in a good word for me"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_053",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 53,
+    "question": "I finally ______ trying to make him change his mind.",
+    "options": {
+      "A": "gave up",
+      "B": "gave out",
+      "C": "gave back",
+      "D": "gave off"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_054",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 54,
+    "question": "They told me to ______ these leaflets.",
+    "options": {
+      "A": "give off",
+      "B": "give out",
+      "C": "give up",
+      "D": "give in to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_055",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 55,
+    "question": "They ______ the meeting because the chairman had to leave.",
+    "options": {
+      "A": "showed off",
+      "B": "paid off",
+      "C": "got off",
+      "D": "put off"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_056",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 56,
+    "question": "Andy loves ______ his brand-new sports car.",
+    "options": {
+      "A": "giving off",
+      "B": "putting off",
+      "C": "showing off",
+      "D": "cooling off"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_057",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 57,
+    "question": "I broke my leg as I was ______ the bus yesterday morning.",
+    "options": {
+      "A": "cooling off",
+      "B": "giving off",
+      "C": "paying off",
+      "D": "getting off"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_058",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 58,
+    "question": "According ______ Ned, that's the best Chinese restaurant in the city.",
+    "options": {
+      "A": "of",
+      "B": "in",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_059",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 59,
+    "question": "Unfortunately, he didn't succeed ______ getting the job after all.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "for",
+      "D": "at"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_060",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 60,
+    "question": "Matt worked so hard that he finally made ______ .",
+    "options": {
+      "A": "haste",
+      "B": "it to the top",
+      "C": "the most of",
+      "D": "difficult"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_061",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 61,
+    "question": "The Carltons have never ______ Denmark before.",
+    "options": {
+      "A": "been to",
+      "B": "gone to",
+      "C": "gone in",
+      "D": "been at"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_062",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 62,
+    "question": "Have you ______ thought of studying abroad?",
+    "options": {
+      "A": "since",
+      "B": "before",
+      "C": "never",
+      "D": "ever"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_063",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 63,
+    "question": "Danny ______ tennis since he was a child.",
+    "options": {
+      "A": "played",
+      "B": "plays",
+      "C": "been playing",
+      "D": "has been playing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_064",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 64,
+    "question": "It has been raining heavily ______ our plane took off two hours ago.",
+    "options": {
+      "A": "while",
+      "B": "already",
+      "C": "since",
+      "D": "still"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_065",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 65,
+    "question": "Mr. Marfin ______ go on business trips very often.",
+    "options": {
+      "A": "need",
+      "B": "needs",
+      "C": "doesn't have",
+      "D": "has to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_066",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 66,
+    "question": "We can't meet Jack today. We ______ to work overtime.",
+    "options": {
+      "A": "have",
+      "B": "must",
+      "C": "had better",
+      "D": "would rather"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_067",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 67,
+    "question": "I'd ______ join you for dinner than stay at home.",
+    "options": {
+      "A": "rather",
+      "B": "had better",
+      "C": "need",
+      "D": "must"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_068",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 68,
+    "question": "Luckily, we ______ wait for them. We can leave right now.",
+    "options": {
+      "A": "don't have",
+      "B": "don't need",
+      "C": "needn't",
+      "D": "not have to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_069",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 69,
+    "question": "She ______ still be at home. I talked to her on the phone a couple of minutes ago.",
+    "options": {
+      "A": "has to",
+      "B": "better",
+      "C": "must",
+      "D": "needs"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_070",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 70,
+    "question": "I ______ see an optician. I can't see very clearly lately.",
+    "options": {
+      "A": "would rather",
+      "B": "may not",
+      "C": "might not",
+      "D": "had better"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_071",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 71,
+    "question": "My brother came ______ the flu last week and hasn't recovered yet.",
+    "options": {
+      "A": "across",
+      "B": "apart",
+      "C": "up with",
+      "D": "down with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_072",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 72,
+    "question": "Why don't you ask Felix? He always comes ______ great ideas.",
+    "options": {
+      "A": "off",
+      "B": "up with",
+      "C": "down with",
+      "D": "apart"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_073",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 73,
+    "question": "They haven't cleaned their attic ______ .",
+    "options": {
+      "A": "for ages",
+      "B": "in the future",
+      "C": "in common",
+      "D": "out of the ordinary"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_074",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 74,
+    "question": "I really had no intention ______ insulting your father.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "on",
+      "D": "at"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_075",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 75,
+    "question": "They aren't interested ______ buying Steve's country house.",
+    "options": {
+      "A": "to",
+      "B": "on",
+      "C": "in",
+      "D": "for"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_076",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 76,
+    "question": "We must ______ into consideration everything he said.",
+    "options": {
+      "A": "regard",
+      "B": "give",
+      "C": "think",
+      "D": "take"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_077",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 77,
+    "question": "We're looking ______ seeing our grandparents.",
+    "options": {
+      "A": "after",
+      "B": "out",
+      "C": "over",
+      "D": "forward to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_078",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 78,
+    "question": "Brad ______ his best to please his guests yesterday evening.",
+    "options": {
+      "A": "took",
+      "B": "did",
+      "C": "brought",
+      "D": "made"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_079",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 79,
+    "question": "Eating more fruit and vegetables will do you ______ .",
+    "options": {
+      "A": "badly",
+      "B": "well",
+      "C": "good",
+      "D": "best"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_080",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 80,
+    "question": "I'm afraid that the new sales representative doesn't ______ the manager.",
+    "options": {
+      "A": "get by",
+      "B": "get through",
+      "C": "get across",
+      "D": "get on well with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_081",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 81,
+    "question": "I could ______ killed if the driver hadn't stopped quickly.",
+    "options": {
+      "A": "have",
+      "B": "have been",
+      "C": "to have",
+      "D": "to have been"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_082",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 82,
+    "question": "If the meat ______ so tough, the children would have eaten it.",
+    "options": {
+      "A": "hadn't been",
+      "B": "hasn't been",
+      "C": "wouldn't be",
+      "D": "wouldn't have been"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_083",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 83,
+    "question": "If you hadn't helped me, I ______ finished on time.",
+    "options": {
+      "A": "didn't",
+      "B": "wouldn't",
+      "C": "wouldn't be",
+      "D": "wouldn't have"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_084",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 84,
+    "question": "He wouldn't have believed me if he ______ it with his own eyes.",
+    "options": {
+      "A": "haven't seen",
+      "B": "wouldn't see",
+      "C": "hadn't seen",
+      "D": "hadn't been seen"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_085",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 85,
+    "question": "I wish I ______ answer all his questions.",
+    "options": {
+      "A": "can",
+      "B": "could",
+      "C": "had",
+      "D": "have to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_086",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 86,
+    "question": "If only the fire brigade ______ earlier.",
+    "options": {
+      "A": "arrives",
+      "B": "has arrived",
+      "C": "was arriving",
+      "D": "had arrived"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_087",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 87,
+    "question": "He wishes he ______ so many mistakes.",
+    "options": {
+      "A": "made",
+      "B": "hadn't made",
+      "C": "hasn't made",
+      "D": "had made"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_088",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 88,
+    "question": "these two books have the information I need. ______",
+    "options": {
+      "A": "None",
+      "B": "Not any",
+      "C": "Neither of",
+      "D": "Not of"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_089",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 89,
+    "question": "Ian and Gerry took part in the competition. ______",
+    "options": {
+      "A": "Both",
+      "B": "Either",
+      "C": "Neither",
+      "D": "All"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_090",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 90,
+    "question": "four of my friends have their own computer. ______",
+    "options": {
+      "A": "None",
+      "B": "All",
+      "C": "Either",
+      "D": "Both"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_091",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 91,
+    "question": "I thought I knew him very well, but it would never have gone ______ that he would decide to live abroad.",
+    "options": {
+      "A": "wild",
+      "B": "red",
+      "C": "bananas",
+      "D": "through my mind"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_092",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 92,
+    "question": "Liam and Ken have checked it. I'm sure nothing can ______ .",
+    "options": {
+      "A": "go wrong",
+      "B": "go wild",
+      "C": "go red",
+      "D": "go over the top"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_093",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 93,
+    "question": "Dean is very shy. He always goes ______ when somebody talks to him.",
+    "options": {
+      "A": "bad",
+      "B": "red",
+      "C": "wrong",
+      "D": "through his mind"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_094",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 94,
+    "question": "It's very hot in here. Don't leave the fish out of the fridge because it will ______ .",
+    "options": {
+      "A": "go wild",
+      "B": "go bananas",
+      "C": "go bad",
+      "D": "go over the top"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_095",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 95,
+    "question": "At ______ , you've got your own bedroom now that you moved house.",
+    "options": {
+      "A": "last",
+      "B": "late",
+      "C": "lately",
+      "D": "later"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_096",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 96,
+    "question": "I've noticed that Helen hasn't been feeling very well ______ .",
+    "options": {
+      "A": "latest",
+      "B": "later",
+      "C": "late",
+      "D": "lately"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_097",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 97,
+    "question": "I try not to have dinner ______ at night.",
+    "options": {
+      "A": "last",
+      "B": "late",
+      "C": "latest",
+      "D": "least"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_098",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 98,
+    "question": "You could at ______ phone me to let me know that you wouldn't come.",
+    "options": {
+      "A": "later",
+      "B": "late",
+      "C": "least",
+      "D": "latest"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_099",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 99,
+    "question": "I can't stand him anymore; I'm going to put things straight ______ .",
+    "options": {
+      "A": "all over",
+      "B": "at all",
+      "C": "all the same",
+      "D": "once and for all"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_100",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 100,
+    "question": ", his comments on their behaviour seemed fair. ______",
+    "options": {
+      "A": "All over",
+      "B": "All in all",
+      "C": "At all",
+      "D": "All year round"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_101",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 101,
+    "question": "Andrew managed ______ a promotion.",
+    "options": {
+      "A": "in getting",
+      "B": "to get",
+      "C": "getting",
+      "D": "get"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_102",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 102,
+    "question": "I'd rather ______ with my cousin for the weekend.",
+    "options": {
+      "A": "stay",
+      "B": "to stay",
+      "C": "staying",
+      "D": "to staying"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_103",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 103,
+    "question": "They suggested ______ the children to the new aquarium.",
+    "options": {
+      "A": "to take",
+      "B": "in taking",
+      "C": "taking",
+      "D": "to taking"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_104",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 104,
+    "question": "Don't forget ______ off the computer when you finish.",
+    "options": {
+      "A": "turning",
+      "B": "to turning",
+      "C": "turn",
+      "D": "to turn"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_105",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 105,
+    "question": "I'm sorry, but I don't really feel like ______ them tonight.",
+    "options": {
+      "A": "seeing",
+      "B": "to see",
+      "C": "see",
+      "D": "to seeing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_106",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 106,
+    "question": "Charles ______ his car washed for two months.",
+    "options": {
+      "A": "hadn't been",
+      "B": "hasn't had",
+      "C": "hasn't",
+      "D": "hadn't been having"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_107",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 107,
+    "question": "Could I ______ by fax, please?",
+    "options": {
+      "A": "have been sent",
+      "B": "have sent it",
+      "C": "had it sent",
+      "D": "have it sent"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_108",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 108,
+    "question": "You ______ checked the report twice.",
+    "options": {
+      "A": "should have been",
+      "B": "could",
+      "C": "should have",
+      "D": "could have been"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_109",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 109,
+    "question": "They ______ come back from the shopping centre by now.",
+    "options": {
+      "A": "must have",
+      "B": "must have to",
+      "C": "might be",
+      "D": "may have been"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_110",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 110,
+    "question": "I'm not sure, but I think he ______ used your coffee mug.",
+    "options": {
+      "A": "can have been",
+      "B": "might have to",
+      "C": "can be",
+      "D": "may have"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_111",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 111,
+    "question": "I was cooking and talking on the phone ______ .",
+    "options": {
+      "A": "at once",
+      "B": "at random",
+      "C": "at a glance",
+      "D": "at the same time"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_112",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 112,
+    "question": "They're having a lesson ______ .",
+    "options": {
+      "A": "at random",
+      "B": "at a glance",
+      "C": "at the moment",
+      "D": "at once"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_113",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 113,
+    "question": "of six, he wanted to become an astronaut. ______",
+    "options": {
+      "A": "At a glance",
+      "B": "At the age",
+      "C": "At the moment",
+      "D": "At the same time"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_114",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 114,
+    "question": "The headmaster told them to go to their classroom ______ .",
+    "options": {
+      "A": "at once",
+      "B": "at the age",
+      "C": "at his own speed",
+      "D": "at a glance"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_115",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 115,
+    "question": "I'm really sorry, but I didn't have ______ that your mother was so seriously ill.",
+    "options": {
+      "A": "the chance",
+      "B": "an argument",
+      "C": "a lot in common",
+      "D": "the slightest idea"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_116",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 116,
+    "question": "The chief editor had ______ at the whole magazine before it was printed.",
+    "options": {
+      "A": "an effect",
+      "B": "a look",
+      "C": "a lot in common",
+      "D": "an argument"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_117",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 117,
+    "question": "I'm sure that he had ______ leaving you here all by yourself.",
+    "options": {
+      "A": "a look at",
+      "B": "the chance",
+      "C": "no intention of",
+      "D": "an effect on"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_118",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 118,
+    "question": "Unfortunately, they had a big ______ their supervisor yesterday morning.",
+    "options": {
+      "A": "effect on",
+      "B": "intention of",
+      "C": "look at",
+      "D": "argument with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_119",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 119,
+    "question": "Gregory never ______ what his mother tells him.",
+    "options": {
+      "A": "informs",
+      "B": "is used to",
+      "C": "pays attention to",
+      "D": "makes his way to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_120",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 120,
+    "question": "Mona's teacher ______ her from taking the exams.",
+    "options": {
+      "A": "informed",
+      "B": "discouraged",
+      "C": "waited",
+      "D": "made"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_121",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 121,
+    "question": "The plans for the new hospital ______ soon.",
+    "options": {
+      "A": "will make",
+      "B": "will be made",
+      "C": "will be making",
+      "D": "are made"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_122",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 122,
+    "question": "All the bills ______ by my father.",
+    "options": {
+      "A": "have paid",
+      "B": "be paid",
+      "C": "been paid",
+      "D": "have been paid"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_123",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 123,
+    "question": "The Spanish language ______ in many countries.",
+    "options": {
+      "A": "is spoken",
+      "B": "speaks",
+      "C": "are spoken",
+      "D": "spoken"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_124",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 124,
+    "question": "I didn't turn on the light ______ I didn't want to wake the baby up.",
+    "options": {
+      "A": "because of",
+      "B": "as",
+      "C": "despite",
+      "D": "so as not"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_125",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 125,
+    "question": "Our flight wasn't cancelled ______ the heavy storm.",
+    "options": {
+      "A": "although",
+      "B": "in spite",
+      "C": "despite",
+      "D": "even though"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_126",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 126,
+    "question": "They took a taxi ______ catch their flight.",
+    "options": {
+      "A": "so as",
+      "B": "so that",
+      "C": "as to",
+      "D": "in order to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_127",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 127,
+    "question": "Is tomorrow's newspaper ______ right now?",
+    "options": {
+      "A": "been printed",
+      "B": "be printing",
+      "C": "being printed",
+      "D": "been printing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_128",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 128,
+    "question": "George ______ at 5 o'clock yesterday.",
+    "options": {
+      "A": "has been interviewed",
+      "B": "was interviewing",
+      "C": "interviewed",
+      "D": "was being interviewed"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_129",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 129,
+    "question": "Samuel ______ to be responsible for the accident.",
+    "options": {
+      "A": "is believed",
+      "B": "believed",
+      "C": "has believed",
+      "D": "has been believed"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_130",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 130,
+    "question": "He ______ a bike by his grandparents.",
+    "options": {
+      "A": "gave",
+      "B": "was given",
+      "C": "was giving",
+      "D": "will give"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_131",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 131,
+    "question": "The new bridge is still under ______ .",
+    "options": {
+      "A": "supervision",
+      "B": "age",
+      "C": "the same roof",
+      "D": "construction"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_132",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 132,
+    "question": "Barry worked on this project under the ______ of Mr Thomson.",
+    "options": {
+      "A": "supervision",
+      "B": "repair",
+      "C": "age",
+      "D": "consideration"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_133",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 133,
+    "question": "The company's offer is under ______ .",
+    "options": {
+      "A": "construction",
+      "B": "consideration",
+      "C": "repair",
+      "D": "the same roof"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_134",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 134,
+    "question": "Tim and Matt argue all the time. They can't live under ______ .",
+    "options": {
+      "A": "the same roof",
+      "B": "age",
+      "C": "consideration",
+      "D": "construction"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_135",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 135,
+    "question": "Mr Pitt doesn't have a credit card and always pays ______ .",
+    "options": {
+      "A": "in common",
+      "B": "in fact",
+      "C": "in cash",
+      "D": "in detail"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_136",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 136,
+    "question": "The guests will be here in twenty minutes. In ______ , we can lay the table.",
+    "options": {
+      "A": "detail",
+      "B": "common",
+      "C": "danger",
+      "D": "the meantime"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_137",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 137,
+    "question": "I'm afraid we have nothing ______ with Philip and his brother.",
+    "options": {
+      "A": "in common",
+      "B": "in detail",
+      "C": "in the meantime",
+      "D": "in danger"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_138",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 138,
+    "question": "Isn't Mark here? In ______ , we'll have to start the meeting without him.",
+    "options": {
+      "A": "detail",
+      "B": "that case",
+      "C": "cash",
+      "D": "common"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_139",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 139,
+    "question": "Why don't you ask him to put you ______ to Mr Robinson?",
+    "options": {
+      "A": "up",
+      "B": "out",
+      "C": "through",
+      "D": "up with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_140",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 140,
+    "question": "Since he missed the last bus, I can put him ______ for the night",
+    "options": {
+      "A": "forward",
+      "B": "through",
+      "C": "up with",
+      "D": "up"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_141",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 141,
+    "question": "I was very tired yesterday because I ______ for two nights.",
+    "options": {
+      "A": "haven't been sleeping",
+      "B": "hadn't slept",
+      "C": "didn't sleep",
+      "D": "was sleeping"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_142",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 142,
+    "question": "How long had you been standing there before I ______ you?",
+    "options": {
+      "A": "see",
+      "B": "had seen",
+      "C": "was seeing",
+      "D": "saw"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_143",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 143,
+    "question": "When Jill heard the alarm, she ran out of the house, but the thieves ______ her car.",
+    "options": {
+      "A": "had already stolen",
+      "B": "were already stolen",
+      "C": "already stole",
+      "D": "had already been stealing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_144",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 144,
+    "question": "Mark ______ to learn Spanish on his own for three years, but last year he decided to go to a language school",
+    "options": {
+      "A": "was trying",
+      "B": "had been trying",
+      "C": "has tried",
+      "D": "has been trying"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_145",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 145,
+    "question": "Eric said that he had lost his mobile phone ______ .",
+    "options": {
+      "A": "yesterday",
+      "B": "previous day",
+      "C": "the day until",
+      "D": "the day before"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_146",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 146,
+    "question": "Carl told ______ that Tom couldn't be there on time.",
+    "options": {
+      "A": "me",
+      "B": "to me",
+      "C": "for me",
+      "D": "at me"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_147",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 147,
+    "question": "His secretary told them ______ in the office.",
+    "options": {
+      "A": "not wait",
+      "B": "not to wait",
+      "C": "to not wait",
+      "D": "don't wait"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_148",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 148,
+    "question": "Mr. Taylor ______ to the hotel manager about the service in the hotel.",
+    "options": {
+      "A": "said",
+      "B": "explained",
+      "C": "accused",
+      "D": "complained"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_149",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 149,
+    "question": "Mike asked me ______ abroad before.",
+    "options": {
+      "A": "whether I travel",
+      "B": "had I travelled",
+      "C": "if I travelled",
+      "D": "whether I had travelled"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_150",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 150,
+    "question": "The police officer asked me ______ .",
+    "options": {
+      "A": "where are you from",
+      "B": "whether you are from",
+      "C": "where I was from",
+      "D": "where was I from"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_151",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 151,
+    "question": "Both my brother and I are still ______ our old friends from Dover.",
+    "options": {
+      "A": "in place of",
+      "B": "in touch with",
+      "C": "in answer to",
+      "D": "in addition to"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_152",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 152,
+    "question": "Could you tell me who is ______ of the marketing department?",
+    "options": {
+      "A": "in charge",
+      "B": "in answer",
+      "C": "in agreement",
+      "D": "in comparison"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_153",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 153,
+    "question": "In ______ painting the whole house, he built a new garage.",
+    "options": {
+      "A": "charge of",
+      "B": "front of",
+      "C": "addition to",
+      "D": "touch with"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_154",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 154,
+    "question": "The children were telling stories ______ the fireplace.",
+    "options": {
+      "A": "in place of",
+      "B": "in touch with",
+      "C": "in addition to",
+      "D": "in front of"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_155",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 155,
+    "question": "The teacher asked me when World War II ______ .",
+    "options": {
+      "A": "broke out",
+      "B": "broke in",
+      "C": "broke into",
+      "D": "broke down"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_156",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 156,
+    "question": "Joe was late because his car had ______ .",
+    "options": {
+      "A": "broken out",
+      "B": "broken in",
+      "C": "broken down",
+      "D": "broken through"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_157",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 157,
+    "question": "Somebody ______ my best friend's house a week ago.",
+    "options": {
+      "A": "broke out",
+      "B": "broke into",
+      "C": "broke through",
+      "D": "broke down"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_158",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 158,
+    "question": "I'm sorry for ______ on your conversation but we have to leave soon,",
+    "options": {
+      "A": "breaking in",
+      "B": "breaking down",
+      "C": "breaking through",
+      "D": "breaking out"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_159",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 159,
+    "question": "He was caught ______ stealing money from my purse.",
+    "options": {
+      "A": "off guard",
+      "B": "sight of",
+      "C": "a cold",
+      "D": "red-handed"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_160",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 160,
+    "question": "Don't walk in the rain without your anorak or you'll ______ .",
+    "options": {
+      "A": "catch a cold",
+      "B": "catch sight of it",
+      "C": "catch your eye",
+      "D": "catch it off guard"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_161",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 161,
+    "question": "The children are looking ______ seeing their cousins from Mexico.",
+    "options": {
+      "A": "forward to",
+      "B": "after",
+      "C": "out",
+      "D": "over"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_162",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 162,
+    "question": "Peter's job interview turned ______ to be a total disaster.",
+    "options": {
+      "A": "up",
+      "B": "off",
+      "C": "out",
+      "D": "down"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_163",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 163,
+    "question": "I really wish you wouldn't comment ______ everything I do. It's really annoying.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "for",
+      "D": "on"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_164",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 164,
+    "question": "The new project is under Mr. Benson's ______",
+    "options": {
+      "A": "supervision",
+      "B": "construction",
+      "C": "consideration",
+      "D": "repair"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_165",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 165,
+    "question": "Could you please inform me ______ the changes which have occurred in the new program?",
+    "options": {
+      "A": "on",
+      "B": "with",
+      "C": "for",
+      "D": "about"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_166",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 166,
+    "question": "My father was raised in great ______ so he doesn't like to waste money on silly things.",
+    "options": {
+      "A": "luxury",
+      "B": "poverty",
+      "C": "consideration",
+      "D": "supervision"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_167",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 167,
+    "question": "We were asked to pay ______ .",
+    "options": {
+      "A": "with regard to",
+      "B": "at convenience",
+      "C": "in advance",
+      "D": "into consideration"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_168",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 168,
+    "question": "We'll discuss the matter in ______ .",
+    "options": {
+      "A": "detail",
+      "B": "conclusion",
+      "C": "meantime",
+      "D": "fact"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_169",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 169,
+    "question": "We finally found tickets for the match so we will go ______ .",
+    "options": {
+      "A": "at all",
+      "B": "all over",
+      "C": "all in all",
+      "D": "after all"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_170",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 170,
+    "question": "We can arrange an appointment ______ .",
+    "options": {
+      "A": "with regard to",
+      "B": "into consideration",
+      "C": "at all",
+      "D": "at your convenience"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_171",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 171,
+    "question": "My sister helped me give ______ the invitations.",
+    "options": {
+      "A": "up",
+      "B": "out",
+      "C": "off",
+      "D": "away"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_172",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 172,
+    "question": "Take ______ . There's no need to shout.",
+    "options": {
+      "A": "no notice",
+      "B": "part in",
+      "C": "it easy",
+      "D": "your time"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_173",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 173,
+    "question": "The doctor would like to look ______ your results one more time.",
+    "options": {
+      "A": "out",
+      "B": "up",
+      "C": "after",
+      "D": "over"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_174",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 174,
+    "question": "You ______ see a doctor about that cough.",
+    "options": {
+      "A": "had better",
+      "B": "would better",
+      "C": "could better",
+      "D": "should better"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_175",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 175,
+    "question": "What ______ between 5 and 6 o'clock last night?",
+    "options": {
+      "A": "had you done",
+      "B": "were you doing",
+      "C": "have you done",
+      "D": "had you been doing"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_176",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 176,
+    "question": "We have an upset stomach this morning. The fish we ate last night ______ have been fresh .",
+    "options": {
+      "A": "shouldn't",
+      "B": "wouldn't",
+      "C": "needn't",
+      "D": "couldn't"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_177",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 177,
+    "question": "You should ______ your hair cut. It has grown really long.",
+    "options": {
+      "A": "had",
+      "B": "having",
+      "C": "have",
+      "D": "to have"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_178",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 178,
+    "question": "My father said that he ______ about buying me a scooter.",
+    "options": {
+      "A": "would think",
+      "B": "will think",
+      "C": "is thinking",
+      "D": "has thought"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_179",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 179,
+    "question": "\"Can I have some more cake?\" \"Help yourself. You ______ ask.\"",
+    "options": {
+      "A": "can't",
+      "B": "needn't",
+      "C": "couldn't",
+      "D": "wouldn't"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_180",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 180,
+    "question": "Mandy ______ them not to touch the wire.",
+    "options": {
+      "A": "suggested",
+      "B": "apologized",
+      "C": "warned",
+      "D": "denied"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_181",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 181,
+    "question": "The electrician ______ a new camera at the bank right now.",
+    "options": {
+      "A": "installs",
+      "B": "was installing",
+      "C": "is installing",
+      "D": "had installed"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_182",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 182,
+    "question": "I ______ to sort out this situation once and for all.",
+    "options": {
+      "A": "will",
+      "B": "am going",
+      "C": "shall",
+      "D": "will be going"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_183",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 183,
+    "question": "As Liam ______ down the street, a flower pot fell on his head.",
+    "options": {
+      "A": "walks",
+      "B": "was walking",
+      "C": "is walking",
+      "D": "walking"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_184",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 184,
+    "question": "This time next week we ______ our final exam.",
+    "options": {
+      "A": "are talking",
+      "B": "take",
+      "C": "will be taking",
+      "D": "will have taken"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_185",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 185,
+    "question": "You can have ______ the cheese cake or the coconut tart.",
+    "options": {
+      "A": "either",
+      "B": "neither",
+      "C": "both",
+      "D": "none"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_186",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 186,
+    "question": "It's difficult for me ______ right now. I need more time to think about it.",
+    "options": {
+      "A": "decide",
+      "B": "deciding",
+      "C": "to be decided",
+      "D": "to decide"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_187",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 187,
+    "question": "Oliver speaks Japanese really ______ .",
+    "options": {
+      "A": "well",
+      "B": "good",
+      "C": "better",
+      "D": "best"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_188",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 188,
+    "question": "He warned me ______ on that chair because it was broken.",
+    "options": {
+      "A": "not sitting",
+      "B": "never sitting",
+      "C": "don't sit",
+      "D": "not to sit"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_189",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 189,
+    "question": "There's ______ carrot cake left but not enough for all of your friends.",
+    "options": {
+      "A": "few",
+      "B": "little",
+      "C": "a few",
+      "D": "a little"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_190",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 190,
+    "question": "Did you know that ______ reptiles are cold-blooded?",
+    "options": {
+      "A": "all",
+      "B": "either",
+      "C": "neither",
+      "D": "none"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_191",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 191,
+    "question": "the train was late, he got to work on time. ______",
+    "options": {
+      "A": "Despite",
+      "B": "Although",
+      "C": "In spite",
+      "D": "In spite of"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_192",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 192,
+    "question": "Dad was right! I really wish I ______ his advice!",
+    "options": {
+      "A": "take",
+      "B": "took",
+      "C": "had taken",
+      "D": "have taken"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_193",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 193,
+    "question": "I couldn't fall asleep last night, so I tried ______ a book, but that didn't help either.",
+    "options": {
+      "A": "to read",
+      "B": "reading",
+      "C": "read",
+      "D": "to have read"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_194",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 194,
+    "question": "If I ______ you, I'd call him right now.",
+    "options": {
+      "A": "am",
+      "B": "have been",
+      "C": "will be",
+      "D": "were"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_195",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 195,
+    "question": "This exercise isn't as easy ______ it may seem.",
+    "options": {
+      "A": "as",
+      "B": "so",
+      "C": "than",
+      "D": "from"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_196",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 196,
+    "question": "Last Saturday they visited the village ______ their father was born.",
+    "options": {
+      "A": "which",
+      "B": "where",
+      "C": "whose",
+      "D": "when"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_197",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 197,
+    "question": "Give me a call when you ______ to the office.",
+    "options": {
+      "A": "go",
+      "B": "will go",
+      "C": "are going",
+      "D": "went"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_198",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 198,
+    "question": "I'm a bit tired so I'd rather ______ in tonight.",
+    "options": {
+      "A": "staying",
+      "B": "am staying",
+      "C": "to stay",
+      "D": "stay"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_199",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 199,
+    "question": "Unless you start taking your medication, you ______ feel better.",
+    "options": {
+      "A": "will",
+      "B": "won't",
+      "C": "would",
+      "D": "wouldn't"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  },
+  {
+    "id": "A_200",
+    "section": "A",
+    "type": "mcq",
+    "questionNumber": 200,
+    "question": "When I arrived at the airport, I realized that I ______ my ticket.",
+    "options": {
+      "A": "have forgotten",
+      "B": "forget",
+      "C": "had forgotten",
+      "D": "was forgetting"
+    },
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025"
+    }
+  }
+]

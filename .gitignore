@@ -1,0 +1,13 @@
+# Agent / BMAD local tooling
+.agent/
+_bmad/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs / temp
+*.log
+tmp/
+temp/
