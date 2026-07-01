@@ -1,0 +1,382 @@
+[
+  {
+    "id": "G_001",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 1,
+    "topicNumber": 1,
+    "prompt": "Some students work while studying. This often results in lacking time for education and constantly feeling under pressure. What do you think are the causes of this? What solutions can you suggest?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_002",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 2,
+    "topicNumber": 2,
+    "prompt": "Nowadays families are not as close as they used to be. What do you think are the causes of this? What can be done to make families closer?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_003",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 3,
+    "topicNumber": 3,
+    "prompt": "It is better to have one true friend than all the acquaintances in the world. Do you agree or disagree with this statement?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_004",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 4,
+    "topicNumber": 4,
+    "prompt": "Today more people are overweight than ever before. What in your opinion are the primary causes of this? What measures can be taken to overcome this epidemic?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_005",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 5,
+    "topicNumber": 5,
+    "prompt": "Big salary is much more important than job satisfaction. Do you agree or disagree? Provide relevant examples if necessary.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_006",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 6,
+    "topicNumber": 6,
+    "prompt": "Describe the positive and negative impacts of technology on our lives and give your opinion.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_007",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 7,
+    "topicNumber": 7,
+    "prompt": "The best way to travel is to go on a guided tour. To what extent do you agree or disagree with this statement?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_008",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 8,
+    "topicNumber": 8,
+    "prompt": "Music plays a vital role in our society. How much has music influenced the way we think today? What do you think is the key role of music in today's world?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_009",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 9,
+    "topicNumber": 9,
+    "prompt": "How does social media impact tourism and travel?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_010",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 10,
+    "topicNumber": 10,
+    "prompt": "What are the advantages and disadvantages of studying abroad?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_011",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 11,
+    "topicNumber": 11,
+    "prompt": "Do you think it is better for students to work before their college/university study? Why/Why not? Use reasons and specific examples to support your choice.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_012",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 12,
+    "topicNumber": 12,
+    "prompt": "Some people say that protecting the environment is the government's responsibility. Others believe that every individual should be responsible for it. Discuss both views and give your own opinion.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_013",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 13,
+    "topicNumber": 13,
+    "prompt": "What technologies did you use to help you in your studies? Describe how it has helped you. Use specific reasons and details to support your answer.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_014",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 14,
+    "topicNumber": 14,
+    "prompt": "Many doctors say that people in today's world do not do enough physical exercise. What do you think are the causes of this? What solutions are there to this problem?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_015",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 15,
+    "topicNumber": 15,
+    "prompt": "Some people believe that employees should stay in the same job for the rest of their lives. Others think they should switch jobs at least once during their career. To what extent do you agree/disagree?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_016",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 16,
+    "topicNumber": 16,
+    "prompt": "Many students believe that it's better to gain knowledge in a group rather than individually. Do you agree or disagree?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_017",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 17,
+    "topicNumber": 17,
+    "prompt": "Some people think women should be given equal chances to work and excel in their careers. Others believe that a woman's role should be limited to taking care of the house and children. Which opinion do you agree with and why? Include specific details and examples to support your choice.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_018",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 18,
+    "topicNumber": 18,
+    "prompt": "Some people are fond of buying new gadgets, phones, or laptops. Is this a good or bad thing? Discuss your opinion.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_019",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 19,
+    "topicNumber": 19,
+    "prompt": "These days, mobile phones and the internet are very important to the ways in which people relate to one another socially. Do the advantages of this development outweigh the disadvantages?",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "G_020",
+    "section": "G",
+    "type": "essay_writing",
+    "questionNumber": 20,
+    "topicNumber": 20,
+    "prompt": "Some people think that young people should be free to choose their jobs, but other people think that they should be realistic and think more about their future. Discuss both views and give your opinion.",
+    "guidingQuestions": [],
+    "wordLimit": {
+      "min": 150,
+      "max": 200
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]

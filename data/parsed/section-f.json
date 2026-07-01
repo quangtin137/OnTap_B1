@@ -1,0 +1,463 @@
+[
+  {
+    "id": "F_001",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 1,
+    "topicNumber": 1,
+    "prompt": "You are studying English at a private language school attended by many international students. You are planning a surprise birthday party for a friend who has been feeling sad and homesick. Write an email with at least 150 words to another classmate and invite him/her to the party. In your email:",
+    "bulletPoints": [
+      "explain the reason for the party",
+      "give the date and time of the party",
+      "suggest what the classmate should bring to the party"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_002",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 2,
+    "topicNumber": 2,
+    "prompt": "An English-speaking friend wants to spend a two-week holiday in your region and has written asking for information and advice. Write a letter with at least 150 words to your friend. In your letter:",
+    "bulletPoints": [
+      "offer to find somewhere to stay",
+      "give advice about what to do",
+      "give information about what clothes to bring"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_003",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 3,
+    "topicNumber": 3,
+    "prompt": "Your best friend just had a nice new house. You are currently overseas but will be returning to your hometown in a week. Write an email with at least 150 words to your friend including:",
+    "bulletPoints": [
+      "congratulate your friend",
+      "tell her/him when you will be returning home",
+      "ask when you could drop in with a special gift to see the new house"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_004",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 4,
+    "topicNumber": 4,
+    "prompt": "An English-speaking friend is coming to study in your town next year and has written asking for information and advice. Write a letter with at least 150 words to your friend. In your letter:",
+    "bulletPoints": [
+      "offer to find a place for him/her to live",
+      "give advice on how to find a part-time job",
+      "give information on where he/she can learn your language"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_005",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 5,
+    "topicNumber": 5,
+    "prompt": "You stayed at your friend's house when you participated in a conference in Japan. You left a briefcase with some important documents in your room. Write an email with at least 150 words to your friend including:",
+    "bulletPoints": [
+      "thank your friend for the stay",
+      "describe the briefcase",
+      "ask him/her to return it to you by post"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_006",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 6,
+    "topicNumber": 6,
+    "prompt": "You stayed with an old friend in his/her hometown for a few days. You hadn't seen each other for a long time. Write an email with at least 150 words to the friend including:",
+    "bulletPoints": [
+      "say how you felt about the visit",
+      "refer to something enjoyable that you did while staying with him/her",
+      "invite your friend to visit you someday"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_007",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 7,
+    "topicNumber": 7,
+    "prompt": "You are looking for a part-time job. Write an email with at least 150 words to an employment agency. In your email:",
+    "bulletPoints": [
+      "introduce yourself",
+      "explain what sort of job you would like",
+      "say what experience and skills you have"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_008",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 8,
+    "topicNumber": 8,
+    "prompt": "Last Thursday, you flew from Vietnam to Singapore. When you arrived home, you discovered that you had left your cabin bag on the plane. Write an email with at least 150 words to the airline. In your email, you should explain:",
+    "bulletPoints": [
+      "where and when you lost your bag",
+      "what your bag looks like",
+      "what its contents were"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_009",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 9,
+    "topicNumber": 9,
+    "prompt": "Last week, you bought a new laptop at a good price in the city center which is far from your house. You worked on the laptop all week and finished writing a long assignment that is due shortly. However, this week, the laptop doesn't even switch on. Write a letter with at least 150 words to the store. In your letter:",
+    "bulletPoints": [
+      "tell the store where you live and what happened",
+      "explain the problem with the laptop",
+      "state what action you would like the store to take"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_010",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 10,
+    "topicNumber": 10,
+    "prompt": "You have been living in a rental apartment for the past year. Recently a new neighbor moved in who has loud parties several times a week. Write an email with at least 150 words complaining about this to the landlord. In your email:",
+    "bulletPoints": [
+      "explain the situation",
+      "describe why it bothers you",
+      "suggest a solution"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_011",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 11,
+    "topicNumber": 11,
+    "prompt": "You are going to take a short holiday in Singapore and you want to rent a holiday apartment while you are there. Write a letter with at least 150 words to the tourist information office. In your letter:",
+    "bulletPoints": [
+      "explain what you need",
+      "where/ what kind of apartment you want to live",
+      "say when you plan to be there",
+      "ask for information about prices"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_012",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 12,
+    "topicNumber": 12,
+    "prompt": "Your neighbors have recently written to you to complain about the noise from your house/flat. Write an email with at least 150 words to your neighbors. In your email:",
+    "bulletPoints": [
+      "explain the reasons for the noise",
+      "apologize for inconvenience",
+      "describe what action you will take"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_013",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 13,
+    "topicNumber": 13,
+    "prompt": "Your family is visiting Singapore next month. You have an English e-pal who also lives in Singapore. You would like to meet her when you go to Singapore. Write anemail with at least 150 words to him/her. In your email, you should:",
+    "bulletPoints": [
+      "say when your family is coming to Singapore",
+      "ask if you can meet up, and suggest a day",
+      "suggest what you can do together"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_014",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 14,
+    "topicNumber": 14,
+    "prompt": "You recently heard about some new jobs at a local department store. You would like to work there. Write a letter with at least 150 words to the store manager of the departmentstore. In your letter:",
+    "bulletPoints": [
+      "explain how you heard about the job",
+      "describe the kind of job you would like to have",
+      "give details of your experience and qualifications"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_015",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 15,
+    "topicNumber": 15,
+    "prompt": "You saw an advertisement requiring volunteers for an organization that helps children. Write a letter with at least 150 words to the organization and offer to volunteer part-time. Include the following in your letter:",
+    "bulletPoints": [
+      "Why are you applying for this position?",
+      "What makes you suitable for it?",
+      "When will you be available?"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_016",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 16,
+    "topicNumber": 16,
+    "prompt": "You have just moved into a new home and are planning to hold a housewarming. You are worried that the noise may disturb your neighbor. Write a letter with at least 150 words to your neighbor. In your letter:",
+    "bulletPoints": [
+      "introduce yourself",
+      "describe your plans for the party",
+      "invite your neighbor to come"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_017",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 17,
+    "topicNumber": 17,
+    "prompt": "You have been offered a job that will require you to move to a city that you have never visited before. You have a friend who lives there. Write an email with at least 150 words to your friend. In your email:",
+    "bulletPoints": [
+      "explain your situation",
+      "say why you feel unsure about living in the city",
+      "ask some questions about life in the city"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_018",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 18,
+    "topicNumber": 18,
+    "prompt": "You have a friend who lives abroad. You have decided to apply for a course at one of the colleges/universities in his city. Write an email with at least 150 words to your friend explaining:",
+    "bulletPoints": [
+      "tell them about the college/university and the course",
+      "why you want to do it",
+      "ask for their help to find accommodation if you get admission to the course"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_019",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 19,
+    "topicNumber": 19,
+    "prompt": "One of your friends recently had a birthday celebration. However, you missed it and you forgot to tell your friend that you couldn't attend. Write an email with at least 150 words to your friend. In your email:",
+    "bulletPoints": [
+      "apologize for missing the birthday celebration",
+      "explain why you missed it and why you didn't tell your friend",
+      "say what you would like to do to show that you are sorry"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "F_020",
+    "section": "F",
+    "type": "email_letter_writing",
+    "questionNumber": 20,
+    "topicNumber": 20,
+    "prompt": "An overseas friend has invited you to visit his country. You are planning to visit him. Write a letter with at least 150 words to your friend. In your letter:",
+    "bulletPoints": [
+      "thank him for the invitation and accept the invitation",
+      "write details about your visit",
+      "briefly describe what you want to do there"
+    ],
+    "wordLimit": {
+      "min": 150,
+      "max": null
+    },
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]
