@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "E_001",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 1,
+    "sourceQuestionNumber": 1,
+    "setNumber": 1,
+    "originalSentence": "Jack really likes football and never misses a match.",
+    "keyword": "crazy",
+    "transformedPrompt": "Jack is __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_002",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 2,
+    "sourceQuestionNumber": 2,
+    "setNumber": 1,
+    "originalSentence": "My uncle worked on a sailing boat until he was thirty.",
+    "keyword": "sailor",
+    "transformedPrompt": "My uncle was __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_003",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 3,
+    "sourceQuestionNumber": 3,
+    "setNumber": 1,
+    "originalSentence": "John participated in a swimming competition last week.",
+    "keyword": "part",
+    "transformedPrompt": "John took __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_004",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 4,
+    "sourceQuestionNumber": 4,
+    "setNumber": 1,
+    "originalSentence": "Young children like Disneyland.",
+    "keyword": "popular",
+    "transformedPrompt": "Disneyland is __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_005",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 5,
+    "sourceQuestionNumber": 5,
+    "setNumber": 1,
+    "originalSentence": "Karen doesn't like watching sports on TV.",
+    "keyword": "keen",
+    "transformedPrompt": "Karen isn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_006",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 6,
+    "sourceQuestionNumber": 6,
+    "setNumber": 1,
+    "originalSentence": "Sasha is a good tango dancer.",
+    "keyword": "talented",
+    "transformedPrompt": "Sasha is really __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_007",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 7,
+    "sourceQuestionNumber": 7,
+    "setNumber": 1,
+    "originalSentence": "No one can learn all that in one day!",
+    "keyword": "capable",
+    "transformedPrompt": "No one is __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_008",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 8,
+    "sourceQuestionNumber": 8,
+    "setNumber": 1,
+    "originalSentence": "I really hope you find a solution to the problem.",
+    "keyword": "succeed",
+    "transformedPrompt": "I really hope you __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_009",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 9,
+    "sourceQuestionNumber": 9,
+    "setNumber": 1,
+    "originalSentence": "Did they give you a map of the area?",
+    "keyword": "provide",
+    "transformedPrompt": "Did they __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_010",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 10,
+    "sourceQuestionNumber": 10,
+    "setNumber": 1,
+    "originalSentence": "My intention is to travel to Malta by ferry.",
+    "keyword": "going",
+    "transformedPrompt": "I'm __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_011",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 11,
+    "sourceQuestionNumber": 11,
+    "setNumber": 1,
+    "originalSentence": "Be careful when you leave the bus.",
+    "keyword": "off",
+    "transformedPrompt": "Be careful __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_012",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 12,
+    "sourceQuestionNumber": 12,
+    "setNumber": 1,
+    "originalSentence": "Will they send the letters first class?",
+    "keyword": "sent",
+    "transformedPrompt": "Will the letters __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_013",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 13,
+    "sourceQuestionNumber": 13,
+    "setNumber": 1,
+    "originalSentence": "I'm not sure if they eat pizza in China.",
+    "keyword": "is",
+    "transformedPrompt": "I'm not sure if __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_014",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 14,
+    "sourceQuestionNumber": 14,
+    "setNumber": 1,
+    "originalSentence": "Someone told me that they don't make cars in the UK anymore.",
+    "keyword": "made",
+    "transformedPrompt": "Someone told me __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_015",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 15,
+    "sourceQuestionNumber": 15,
+    "setNumber": 1,
+    "originalSentence": "We gave my dad a surprise party on his fortieth birthday.",
+    "keyword": "was",
+    "transformedPrompt": "My dad __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_016",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 16,
+    "sourceQuestionNumber": 16,
+    "setNumber": 1,
+    "originalSentence": "They've caught the person who stole your bike!",
+    "keyword": "caught",
+    "transformedPrompt": "The person who __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_017",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 17,
+    "sourceQuestionNumber": 17,
+    "setNumber": 1,
+    "originalSentence": "A neighbor is feeding our dog while we're away.",
+    "keyword": "being",
+    "transformedPrompt": "Our dog is __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_018",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 18,
+    "sourceQuestionNumber": 18,
+    "setNumber": 1,
+    "originalSentence": "Could you lend me some money until the weekend?",
+    "keyword": "borrow",
+    "transformedPrompt": "Could I __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_019",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 19,
+    "sourceQuestionNumber": 19,
+    "setNumber": 1,
+    "originalSentence": "Why don't you return the sweater to the shop you got it from?",
+    "keyword": "back",
+    "transformedPrompt": "Why don't you __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_020",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 20,
+    "sourceQuestionNumber": 20,
+    "setNumber": 1,
+    "originalSentence": "We need to go quickly or the shops will be closed.",
+    "keyword": "up",
+    "transformedPrompt": "We need to __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_021",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 21,
+    "sourceQuestionNumber": 21,
+    "setNumber": 1,
+    "originalSentence": "I don't agree with your opinion of the new shopping center.",
+    "keyword": "wrong",
+    "transformedPrompt": "I think you __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_022",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 22,
+    "sourceQuestionNumber": 22,
+    "setNumber": 1,
+    "originalSentence": "It's not necessary to pay to use the office phone.",
+    "keyword": "have",
+    "transformedPrompt": "You don't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_023",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 23,
+    "sourceQuestionNumber": 23,
+    "setNumber": 1,
+    "originalSentence": "It wasn't necessary for me to buy a stamp for my letter.",
+    "keyword": "need",
+    "transformedPrompt": "I didn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_024",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 24,
+    "sourceQuestionNumber": 24,
+    "setNumber": 1,
+    "originalSentence": "It's possible that the e-mail is from Alex.",
+    "keyword": "might",
+    "transformedPrompt": "The e-mail __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_025",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 25,
+    "sourceQuestionNumber": 25,
+    "setNumber": 1,
+    "originalSentence": "My computer doesn't work, so I can't e-mail you.",
+    "keyword": "wrong",
+    "transformedPrompt": "There's something __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_026",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 26,
+    "sourceQuestionNumber": 26,
+    "setNumber": 1,
+    "originalSentence": "Did you mention the plans for this weekend to Matt?",
+    "keyword": "talk",
+    "transformedPrompt": "Did you __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_027",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 27,
+    "sourceQuestionNumber": 27,
+    "setNumber": 1,
+    "originalSentence": "I think we should build a new theatre in town.",
+    "keyword": "favor",
+    "transformedPrompt": "I'm in __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_028",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 28,
+    "sourceQuestionNumber": 28,
+    "setNumber": 1,
+    "originalSentence": "You lost Jill's camera and I think you should say sorry.",
+    "keyword": "apologize",
+    "transformedPrompt": "I think you should __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_029",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 29,
+    "sourceQuestionNumber": 29,
+    "setNumber": 1,
+    "originalSentence": "Have you ever participated in a swimming race?",
+    "keyword": "part",
+    "transformedPrompt": "Have you ever __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_030",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 30,
+    "sourceQuestionNumber": 30,
+    "setNumber": 1,
+    "originalSentence": "Please play your electric guitar more quietly!",
+    "keyword": "down",
+    "transformedPrompt": "Please __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_031",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 31,
+    "sourceQuestionNumber": 31,
+    "setNumber": 1,
+    "originalSentence": "How long has Alice been Tony's girlfriend?",
+    "keyword": "out",
+    "transformedPrompt": "How long has __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_032",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 32,
+    "sourceQuestionNumber": 32,
+    "setNumber": 1,
+    "originalSentence": "When was the last time you heard from Nigel?",
+    "keyword": "contact",
+    "transformedPrompt": "When was the last time __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_033",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 33,
+    "sourceQuestionNumber": 33,
+    "setNumber": 1,
+    "originalSentence": "Let me just make a note of your phone number.",
+    "keyword": "write",
+    "transformedPrompt": "Let me just __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_034",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 34,
+    "sourceQuestionNumber": 34,
+    "setNumber": 1,
+    "originalSentence": "Do you think going to university in another country is a good idea?",
+    "keyword": "favor",
+    "transformedPrompt": "Are you in __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_035",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 35,
+    "sourceQuestionNumber": 35,
+    "setNumber": 1,
+    "originalSentence": "The exam started at nine and we wrote for three hours until twelve.",
+    "keyword": "writing",
+    "transformedPrompt": "When the exam finished at twelve, __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_036",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 36,
+    "sourceQuestionNumber": 36,
+    "setNumber": 1,
+    "originalSentence": "Why don't you start to run and see if that helps you lose weight?",
+    "keyword": "up",
+    "transformedPrompt": "Why don't you __________ that helps you lose weight?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_037",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 37,
+    "sourceQuestionNumber": 37,
+    "setNumber": 1,
+    "originalSentence": "I did German lessons until last year, but I stopped because I didn't have time.",
+    "keyword": "used",
+    "transformedPrompt": "I used to do __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_038",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 38,
+    "sourceQuestionNumber": 38,
+    "setNumber": 1,
+    "originalSentence": "When you make a mistake, put a line through it and write the correct answer above.",
+    "keyword": "cross",
+    "transformedPrompt": "When you make __________ the correct answer above.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_039",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 39,
+    "sourceQuestionNumber": 39,
+    "setNumber": 1,
+    "originalSentence": "Have you played Monopoly before?",
+    "keyword": "time",
+    "transformedPrompt": "Is this the __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_040",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 40,
+    "sourceQuestionNumber": 40,
+    "setNumber": 1,
+    "originalSentence": "I started studying at six and now it's ten o'clock.",
+    "keyword": "for",
+    "transformedPrompt": "It's ten o'clock and __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_041",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 41,
+    "sourceQuestionNumber": 41,
+    "setNumber": 1,
+    "originalSentence": "\"I'm sorry I broke your glasses, Paul,\" said Stacy.",
+    "keyword": "apologised",
+    "transformedPrompt": "Stacy __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_042",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 42,
+    "sourceQuestionNumber": 42,
+    "setNumber": 1,
+    "originalSentence": "When I'm an adult, I want to be a pop star!",
+    "keyword": "up",
+    "transformedPrompt": "When I __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_043",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 43,
+    "sourceQuestionNumber": 43,
+    "setNumber": 1,
+    "originalSentence": "Let's leave at seven o'clock tomorrow morning.",
+    "keyword": "set",
+    "transformedPrompt": "Let's __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_044",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 44,
+    "sourceQuestionNumber": 44,
+    "setNumber": 1,
+    "originalSentence": "You've really disappointed me, Rachel.",
+    "keyword": "down",
+    "transformedPrompt": "You've really __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_045",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 45,
+    "sourceQuestionNumber": 45,
+    "setNumber": 1,
+    "originalSentence": "They gave me a map of the town center.",
+    "keyword": "provided",
+    "transformedPrompt": "They __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_046",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 46,
+    "sourceQuestionNumber": 46,
+    "setNumber": 1,
+    "originalSentence": "Hurry up or we'll miss the plane!",
+    "keyword": "late",
+    "transformedPrompt": "Hurry up or we'll __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_047",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 47,
+    "sourceQuestionNumber": 47,
+    "setNumber": 1,
+    "originalSentence": "Did you really go into town by yourself, Sam?",
+    "keyword": "own",
+    "transformedPrompt": "Did you really go __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_048",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 48,
+    "sourceQuestionNumber": 48,
+    "setNumber": 1,
+    "originalSentence": "I don't really like traveling.",
+    "keyword": "fond",
+    "transformedPrompt": "I'm not __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_049",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 49,
+    "sourceQuestionNumber": 49,
+    "setNumber": 1,
+    "originalSentence": "You need to stop the engine and then check to see if there's any oil on the ground.",
+    "keyword": "turn",
+    "transformedPrompt": "You need to __________ then check to see if there's any oil on the ground.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_050",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 50,
+    "sourceQuestionNumber": 50,
+    "setNumber": 2,
+    "originalSentence": "Before the aeroplane was invented, people told stories about flying machines.",
+    "keyword": "made",
+    "transformedPrompt": "Before the aeroplane was invented, __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_051",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 51,
+    "sourceQuestionNumber": 51,
+    "setNumber": 2,
+    "originalSentence": "Don't just put your batteries in the bin - recycle them!",
+    "keyword": "away",
+    "transformedPrompt": "Don't just __________ recycle them!",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_052",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 52,
+    "sourceQuestionNumber": 52,
+    "setNumber": 2,
+    "originalSentence": "It took a long time for scientists to discover what stars are made of.",
+    "keyword": "find",
+    "transformedPrompt": "It took a long time for scientists __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_053",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 53,
+    "sourceQuestionNumber": 53,
+    "setNumber": 2,
+    "originalSentence": "I found some old coins in a drawer while I was looking for a pen.",
+    "keyword": "across",
+    "transformedPrompt": "I came __________ while I was looking for a pen.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_054",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 54,
+    "sourceQuestionNumber": 54,
+    "setNumber": 2,
+    "originalSentence": "If your watch doesn't work, return it to the shop.",
+    "keyword": "back",
+    "transformedPrompt": "If your watch doesn't work, __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_055",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 55,
+    "sourceQuestionNumber": 55,
+    "setNumber": 2,
+    "originalSentence": "Our car stopped working last weekend, and I don't know why.",
+    "keyword": "down",
+    "transformedPrompt": "Our car __________ , and I don't know why.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_056",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 56,
+    "sourceQuestionNumber": 56,
+    "setNumber": 2,
+    "originalSentence": "Did you give Mark the money you borrowed from him?",
+    "keyword": "pay",
+    "transformedPrompt": "Did you __________ Mark lent you?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_057",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 57,
+    "sourceQuestionNumber": 57,
+    "setNumber": 2,
+    "originalSentence": "The magazine is published every Friday.",
+    "keyword": "out",
+    "transformedPrompt": "The magazine __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_058",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 58,
+    "sourceQuestionNumber": 58,
+    "setNumber": 2,
+    "originalSentence": "Could you complete this application form, please?",
+    "keyword": "in",
+    "transformedPrompt": "Could you __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_059",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 59,
+    "sourceQuestionNumber": 59,
+    "setNumber": 2,
+    "originalSentence": "I am writing with regard to your advertisement for a part-time shop assistant.",
+    "keyword": "response",
+    "transformedPrompt": "I am writing __________ for a part-time shop assistant.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_060",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 60,
+    "sourceQuestionNumber": 60,
+    "setNumber": 2,
+    "originalSentence": "I don't want to say anything about that.",
+    "keyword": "comment",
+    "transformedPrompt": "I don't want to __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_061",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 61,
+    "sourceQuestionNumber": 61,
+    "setNumber": 2,
+    "originalSentence": "You'll be caught!",
+    "keyword": "away",
+    "transformedPrompt": "You won't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_062",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 62,
+    "sourceQuestionNumber": 62,
+    "setNumber": 2,
+    "originalSentence": "I didn't do anything wrong!",
+    "keyword": "guilty",
+    "transformedPrompt": "I'm not __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_063",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 63,
+    "sourceQuestionNumber": 63,
+    "setNumber": 2,
+    "originalSentence": "I was talking to Jo on the phone when we were disconnected.",
+    "keyword": "off",
+    "transformedPrompt": "Jo and I were __________ when we were talking on the phone.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_064",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 64,
+    "sourceQuestionNumber": 64,
+    "setNumber": 2,
+    "originalSentence": "You can have half of this pizza.",
+    "keyword": "share",
+    "transformedPrompt": "I'll __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_065",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 65,
+    "sourceQuestionNumber": 65,
+    "setNumber": 2,
+    "originalSentence": "I was so ill that I didn't go to school.",
+    "keyword": "too",
+    "transformedPrompt": "I was __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_066",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 66,
+    "sourceQuestionNumber": 66,
+    "setNumber": 2,
+    "originalSentence": "I'm much better at this job than Gordo is.",
+    "keyword": "than",
+    "transformedPrompt": "Gordon is __________ I am at this job.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_067",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 67,
+    "sourceQuestionNumber": 67,
+    "setNumber": 2,
+    "originalSentence": "There were such a lot of customers that I didn't get a break all day.",
+    "keyword": "many",
+    "transformedPrompt": "There were __________ that I didn't get a break all day.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_068",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 68,
+    "sourceQuestionNumber": 68,
+    "setNumber": 2,
+    "originalSentence": "I've never done a job more difficult than this.",
+    "keyword": "most",
+    "transformedPrompt": "This is __________ I've ever done.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_069",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 69,
+    "sourceQuestionNumber": 69,
+    "setNumber": 2,
+    "originalSentence": "The hospital was so big that I couldn't find my cousin's bed.",
+    "keyword": "such",
+    "transformedPrompt": "It was __________ I couldn't find my cousin's bed.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_070",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 70,
+    "sourceQuestionNumber": 70,
+    "setNumber": 2,
+    "originalSentence": "Tim caught a cold on holiday, but I was lucky and I didn't.",
+    "keyword": "than",
+    "transformedPrompt": "I was __________ and didn't catch a cold on holiday.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_071",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 71,
+    "sourceQuestionNumber": 71,
+    "setNumber": 2,
+    "originalSentence": "You became ill because the fish wasn't cooked properly.",
+    "keyword": "have",
+    "transformedPrompt": "You wouldn't __________ if the fish had been cooked properly.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_072",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 72,
+    "sourceQuestionNumber": 72,
+    "setNumber": 2,
+    "originalSentence": "You didn't get better because you didn't take your pills.",
+    "keyword": "have",
+    "transformedPrompt": "You would __________ if you had taken your pills.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_073",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 73,
+    "sourceQuestionNumber": 73,
+    "setNumber": 2,
+    "originalSentence": "The price of bread has increased again.",
+    "keyword": "in",
+    "transformedPrompt": "There has been another __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_074",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 74,
+    "sourceQuestionNumber": 74,
+    "setNumber": 2,
+    "originalSentence": "What were you wearing when it started snowing?",
+    "keyword": "on",
+    "transformedPrompt": "What did __________ when it started snowing?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_075",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 75,
+    "sourceQuestionNumber": 75,
+    "setNumber": 2,
+    "originalSentence": "This painting is like that one.",
+    "keyword": "similar",
+    "transformedPrompt": "This painting __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_076",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 76,
+    "sourceQuestionNumber": 76,
+    "setNumber": 2,
+    "originalSentence": "This wall keeps the animals in.",
+    "keyword": "prevents",
+    "transformedPrompt": "This wall __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_077",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 77,
+    "sourceQuestionNumber": 77,
+    "setNumber": 2,
+    "originalSentence": "Snakes don't frighten Carol.",
+    "keyword": "afraid",
+    "transformedPrompt": "Carol isn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_078",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 78,
+    "sourceQuestionNumber": 78,
+    "setNumber": 2,
+    "originalSentence": "You didn't write the final paragraph of your composition.",
+    "keyword": "left",
+    "transformedPrompt": "You __________ the final paragraph of your composition.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_079",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 79,
+    "sourceQuestionNumber": 79,
+    "setNumber": 2,
+    "originalSentence": "Would you like to help produce a school magazine?",
+    "keyword": "involved",
+    "transformedPrompt": "Would you like to __________ a school magazine?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_080",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 80,
+    "sourceQuestionNumber": 80,
+    "setNumber": 2,
+    "originalSentence": "I didn't know that.",
+    "keyword": "aware",
+    "transformedPrompt": "I wasn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_081",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 81,
+    "sourceQuestionNumber": 81,
+    "setNumber": 2,
+    "originalSentence": "I don't think you should go swimming so soon after lunch.",
+    "keyword": "against",
+    "transformedPrompt": "I would __________ swimming so soon after lunch.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_082",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 82,
+    "sourceQuestionNumber": 82,
+    "setNumber": 2,
+    "originalSentence": "'Alex, hurry up or we'll be late!'.",
+    "keyword": "on",
+    "transformedPrompt": "'Alex, __________ or we'll be late!",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_083",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 83,
+    "sourceQuestionNumber": 83,
+    "setNumber": 2,
+    "originalSentence": "Why don't you throw that old furniture away?",
+    "keyword": "rid",
+    "transformedPrompt": "Why don't you __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_084",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 84,
+    "sourceQuestionNumber": 84,
+    "setNumber": 2,
+    "originalSentence": "What you said really surprised me.",
+    "keyword": "by",
+    "transformedPrompt": "I was really surprised __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_085",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 85,
+    "sourceQuestionNumber": 85,
+    "setNumber": 2,
+    "originalSentence": "I can't hear you, so can you talk more loudly, please?",
+    "keyword": "up",
+    "transformedPrompt": "I can't hear you, so can you __________ , please?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_086",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 86,
+    "sourceQuestionNumber": 86,
+    "setNumber": 2,
+    "originalSentence": "I don't want to play computer games anymore.",
+    "keyword": "tired",
+    "transformedPrompt": "I'm __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_087",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 87,
+    "sourceQuestionNumber": 87,
+    "setNumber": 2,
+    "originalSentence": "I haven't got any money left.",
+    "keyword": "run",
+    "transformedPrompt": "I have __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_088",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 88,
+    "sourceQuestionNumber": 88,
+    "setNumber": 2,
+    "originalSentence": "That tree might fall down.",
+    "keyword": "danger",
+    "transformedPrompt": "That tree is __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_089",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 89,
+    "sourceQuestionNumber": 89,
+    "setNumber": 2,
+    "originalSentence": "Who thought of that solution?",
+    "keyword": "came",
+    "transformedPrompt": "Who came __________?",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_090",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 90,
+    "sourceQuestionNumber": 90,
+    "setNumber": 2,
+    "originalSentence": "He doesn't usually fail his exams.",
+    "keyword": "hardly",
+    "transformedPrompt": "He hardly __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_091",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 91,
+    "sourceQuestionNumber": 91,
+    "setNumber": 2,
+    "originalSentence": "She didn't answer the phone during her dinner.",
+    "keyword": "while",
+    "transformedPrompt": "She didn't answer the phone __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_092",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 92,
+    "sourceQuestionNumber": 92,
+    "setNumber": 2,
+    "originalSentence": "\"You stole my wallet, didn't you?",
+    "keyword": "accused",
+    "transformedPrompt": "He __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_093",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 93,
+    "sourceQuestionNumber": 93,
+    "setNumber": 2,
+    "originalSentence": "The trip was too expensive for me.",
+    "keyword": "enough",
+    "transformedPrompt": "I didn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_094",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 94,
+    "sourceQuestionNumber": 94,
+    "setNumber": 2,
+    "originalSentence": "I'll lend you my laptop if you promise to take care of it.",
+    "keyword": "long",
+    "transformedPrompt": "I'll lend you __________ you promise to take care of it.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_095",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 95,
+    "sourceQuestionNumber": 95,
+    "setNumber": 2,
+    "originalSentence": "I'd prefer to go to Madrid on holiday.",
+    "keyword": "rather",
+    "transformedPrompt": "I'd __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_096",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 96,
+    "sourceQuestionNumber": 96,
+    "setNumber": 2,
+    "originalSentence": "Could you lend me your car tomorrow?",
+    "keyword": "mind",
+    "transformedPrompt": "Would you __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_097",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 97,
+    "sourceQuestionNumber": 97,
+    "setNumber": 2,
+    "originalSentence": "You'll be punished for what you did.",
+    "keyword": "away",
+    "transformedPrompt": "You won't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_098",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 98,
+    "sourceQuestionNumber": 98,
+    "setNumber": 2,
+    "originalSentence": "The children are allowed to watch TV until 9 o'clock.",
+    "keyword": "let",
+    "transformedPrompt": "Their parents __________ until 9 o'clock.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_099",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 99,
+    "sourceQuestionNumber": 99,
+    "setNumber": 2,
+    "originalSentence": "If the weather doesn't improve, I'm not going out.",
+    "keyword": "unless",
+    "transformedPrompt": "I'm not __________ the weather gets better.",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "E_100",
+    "section": "E",
+    "type": "sentence_transformation",
+    "questionNumber": 100,
+    "sourceQuestionNumber": 100,
+    "setNumber": 2,
+    "originalSentence": "It was foolish of me to get up so early.",
+    "keyword": "needn't",
+    "transformedPrompt": "I needn't __________",
+    "answer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]
