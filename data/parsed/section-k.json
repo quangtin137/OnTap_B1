@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "K_001",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 1,
+    "topicNumber": 1,
+    "prompt": "Describe a time when you were ill.",
+    "guidingQuestions": [
+      "What illness was it?",
+      "What were your symptoms?",
+      "How long did the illness last?",
+      "How did it affect your life at the time?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_002",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 2,
+    "topicNumber": 2,
+    "prompt": "Describe a famous person that you would like to meet.",
+    "guidingQuestions": [
+      "Who is he/she?",
+      "Why is he/she famous?",
+      "Why do you want to meet him/her?",
+      "What would you do if you met him/her?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_003",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 3,
+    "topicNumber": 3,
+    "prompt": "Describe the party that you enjoyed.",
+    "guidingQuestions": [
+      "What was it about?",
+      "Where was the party held?",
+      "Who were there?",
+      "What did people do during the party?",
+      "What did you enjoy about this party?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_004",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 4,
+    "topicNumber": 4,
+    "prompt": "Describe a game or sport you enjoy playing.",
+    "guidingQuestions": [
+      "What kind of game or sport is it?",
+      "Whom do you play it with?",
+      "Where and when do you usually play it?",
+      "Why do you enjoy playing this game or sport?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_005",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 5,
+    "topicNumber": 5,
+    "prompt": "Describe someone in your family who you love.",
+    "guidingQuestions": [
+      "How is this person related to you?",
+      "What does this person look like?",
+      "What is he/she like?",
+      "Why do you love this person?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_006",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 6,
+    "topicNumber": 6,
+    "prompt": "Describe the house where you live.",
+    "guidingQuestions": [
+      "Where is the house?",
+      "Who do you live with in that house?",
+      "What does it look like on the outside and/or inside?",
+      "Do you enjoy living in the house? Why or why not?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_007",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 7,
+    "topicNumber": 7,
+    "prompt": "Describe an interesting person that you have ever met in your life. Who was this person?",
+    "guidingQuestions": [
+      "Where and when did you meet him/her?",
+      "What were you doing at that time?",
+      "What was he/she doing at that time?",
+      "How interesting was he/she? / How did you feel when you met him/her?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_008",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 8,
+    "topicNumber": 8,
+    "prompt": "Describe an important traditional festival in your country. When and where does it happen?",
+    "guidingQuestions": [
+      "What do people usually do in that festival?",
+      "What is it special about?",
+      "Why is it more important than other festivals?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_009",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 9,
+    "topicNumber": 9,
+    "prompt": "Describe the job or career you have or hope to have.",
+    "guidingQuestions": [
+      "What is the job?",
+      "What does it involve?",
+      "Why do you choose it?",
+      "What should you do to be successful with it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_010",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 10,
+    "topicNumber": 10,
+    "prompt": "Describe a movie that you particularly like.",
+    "guidingQuestions": [
+      "What is the name of the movie?",
+      "Who stars in the movie?",
+      "What is it about?",
+      "Why do you particularly like it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_011",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 11,
+    "topicNumber": 11,
+    "prompt": "Describe a wedding you have been to.",
+    "guidingQuestions": [
+      "Whose wedding was it?",
+      "Who attended the wedding?",
+      "What did you wear to the wedding?",
+      "What happened during the wedding?",
+      "How did you feel?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_012",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 12,
+    "topicNumber": 12,
+    "prompt": "Describe an activity you do when you are alone in your free time. What activity is it?",
+    "guidingQuestions": [
+      "Is it easy or difficult to do?",
+      "How do you feel when you do it?",
+      "Are there any benefits of doing it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_013",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 13,
+    "topicNumber": 13,
+    "prompt": "Describe your favorite photograph.",
+    "guidingQuestions": [
+      "What photograph is it?",
+      "When and where was it taken?",
+      "How long have you had it?",
+      "Why do you like it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_014",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 14,
+    "topicNumber": 14,
+    "prompt": "Describe a childhood friend of yours.",
+    "guidingQuestions": [
+      "What is his/her name?",
+      "What did he/she look like?",
+      "What was he/she like?",
+      "Why did you like him/her?",
+      "What did you like to do together?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_015",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 15,
+    "topicNumber": 15,
+    "prompt": "Describe an occasion when you wore formal clothes.",
+    "guidingQuestions": [
+      "When and where did you wear formal clothes?",
+      "What did you wear exactly?",
+      "How did you feel when you wore formal clothes?",
+      "Would you like to wear it again?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_016",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 16,
+    "topicNumber": 16,
+    "prompt": "Describe a time you changed your plan.",
+    "guidingQuestions": [
+      "What plan was it?",
+      "Why did you change it?",
+      "What did you do to change that plan?",
+      "Did you get any better results with your change?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_017",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 17,
+    "topicNumber": 17,
+    "prompt": "Describe a film or TV program that made you laugh.",
+    "guidingQuestions": [
+      "What film or TV program was it?",
+      "What was it about?",
+      "Why did it make you laugh?",
+      "Do you want to watch it again?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_018",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 18,
+    "topicNumber": 18,
+    "prompt": "Describe a skill that takes a long time to learn.",
+    "guidingQuestions": [
+      "What is the name of the skill?",
+      "Why is it difficult?",
+      "What should you do to learn better?",
+      "And how does it help you?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_019",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 19,
+    "topicNumber": 19,
+    "prompt": "Describe a time you helped someone.",
+    "guidingQuestions": [
+      "Who did you help?",
+      "How did you help them?",
+      "How did you feel when you helped them?",
+      "How did this person benefit from your help?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_020",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 20,
+    "topicNumber": 20,
+    "prompt": "Describe an embarrassing moment that happened to you or someone you know.",
+    "guidingQuestions": [
+      "When did it happen?",
+      "Where did it happen?",
+      "Who was there?",
+      "Why was it embarrassing?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_021",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 21,
+    "topicNumber": 21,
+    "prompt": "Describe a kind of food you eat on a special occasion.",
+    "guidingQuestions": [
+      "When do you eat that meal?",
+      "How do you prepare it?",
+      "What ingredients are used to prepare it?",
+      "Why do you enjoy it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_022",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 22,
+    "topicNumber": 22,
+    "prompt": "Describe a subject that you used to dislike but now have an interest in.",
+    "guidingQuestions": [
+      "What is it?",
+      "When did you study this subject?",
+      "Why didn't you like it before?",
+      "Why do you have an interest in it now?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_023",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 23,
+    "topicNumber": 23,
+    "prompt": "Describe a person who helps protect the environment.",
+    "guidingQuestions": [
+      "Who is this person?",
+      "How does this person protect the environment?",
+      "What difficulty has this person faced?",
+      "And how do you feel about this person?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_024",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 24,
+    "topicNumber": 24,
+    "prompt": "Describe a time when you lost something important.",
+    "guidingQuestions": [
+      "When did this happen?",
+      "What did you lose?",
+      "How did you try to find it?",
+      "What did you learn from the experience?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_025",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 25,
+    "topicNumber": 25,
+    "prompt": "Describe an occasion when you traveled and your vehicle broke down.",
+    "guidingQuestions": [
+      "Who were you with?",
+      "What happened to the vehicle?",
+      "How long did it take to get the vehicle repaired?",
+      "And how did you feel after the vehicle was repaired"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_026",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 26,
+    "topicNumber": 26,
+    "prompt": "Describe a famous person who made a big difference in people's lives.",
+    "guidingQuestions": [
+      "What is his/her name?",
+      "What was/is his (her) job?",
+      "What do you know about his/her life?",
+      "How did he/she make a difference?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_027",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 27,
+    "topicNumber": 27,
+    "prompt": "Describe something special that you brought home from a tourist place.",
+    "guidingQuestions": [
+      "What was it?",
+      "Where did you bring it from?",
+      "Why did you bring it home?",
+      "How did you feel about it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_028",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 28,
+    "topicNumber": 28,
+    "prompt": "Describe a person who encouraged you to achieve a goal.",
+    "guidingQuestions": [
+      "Who is this person?",
+      "What did this person encourage you to do?",
+      "How did this person help you?",
+      "What was the result?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_029",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 29,
+    "topicNumber": 29,
+    "prompt": "Describe a public facility (a park, a cinema, etc.) that influences your city.",
+    "guidingQuestions": [
+      "Where is the facility?",
+      "When was it built?",
+      "What can people do there?",
+      "What has the facility influenced?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_030",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 30,
+    "topicNumber": 30,
+    "prompt": "Describe a piece of clothing you like to wear.",
+    "guidingQuestions": [
+      "What is it?",
+      "What is it like?",
+      "Where did you buy it?",
+      "How often do you wear it?",
+      "Why do you enjoy wearing it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_031",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 31,
+    "topicNumber": 31,
+    "prompt": "Describe someone you would like to study or work with.",
+    "guidingQuestions": [
+      "Who is this person?",
+      "How long have you known this person?",
+      "What have you done together?",
+      "Why do you like to study or work with this person?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_032",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 32,
+    "topicNumber": 32,
+    "prompt": "Describe your ideal house.",
+    "guidingQuestions": [
+      "where is it?",
+      "what does it look like?",
+      "when would you like to live in your ideal house?",
+      "why would you like to live in your ideal house?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_033",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 33,
+    "topicNumber": 33,
+    "prompt": "Describe a park you like visiting.",
+    "guidingQuestions": [
+      "Where is the park?",
+      "When did you visit the park?",
+      "What is the park like?",
+      "Why do you like visiting it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_034",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 34,
+    "topicNumber": 34,
+    "prompt": "Describe a time when you cooked a meal",
+    "guidingQuestions": [
+      "What did you cook?",
+      "When and where did you cook it?",
+      "Who was with you?",
+      "How did you feel about it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_035",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 35,
+    "topicNumber": 35,
+    "prompt": "Describe a time when you spent a lot of money on something.",
+    "guidingQuestions": [
+      "What did you buy?",
+      "When did you buy it?",
+      "Where did you buy it?",
+      "Why did you spend a lot of money to buy it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_036",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 36,
+    "topicNumber": 36,
+    "prompt": "Describe a school you went to in your childhood.",
+    "guidingQuestions": [
+      "Where was it?",
+      "What was it like?",
+      "What did you learn there?",
+      "How did you feel about it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_037",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 37,
+    "topicNumber": 37,
+    "prompt": "Describe a good experience of online shopping.",
+    "guidingQuestions": [
+      "When did it happen?",
+      "What did you buy?",
+      "Why did you buy it?",
+      "Why do you think it was a good experience?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_038",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 38,
+    "topicNumber": 38,
+    "prompt": "Describe a tourist attraction you went to with your family.",
+    "guidingQuestions": [
+      "What was the tourist attraction?",
+      "When did you go there?",
+      "How was it?",
+      "Did you like it? Why or why not?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_039",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 39,
+    "topicNumber": 39,
+    "prompt": "Describe a time you enjoyed your free time.",
+    "guidingQuestions": [
+      "When was it?",
+      "What did you do?",
+      "How long did the free time last?",
+      "How did you feel about it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_040",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 40,
+    "topicNumber": 40,
+    "prompt": "Describe a time you went out with your friends and had a good time.",
+    "guidingQuestions": [
+      "Where did you go?",
+      "When did you go out?",
+      "What did you do?",
+      "Why did you enjoy that time?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_041",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 41,
+    "topicNumber": 41,
+    "prompt": "Describe an interesting neighbor.",
+    "guidingQuestions": [
+      "Who is this person?",
+      "What's his/her job?",
+      "What does he/she look like?",
+      "What is he/she like?",
+      "Why do you think this neighbor is interesting?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_042",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 42,
+    "topicNumber": 42,
+    "prompt": "Describe a game show on that TV you like.",
+    "guidingQuestions": [
+      "What is the name of the show?",
+      "What do people do in that show?",
+      "Is it popular? Why or why not?",
+      "Why do you like it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_043",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 43,
+    "topicNumber": 43,
+    "prompt": "Describe a time when you invited someone to have dinner.",
+    "guidingQuestions": [
+      "Who did you invite?",
+      "Where did you invite him/her to have dinner?",
+      "Why did you invite him/her to have dinner?",
+      "What did you eat and drink?",
+      "Did you enjoy the dinner? Why or why not?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_044",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 44,
+    "topicNumber": 44,
+    "prompt": "Describe a way to lose weight that you know",
+    "guidingQuestions": [
+      "What do you do to lose weight?",
+      "What do you eat to lose weight?",
+      "How long does it take to lose weight?",
+      "Is it easy or difficult to lose weight? Why?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_045",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 45,
+    "topicNumber": 45,
+    "prompt": "Describe a place you'd like to travel to.",
+    "guidingQuestions": [
+      "Where would you like to travel?",
+      "When would you like to go there?",
+      "What would you do there?",
+      "Why would you like to go there?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_046",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 46,
+    "topicNumber": 46,
+    "prompt": "Describe the practical skill you learned.",
+    "guidingQuestions": [
+      "What was the skill?",
+      "Who did you learn it from?",
+      "How did you learn it?",
+      "How was it useful?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_047",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 47,
+    "topicNumber": 47,
+    "prompt": "Describe a success that you were proud of.",
+    "guidingQuestions": [
+      "What was your success?",
+      "What did you do to achieve that success?",
+      "What difficulties did you have?",
+      "Why were you proud of your success?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_048",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 48,
+    "topicNumber": 48,
+    "prompt": "Describe a bad service you had at a shop or a restaurant.",
+    "guidingQuestions": [
+      "What was the bad service?",
+      "Where did it happen?",
+      "How did you feel about the service?",
+      "Did you complain about it? If any, was your problem solved?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_049",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 49,
+    "topicNumber": 49,
+    "prompt": "Describe an outdoor sport you would like to try.",
+    "guidingQuestions": [
+      "What sport is it?",
+      "How do you know it?",
+      "Is it difficult to do?",
+      "Why would you like to try it?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "K_050",
+    "section": "K",
+    "type": "speaking_topic",
+    "questionNumber": 50,
+    "topicNumber": 50,
+    "prompt": "Describe an interesting video that you watched on social media.",
+    "guidingQuestions": [
+      "When was it?",
+      "Where did you see it?",
+      "What did you see?",
+      "Why did you think it was interesting?"
+    ],
+    "preparationTimeMinutes": 3,
+    "interactionTimeMinutes": {
+      "min": 5,
+      "max": 7
+    },
+    "selectionMethod": "random_draw",
+    "autoScored": false,
+    "sampleAnswer": null,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]
