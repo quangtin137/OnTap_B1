@@ -6498,6 +6498,22 @@ __TEXT 31: Listen carefully and choose the best answer \(A, B, C\) for each ques
 10. What does the girl refuse to tell the caller?
 	1. Her age	B\. Her name	C\. Her address
 
+
+__TEXT 32: Listen carefully and choose the best answer (A, B, C) for each question.__
+
+1. What is the name of the caller?
+	1. Nick	B. Nate	C. Neil
+2. According to the girl, her father:
+	1. is not home.	B. is on another line.	C. can't come to the telephone.
+3. What is the man's telephone number?
+	1. 598-7482	B. 587-4728	C. 589-7248
+4. The man tells the girl:
+	1. that he will call again sometime after 7:00 PM.
+	2. to ask her father to call him later.
+	3. that he will drop by around 8:30 PM.
+5. What does the girl refuse to tell the caller?
+	1. Her age	B. Her name	C. Her address
+
 __TEXT 33: Listen carefully and choose the best answer \(A, B, C\) for each question\.__
 
 1. What time does the man get up?
@@ -6538,6 +6554,22 @@ __TEXT 34: Listen carefully and choose the best answer \(A, B, C\) for each ques
 9. What is an example of an occasion where the man might need formal clothes?
 	1. A party	B\. A business meeting	C\. A wedding
 10. What did the man wear to his high school graduation?
+	1. Jeans and tennis shoes
+	2. A casual shirt and tie
+	3. A suit and dress shoes
+
+
+__TEXT 35: Listen carefully and choose the best answer (A, B, C) for each question.__
+
+1. What does the man plan to wear during the summer months?
+	1. A cool hat	B. Casual shoes	C. Light pants
+2. What is one thing the man is NOT going to pack for the winter season?
+	1. A coat	B. Some sweaters	C. A jacket
+3. What is the weather like in the spring?
+	1. It's windy.	B. It's rainy.	C. It's cool.
+4. What is an example of an occasion where the man might need formal clothes?
+	1. A party	B. A business meeting	C. A wedding
+5. What did the man wear to his high school graduation?
 	1. Jeans and tennis shoes
 	2. A casual shirt and tie
 	3. A suit and dress shoes

@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "H_001",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 1,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "1. Being a kid can be lots of fun. You play a lot - you have a lot of games that Mom and Dad don't know how to play. I love playing (1)\t... I get a lot of time to play soccer as a kid. Adults don't have as much time to play - my dad works so he doesn't get to play soccer very much. One bad thing about a kid is school ... I don't really like going to school. I can't stand doing (2) either ... especially cleaning my room. Oh, and, my brother has a new (3)\t... that's really annoying because he isn't very good at playing it!\n2. Some good things about being a kid are: summer (4)\t, playing sports, and getting lots of presents on my birthday - adults don't get as many presents. I like playing with my friends every weekend, too. Bad things about being a kid are: some of the chores I have to do - I don't mind doing some of them, but there are some I can't (5) , like doing dishes. Sometimes I can't watch TV when my Dad wants to watch a program that I can't watch ... I don't like that, and, I don't like doing homework. But I am happy I don't have to pay (6)\n\n\t! That's one bad thing about being an adult.\n\n1. I don't like having to go to bed so early ... at (7) . I always have to finish all the food on my plate, even if I don't like it ... yuck. One thing I really don't like ... I don't like older people telling me what to do. That's probably the (8) thing about being a kid. There are a lot of good things though ... I don't have to work and my parents give me money for (9)\t... when I am an adult, I'll have to pay for everything. And, I get to see my friends all the time at school ... we have (10)\tso we can play. You don't have (10)\n\n\twhen you're an adult!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_002",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 3,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "Something that's important to me...hmm... let's see. I think it would have to be my motorcycle and (1)\t. I use my motorcycle to go to work and almost everywhere else. I carry everything I need in my (1) so that's really important, too. I don't think I could manage without (2)\tone of them.\n\nElaine\n\nI have a ring that was my grandmother's. It's my most important and favourite posession. It's a beautiful gold ring that has a (3)\ton it. My grandfather gave it to my grandmother, then she gave it to my mother, and my mother gave it to me a few years ago. It's really special... I hardly ever wear it though because I don't want to (4) it.\n\nRuth\n\nLars and I have a (5) that has all our family memories in it. Photographs, letters, pictures, and art that our children made. It really is our family history. Our children don't really (6)\thow important it is right now, but I think they will when they're older.\n\nBruce\n\nThat's easy. My stereo and CD collection are my most important things. It's a good stereo and I have to save a long time to be able to buy it. I have at (7) 100 CDs in my collection. I collect music from around the world. I collect music that is interesting or (8)\n\n . My friends always know what to give me for my birthday... a new CD always makes me happy.\n\nMia\n\nA watch that was my mother's. It isn't expensive and it's a little (9)\t. It's goldand it has a (10)\tband...but I really like it. People always notice it when I wear it. They always ask where I got it.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_003",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 4,
+    "sourceTaskIndex": 2,
+    "audioPath": null,
+    "transcript": "Well, most of my friends are from work. I didn't live here before I got this job, so I met most of the friends I have now through work. Audrey is the first person I met here...so I have known her for two years. We (1)\ta lot outside work, but I also have a lot of friends in other (2)\t. I play basketball with some guys from (3) , and then we have an office soccer team, too. We get together almost every weekend to play. I have one old friend, Gary, who I kind of keep in touch with, but he lives in a different city, and we don't see each other that often. I haven't seen him since his wedding, so that's about two years. He's one of my oldest and best friends, but it's hard to stay in (4)\tsometimes. So, my friends these days are mainly from work and that's fine. It's more (5) since we spend so much time together anyway.\n\nAudrey\n\nMy social life is (6)\tseparate from work. Russell is really the only friend I have from my job. He and I get along really well, so we see each other outside work, but (7)\n\n I don't socialize with people from work unless I have to. I've lived in this city all my life, so I've had most of my friends for a long time. I've known my best friend, Lisa, since I was six years old- we lived in the same (8)\tbuilding as children- so that's about 20 years now. I'm also a musician...I play the guitar in a band and a lot of my friends are musicians. I've been in the same band for three years now and the other band members are my really good friends. I think it's good to know different kinds of people and I don't want my (9) life to be about work, so I (10) that's why I try to have a lot of different friends.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_004",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 5,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "Once (1)\ta time there was a king who had three daughters. He wanted to choose one of them to be the queen. He called the daughters to him and said, \"My dear children, I love all three of you (2)\tand for a long time I have not known which one of you to name as queen. Now I have decided. The one who brings me a birthday present which is most necessary to human life shall be queen. Go and make your plans.\"\n\nThe king's birthday (3)\t. The two oldest daughters brought him presents that were very necessary, but were also very, very expensive. However, the youngest daughter only brought him a small (4) of salt. When the king saw her present, he became very angry. He told the daughter to leave his castle and never come back.\n\nThe daughter left her father's castle. She had nowhere to go. She (5) in the forest and was very hungry and cold. As she walked along one day, a prince saw her and fell in love with her at once. She agreed to marry him and a great party was planned at the prince's castle. The king was invited, but he did not know that the (6)\twas his daughter.\n\nWell, the girl told the cook to make all the (7)\tfor the party with no salt. At the wedding, everyone started eating and they found that the food had no taste. One (8)\n\n said, \"There is no salt in the meat.\" Then everyone started saying, \"There is no salt in the meat.\"\n\nThen, the king said very sadly, \"(9)\t, I now know how necessary salt is. But, because I didn't know that before, I sent my own daughter away and I will never see her again.\"\n\nWhen the daughter heard this, she went to the king and made herself (10)\t.\n\nThey all lived happily ever after.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_005",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 6,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "1. I was going to Japan on a business trip. I (1)\tmy passport to the passport office to get a visa. Unfortunately, my passport - with the new visa - was stolen from a mail (2)\n\n on its return. I had to cancel my trip at the last minute, get a new passport, and start the (3)\tall over. I ended up going on the trip a month later. So, my worst travel experience was before my trip even started!\n\n1. My friend and I were on vacation in Ireland. We were driving around, taking pictures, and sightseeing, and we saw a poem posted on the wall of a restaurant. We'd never heard of the (4)\t, but we loved the poem. That night, we stopped in a little village and we started talking to a man in a crowded pub. We told him about the poem in the restaurant. He knew the poem, but more (5)\t, he said, \"The (4)\twho wrote it is right over there. Do you want to meet him?\" It was wonderful!\n2. I was hitchhiking with a friend in California. We stood in the same spot for (6) because no one was driving past. It was getting late and we were absolutely freezing. Finally, this man stopped, but not to give us a ride- he invited us to his house up the road so that we could get warm. So, we went to his house and his wife gave us a (7)\thot meal. That was years ago, but it's my best travel memory.\n\nto the (10)\tof Germany! We got off in a small town and had to wait for a train back to Prague. The whole trip took 6 hours - almost the same amount of time it took to fly from New York to Prague.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 8,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_006",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 8,
+    "sourceTaskIndex": 2,
+    "audioPath": null,
+    "transcript": "Listen to the second speaker and fill in the missing words in the blanks. Person 2:\n\nIt was years ago...my sister and I took a drive out in the country...we were way out in the country, miles from anything when we got a flat (1)\twe pulled over and got\n\nout of the car...we were young and (2)\tone of us had any idea how to fix a flat As\n\nwe were standing there, (3)\twhat to do, a gang of eight or ten men on motorcycles\n\n(4) over the hill and stopped right in front of us. We were (5)\tto death - we were thinking of all the TV shows and (6)\twhere men on motorcycles were bad (7) ! The leader of the group got off his bike and came over, followed by three big, (8) men he didn't smile or anything, he just looked at us and said \"Give me your keys\". we were (9)\t, but my sister handed over the keys. then, we watched\n\nas the four men changed our tire for us. When they finished, the leader gave us back the keys and said, \"Now go home,\" and they got on their motorcycles and roared off. ever since then, I have tried not to (10)\tpeople by how they look.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_007",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 11,
+    "sourceTaskIndex": 2,
+    "audioPath": null,
+    "transcript": "In 1947, my mother, Deborah, was a twenty-one-year-old student at New York University, studying English (1)\t. My father, Joseph was an (2)\tteacher.\n\nOn Saturdays, he often painted all day and then went out for a meal. One Saturday, he chose a (3)\trestaurant called the Milky Way.\n\nThe Milky Way happened to be my mother's (4)\trestaurant, and that Saturday, she went there for dinner, carrying a used copy of Charles Dickens's Great Expectations. The restaurant was crowded, and she was given the last table. Reading her book, she quickly lost (5)\twith what was going on around her. When the waitress came over and asked her if she would mind sharing her table with someone, she agreed (6)\n\n\teven looking up from her book.\n\n\"A (7)\tlife for poor, dear Pip,\" my father said when he saw the tattered cover of Great Expectations. My mother looked up at him, and to this day she says she saw something (8) in his eyes.\n\nWhatever it was that my parents saw, heard, or felt that night, they both understood that something (9)\thad happened. They talked for hours. Later, my mother wrote her telephone number on the inside of Great Expectations and gave the book to my father. He said goodbye, and they went off in (10)\tdirections. That night, neither one of them was able to sleep.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_008",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 12,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "Good morning, and welcome to our show. Have you ever wanted to be a (1) , out riding the (2) ? Or a seaman, on the high seas in search of (3) ? Well, you may want to think again. In a (4)\tpublic report by New View magazine, the exciting (5)\tof cowboy and seaman were ranked least (6)\t- that is, in the bottom ten out of 250 occupations. Why is this? Well, they may be (7) , but they're also hard work, low-paying, (8) dangerous, and stressful. Other (9)\n\n jobs are: dancer, taxi driver, fisherman, construction worker, and (10)\t. But wait a minute. Aren't there still people who like these jobs? We wanted to find out, so we talked to some people who know.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_009",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 16,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "1: My first car was a (1) Rambler. This was in the 1980s, so the car was twenty years old then. It was a big, blue and black thing. You changed gears by (2)\ta button! There were buttons on the dashboard that you pushed when you wanted to go into low gear. It was so heavy it got terrible gas (3)\t- about eight miles to the gallon. It didn't have much power so it was pretty slow. It felt like driving a boat. But I thought my car was wonderful. Now when I look at pictures of myself in it, I realize I looked so tiny behind the (4)\twheel. You could hardly see me!\n\n2: When I was a teenager I went to France and the family that I stayed with had a little Citroen. That was such a great car. I'm not really a car person but I loved that one. It was different from anything that I'd ever seen in the States. It was very (5)\t. It got good mileage. But mainly I like it because it was so European. It just had so much style. Citroens were very (6)\tat the time. All the young people in France drove them.\n\n3: My friend Sharon had a 1970s (7) truck for years. It was such a beauty. It was about 25 years old, bright red, and in fantastic condition. She got it from the original owner and took really good care of it. It ran really well and it was very (8) . It never broke down. She didn't drive it every day and she didn't drive it (9)\tin the winter, but we had a lot of fun going for rides in it. Everybody stopped and looked. Sometimes people (10)\task if it was for sale but she always said no. In fact, I think she still has it.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_010",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 17,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "This weekend, Mattress Matters in downtown Princeton is having our Grand opening sale. This weekend only, we're selling single, double, queen, and king size (1)\t. You'll find all the top brand names at fantastic (2)\t. Check out the huge grand opening sale at Mattress Matters in downtown Princeton, at 408 Pine Avenue. Hurry! The sale is this weekend only! Mattress Matters. For a good night's sleep.\n\nWe know you have a lot to do. That's why the pharmacy at Superprice is open six days a week from 9:00 A. m. until 6:00 p.m. Stop by the store, or call in your (3)\tany time, and drop by to pick it up. While you're in the store, check out the Superprice savings on fresh produce - peaches at 79 cents a pound, delicious (4) \n\n to matoes at 89 cents apound, and potatoes at just two dollars a bag. (5)\tup on pasta: this week atSuperprice all pasta is on sale at 50 percent off. And before you leave, stop by our (6)\n\n to pick up a beautiful bunch of flowers for Mother's Day. We know you're busy. Superprice helps you save time. We have it all in one (7)\t!\n\nM = Man, A = Announcer, W = Woman\n\nM: Happy birthday darling. I got this for you.\n\nW: Oh! What is it?\n\nM: It's a garage door opener. I thought you'd like it.\n\nW: Yes...oh yes. Thank you!\n\nA: Do you have trouble buying gifts for the people you love? Are you looking for just the right thing for that special person? We can help. Log on to whattogive.khw and choose from an incredible selection of gifts at prices you can afford. We have special offers every month and free delivery for (8)\tover 50 dollars. So, what are you waiting for? Log on to whattogive.khw, and find something she really likes.\n\nM: Happy birthday darling. I got this for you.\n\nW: A gold (9)\t! Oh, this is beautiful! Oh, what a beautiful present! Oh, thank you!\n\nA: Whattogive.khw. The online shopping (10)\tfor you!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_011",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 18,
+    "sourceTaskIndex": 2,
+    "audioPath": null,
+    "transcript": "This happened about twenty years ago, in Germany, when I was visiting a town in the south with some friends. It was kind of a (1)\ttown, with a lot of old, gloomy buildings. I remember it was raining, too. It was (2) weather. We were having dinner in a hotel restaurant. It was big and dark, and it felt old, though it really wasn't. Anyway, I needed to use the bathroom so I asked the waitress where it was. She gave me an\n\n(3)\tkey and said, \"It's through there. Go out into the (4)\t, down the stairs, and it's the first door on the left.\"\n\nSo, I went off with this huge key, all the way to the back of the restaurant, and found myself in a gray (5)\thallway. The first door on the left was large and heavy. It didn't look like a bathroom door, but I thought, well this must be it... So, I pulled the door open - I didn't (6)\tneed the key - and it opened with this creaking noise. I foundmyself looking into complete (7) . It was completely black.\n\nSo, I thought I'd made a mistake and I turned around to go. And suddenly, out of the (8)\n\n\tof my eye, I saw this big ugly hand reaching out at me from the darkness. It (9)\n\n me to death. I was terrified. I just ran, all the way back (10)\tthe restaurant to my friends at the table.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_012",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 20,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "BEST FRIENDS\n\n1. Shona\n\nI have three or four good friends, but I think my best friend is Kristy. We first met when we were 12. She was a new student at my school, and the teacher asked me to show her (1)\n\n . We soon became friends. We looked pretty funny together. She's very tall, and I'm pretty short! Because we grew up together, we know everything about each other. So, Kristy knows me better than anyone else. I can always talk to her about my problems. She\n\nalways listens and then gives me good (2)\t! I hope I do the same for her. We are both married now, and um, we live near each other, but in different towns. We talk on the phone all the time, (3)\tnow, because we are both having a baby this summer!\n\n1. Dominic\n\nMy best friend is named Sammy, um, and he often comes to play at my house after school. A long time ago, uh, when I was four, we went to Busy Bee (4)\ttogether. Me and Sammy are both six now. I like him 'cause he's funny and he plays soccer. I like going to play at his house, too. He has a big (5)\t, and a nice dog named King.\n\n1. Michael\n\nI have two very good friends from (6)\tnamed Dave and Adam. We stayed in the same house near school. I don't know why we became friends. We're all very different. Dave was very (7)\tand always worked hard, and Adam was, well, pretty crazy! He never remembered his house keys. He climbed in through the window at least once a week. He loved cooking Indian food and having parties. We had parties all the time in our house.\n\nNow, of course, life is very different. Dave is a writer and lives in France. He sends me long, funny e-mails every month. Adam is an international (8)\t. He's working in Hong Kong these days. But we still meet once a year with our families. We usually meet at Dave's house in France for a week or so.\n\n1. Brianna\n\nMy best friend is my (9)\t, Caleb. He's 16. Our moms are good friends, and I call Caleb's mom Aunt Janine. We grew up together. When we were kids, we always liked the same games. Now we're into the same music. On weekends, we usually go on the internet, or sometimes we go downtown to the music stores to listen to our favorite (10)\t. Caleb's cool. He's like a brother to me.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_013",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 21,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "ANNE-MARIE BOUCHER VS. LIEN XIAOHONG\n\nAnne-Marie Boucher has a small family hotel with her husband, Pascal, near Quebec City, Canada. It's situated on the coast outside the town and near two (1)\tparks. She says, \"Our hotel has wonderful views of the St. Lawrence River and the Isle of Orleans.\"\n\nShe has visitors from all over the world. She says, \"We speak French and English, and I'm studying Italian, which is very (2)\t! Our guests keep us busy both summer and winter, so we always have lots to do.\" They don't have much free time. \"But I like it that way,\" she says. \"And I love (3)\tnew guests.\" In the winter it's very cold, (4)\n\n ten degrees Celsius. Their guests go skiing or snowmobiling in Mont Sainte-Anne Park.\n\nIt's January now, and she is enjoying her favorite sport, dog-sledding. She has twelve dogs, and she's racing them across the snow. She says, \"I'm working the dogs very hard right now. Next year I want to race in a dogsled (5) . It's really exciting.\"\n\nLien Xiaohong is 22. She lives and works in a toy factory in Guangdong province, China. She lives in a room with 14 other women in the factory (6)\t, 700 miles from her family. The factory where she works employs 15,000 workers, nearly all of them women in\n\ntheir (7)\t.\n\nShe works from 8am to 7pm. She has just an hour for lunch. She says, \"I work five and a (8)\tdays a week, but I usually do overtime in the summer. It's very tiring. When I'm not working or studying, I sleep.\"\n\nHer monthly salary is about $65, (9)\tto send a little back home to her family, and to pay for computer classes and English classes in town. She says, \"I don't have any money left to buy things for me.\"\n\nIt's the evening now, and she is having a computer lesson in a private school. \"There are two skills that are (10)\tthese days,\" she says. \"English and computers. One day I want to be my own boss.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_014",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 22,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "THE THIEF, HIS MOTHER AND $2 BILLION\n\nStephane Breitweiser, 33, from Alsace, in France, is the greatest (1)\tthief in Europe. For over six years, while he was working as a truck driver, he stole 239 paintings from museums in France, (2) , and (3)\t. He went into the museums just as they were closing and hid the paintings under his coat. Nobody looked at him because he was wearing a security (4)\tuniform.\n\nBack in his apartment, where he was living with his mother, he filled his bedroom with\n\n(5)\tworks of art. His mother, Mireille, 53, thought all the paintings were (6)\n\n . One day (7)\tthey were having dinner, the police arrived, and they took Stephane to the police station. Mireille was so angry with her son that she went to his room, took some paintings from the (8) , and cut them into small (9)\t. Others she took and threw into the canal. (10) , she destroyed art worth two billion dollars. Both mother and son spent many years in prison.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_015",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 23,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 23.mp3",
+    "transcript": "I BOUGHT IT ON EBAY!\n\nLinda\n\nThe first time I used eBay I bought a stove! It's for the kitchen in my new house. I was amazed, because it was so easy. And it was cheap, too! I bought an (1)\tstove for only $200, and I went to get it yesterday. It looks (2) in my new kitchen. I think eBay's a brilliant idea. I'm going to buy a (3)\tnext!\n\nMegan\n\nOooh! Don't talk to me about eBay! It's a real problem for me - I like it too much. (4)\n\n arrive every day, usually with shoes. I just love buying shoes on eBay. Yesterday a beautiful pair of green (5)\tarrived. They only cost $5. Can you believe it? My husband says he gets worried every time he sees the (6)\t- but you can't have too many shoes, can you?\n\nCharlie\n\nI can't believe it! I'm so (7)\t! I bought a car on eBay, and it was a big mistake. I've bought (8)\tof other things on eBay, and it usually works very well. And I heard\n\nthat a car sells every two (9) on eBay, and the sellers are usually very good. So, I paid $2,000 for an old Volvo, and I went to get it last week. But on the way home the car broke down. A (10)\ttold me it was worth less half the price I paid. Now I don't know what to do. But I'm not going to use eBay again for a while.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_016",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 24,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "Well, I'd like to be a vet. I have three pets - two rabbits and a (1)\tnamed Princess. I love taking care of them, so I think I'll be a good vet. I asked my mom if I could have a (2)\t, but she said no. When I'm a vet, I want to have two dogs and a horse, too.\n\nJoe\n\nI can already play the piano, but now I'm learning to play the electric guitar. I love it! I'd love to be in a rock band. I want to play (3) guitar and write all the songs. I'm thinking of asking my friends if they want to start a band.\n\nJuliet\n\nIt's an important year for me at school this year. I'm taking nine classes. I'm going to study hard and get really good (4)\ton all my tests, so I can go to college. But I'm still going to have fun. I'm seeing my friends tonight!\n\nHannah\n\nI'd like to go (5)\tto work next year. I worked in a bank before I had children, but I don't want to do that anymore. I hope to go back to college and study to be a (6)\n\n school teacher. I've worked part-time at Ella and Joe's school for a few years now, and I really enjoy it.\n\nDavid\n\nI've been in the same job for 20 years. I'm an (7)\tfor a big company, and I visit all the company offices regularly. I am thinking of changing jobs, because I'm tired of traveling all the time. Actually, I'd like to start my own business.\n\nEdie\n\nLast year I joined a travel club for people my age. It's (8) ! I really enjoy meeting new people and seeing new places. I'm looking (9)\tto going on a world cruise with my friend, Margaret. I met her on the last cruise. We're going to the (10)\n\n\t. I can't wait!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_017",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 25,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "The best thing for me is my dog, Jasper. He's a black Labrador and he's great. I got him when he was a puppy, and I was nine. So, we've grown up together. My uncle gave him to me for my ninth birthday, so he didn't cost anything. What's he like? Well, he's very (1)\n\n\t. He's also a bit crazy, and great fun to play with. He's much more (2) \n\nthan I am. I'm always tired after taking him for a walk.\n\nMary\n\nOoh, there are lots of things I like that don't cost anything, I'm sure. Let's see...sunsets. That's one thing I love. My house is on a hill, and in the evening when I look out of my kitchen window, there's sometimes a beautiful sunset. It makes washing the (3)\tmuch easier! I also love getting phone calls and cards from my family. I suppose they cost something, but not to me! But (4)\t, the best thing of all is my first grandchild. He's the most beautiful baby boy I've ever seen!\n\nMichael\n\nI work in the city, so the best thing for me is being in the (5)\t. I don't care what the weather is like. Even if it's rainy and windy, it's great to be outside. It's much quieter than the city, so there's time to think. Actually, the countryside costs money, because I have to drive there first! Ok, so the next best thing is going for a walk in the park near my place after work. It's a nice park with lots of trees and a small lake. It's the most (6) way to end the day.\n\nLaura\n\nUm, well, I think the best thing for me is playing with my (7) sister, Abby. She's almost 4, so I'm much older than her. I also have a brother, Dominic. He's 6. But he doesn't like the games I like, so he isn't as much fun to play with. Abby's always waiting for me when I come home from school. She thinks I'm the best person in the (8) world. We usually play hospital or school. I'm the doctor or teacher, of course, because I'm the biggest.\n\nKelly\n\n(9)\t, the best thing for me is being with my boyfriend, Dan. We don't have to go out or spend money. I love just going for a walk and chatting with him. He makes me laugh all the time. He's the funniest person I know. And the nicest friend. We've been together for nearly a year, and our (10)\tjust gets better and better. I think I'm really lucky.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_018",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 26,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 26.mp3",
+    "transcript": "LEAVING HOME - IAN MITCHELL\n\nMy daughter Evie is living in New York now. She went there (1) months ago, and I'm really worried about her. She says she's having a great time, but she's still only (2) , and I just think New York's such a (3) place for a young woman. Sheshouldn't live so far away from home. Her mother went with her to help her look for somewhere to live. But I didn't go. I don't like New York. I don't like big cities.\n\nWhy did she have to go there, anyway? I don't understand. She says she wants to be a dancer, and she's taking some kind of class, a ballet class or (4)\t. But ballet isn't a real job, and you don't make much money being a dancer, do you? She's a smart girl. I think she should go to (5)\t.\n\nShe's living in an (6) there in New York by herself - she's on her own, and I don't like that at all! (7) , she has a boyfriend. We've never met him - Michael, I think his name is. He doesn't have a job. But Evie works hard, though. She works on the weekends as a (8)\tin a restaurant. I just hope it's a nice place.\n\nShe calls home sometimes, but not a lot, and we call her, but usually her cell phone's turned off or she doesn't answer. When I do (9)\tto talk to her, she just tells us that we should get a (10)\tso she can text us. She says we shouldn't worry. How can we not worry? We're her parents, we miss her, and of course we worry. Sometimes I can't sleep at night. She really should come home more often.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_019",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 27,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "LEAVING HOME - EVIE MITCHELL\n\nI want to be a (1)\tdancer, so I came to New York four months ago to study at the National Ballet School. If you want a good dance (2)\t, you have to go to a good school and you have to start young. I'm almost 19 - almost too old! I know my parents are worried about me living in New York, but it isn't dangerous. You just have to be careful, that's all. It was hard in the (3) . I didn't know anybody, and New York's such a big place, but I love it now. There's lots to do and see.\n\nI'm living in a small apartment near the ballet school with Francine, another dance student. We're good friends now. And I also have a (4)\t! His name's Marco and he's studying at the same school. He still lives with his parents, (5)\tclose to my apartment. His parents are really nice, and I spend a lot of time with them. I want to take Marco home to meet my parents, but the tickets are expensive. And I don't have much money. New York's really expensive, so Francine and I have to work every (6) . We teach children's dance classes at a school (7)\t. It's a lot of fun, actually!\n\nI call my parents three times a week! My dad always (8) so worried! He shouldn't be. I try to tell him not to worry, but he doesn't (9) . I love my mom and dad very much, but I can't live at home for the (10)\tof my life. They really should come to New York and visit me. And I think they should get a cell phone. Then I could send them text messages, and maybe they wouldn't worry so much.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_020",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 28,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "I live with my parents in a (1) outside the city. My parents collect old newspaper and (2)\tto sell. They don't make much money, so we're (3)\t.But I'm going to change all that. I love school. I'm studying very hard, because I'm taking my high school exams next year. Them I'm going to get a job in an office in town. But that isn't my main (4)\t. I really want to go to college. So, I'm going to work for a while tosave some money. I'm hoping to be an (5)\t,then I can build my parents a properhouse.\n\nVictor Lopez\n\nI'm studying for my high school (6)\t, but I'm not sure what I want to study\n\n(7)\t. I love doing art at school, so I might go to art school. That would be fun. I might become a designer. But I also enjoy Spanish language and (8) , so I might study that in school. I'll have to get good test (9)\tto do that. I'd also like to try living in (10) country. I have family in the U.S., so I might live there for a while. Perhaps I could study art and design in New York. That would be great!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_021",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 29,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 29.mp3",
+    "transcript": "AT A CROSSROADS IN LIFE\n\nAndy\n\nI just got some bad news about my job. I'm going to be laid (1) in three months. It's such a shock! I've worked for the same computer company for twelve years. I need to think what to do next. Actually, I've always dreamed of (2)\tto Australia. So, I might try that! I have a friend in Melbourne, and I'm sure he would help me to find a job there. But if I went to Australia, my parents would be so sad. And they wouldn't be able to visit me very much. It's so expensive. So, I would have to find a really good job, so that I could come home a lot, or pay for them to visit me. That might not be easy.\n\nAnother thing I might do is start my own business, using my (3)\tpay. What if I started a computer (4)\tcompany? People are always having problems with their computers. If I did that, I'd have to work really hard in the beginning. It wouldn't be easy, but I would enjoy it, I think.\n\nLucy\n\nI'm so surprised! My boyfriend just asked me to marry him! It was (5)\t, because I couldn't give him an answer right away. You see. I really love my boyfriend, and I think I want to marry him sometime, but not yet.\n\nHe wants us to get married next June. That's only nine months away. I think it might be better to wait. If we got married in June, we'd have to save all our money for the wedding and a house. But I don't want to do that. I want us to enjoy (6)\twhile we're young. I want to go away and travel. I'd like to learn how to ride a horse and how to (7)\t. Oh, there's a lot of things I want to do. If we waited a little while, we could do all those things. If I got married now, I might feel trapped. That would be terrible. But what if I told him\n\nI didn't want to marry him yet? Would he understand? He might not, and I don't want to lose him. I do want to marry him. I just want to put the wedding off for a while. That's all.\n\nMaureen\n\nWell, my husband died three months ago, and I have to decide what to do next. He was sick for a long time, so it wasn't a shock. But we were married for 41 years, and I can't (8)\n\n life without him. I don't think I want to live in this house anymore. Anyway, it's so big for just one person. So, I might sell it and move to an apartment. I'd feel safer if I lived in an apartment, because there would be other people around. I think it might be hard living on my own.\n\nOr my daughter says I can live with her and her family. So, I might do that, but I'm not\n\nsure. I love my daughter and my grandchildren very much. But if I lived with them, I wouldn't feel (9)\tanymore. And I'm still young - I'm only 68! I'm healthy with (10)\n\n\tof friends. There's lots I can still do with my life, I'm sure. I just need to keep busy.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "H_022",
+    "section": "H",
+    "type": "listening_fill_blank_group",
+    "subtype": "free_fill",
+    "sourceTextNumber": 30,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "Well, I am now the (1)\towner of a new business called Computer (2)\n\n . It has been difficult, but everything's going well for now. In fact, my first customer was a woman named Annabel, and she's now my girlfriend! And (3) where she's from - that's right! - Australia! We're going there this winter to visit her family.\n\nLucy\n\nI'm not married, but yes, I'm still with Steve. He was really (4)\twith me at first, when I told him I didn't want to get married yet. But we talked (5) talked about it, and he finally agreed that we should wait. We're saving a little money every month for our (6)\twedding. But we are also saving to go on vacation!\n\nMaureen\n\nI still miss Tony every day, but life's getting a bit easier. I sold the house, and I've moved into a little apartment in a (7) home. It's not too far from my daughter's house, so I see her and my (8) a lot. It's very nice here, and I've made some new friends. I have a (9) friend here named Jeff. He's on his own, too, so we do lots of things (10)\t.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "blanksCount": 10,
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]

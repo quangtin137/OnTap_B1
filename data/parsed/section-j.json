@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "J_001",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 2,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Tatiana can remember 75 of 100 names and faces after 15 minutes.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "She has exactly six brothers and sisters.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "She feels that remembering everyday things and memorizing things are different processes.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "She makes up a story to link random numbers and words, for visualization.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "She didn't have to do much except for taking lecture notes in college.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 6,
+        "statement": "Her parents only encouraged her to read and learn languages to help her memory.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 7,
+        "statement": "She finds memorization interesting.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 8,
+        "statement": "She recently defeated 60 challengers to keep her memory champion title.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 9,
+        "statement": "Her parents allowed her to watch TV when she was little.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 10,
+        "statement": "Tatiana keeps a daily To Do list for remembering things on a daily basis.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_002",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 4,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Russell knows Audrey for more than two years",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "He is in an office soccer team.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "He doesn't see Gary very often but they still keep in touch.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "His old friends are mainly from work.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Both Audrey and Gary are his old friends.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 6,
+        "statement": "To Audrey, Russell is the only her friend at work that she can get along with.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 7,
+        "statement": "Audrey has known Lisa since she was 16 years old.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 8,
+        "statement": "Audrey is a musician but most of her friends are not.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 9,
+        "statement": "Audrey is just interested in friends in her life.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 10,
+        "statement": "Audrey has a lot of different friends.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_003",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 8,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The experience happened to the speaker 20 years ago.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The speaker didn't have a good impression of the boss at first.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The speaker dropped the files on the floor in his boss' office and bumped into the desk.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The boss shouted at the speaker but then burst out laughing.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "The boss had become the speaker's good friend since then.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_004",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 11,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The speaker is the daughter of Deborah and Joseph.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Deborah was studying art history.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Deborah went to the restaurant to meet someone.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Joseph sat at her table because the restaurant was crowded.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Joseph and Deborah liked each other immediately.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 6,
+        "statement": "Deborah gave Joseph a piece of paper.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_005",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 18,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The story happened to the speaker in Italy 20 years ago.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The weather was terrible with a lot of rain then.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The restaurant belonged to the hotel.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The waitress kept the key to the hotel bathroom.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "The speaker went to the unlocked bathroom alone.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 6,
+        "statement": "The creaking noise came from the bathroom window.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 7,
+        "statement": "The speaker felt terrified because of a big ugly hand reaching him.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 8,
+        "statement": "The speaker had dinner in a hotel restaurant alone.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 9,
+        "statement": "The bathroom is down the stairs and the first door on the right.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 10,
+        "statement": "The bathroom was completely black.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_006",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 51,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The topic of the lecture is animal habits.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The professor explains the places for animal's hibernation by listing the different places.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The main idea of the talk is some animals sleep through the winter.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Some animals hibernate on the ground.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "When animals are hibernating, they have fast heartbeats and they almost stop breathing.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_007",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 52,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The main idea of the talk is one reason for long-distance running.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The professor organizes the information in the lecture by describing a process.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Clever traps is the type of hunt that is being done by the San people.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The San people are in Asia.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Track and Field events happened long before they became a sport.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_008",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 53,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 53.mp3",
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The professor mainly discusses the history of Antarctica.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "88 percent of the world's ice is contained in Antarctica.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The professor emphasizes that Antarctica is cold by comparing Antarctica to Australia.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Another name for the South Pole is Antarctica.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Antarctica used to be connected to Australia.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_009",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 54,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The professor mentions the play by Ibsen to present a new type of play.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Three types of plays mentioned in the talk are thriller, comedy, and tragedy.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Saint Joan is an example of a tragicomedy.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Comedies have humorous characters and happy endings.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "\"Ghosts\" is a play by George Bernard Shaw.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_010",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 55,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The talk is mainly about rays from the sun.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "According to the speaker, the sky is blue because blue rays scatter the least.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The color of light ray scatters the least is blue.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Yellow rays are scattered most; they seem to be all over the sky.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "It was a beautiful blue sky yesterday.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_011",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 56,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The professor mainly discusses the importance of getting vitamin D from sunshine asan aspect of health.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The speaker's main point is to get enough vitamin D, we need sunshine.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The professor emphasizes her point about getting enough vitamin D by showing what happens when we're in the sun.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Without Vitamin D, we may develop strong bones and teeth.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Too much sunshine can cause skin cancer.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_012",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 57,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The speaker presents major types with examples in the lecture.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The speaker's main point is that the Pueblos are good weavers.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The Pueblos started weaving with a loom because the loom made weaving faster and easier.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "In South America, the best weavers are a group of people.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "In the second century AD, they began growing cotton.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_013",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 58,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The speaker's main point is that acupuncture comes from China.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Acupuncture helps people because the needles hurt.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The professor mentions ears to give a general example.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Acupuncture is a way of treating normal people.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "There are 787 spots of small metal needles on the human body.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_014",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 59,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 59.mp3",
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Stephane Breitweiser is the greatest technology thief in Europe.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Stephane Breitweiser stole 239 paintings from museums in France, Austria, and Denmark.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Stephane Breitweiser went into the museums just as they were closing and hid the paintings under his raincoat.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The police arrived at his apartment while he and his mother were having dinner.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Mireille cut some paintings from the wall in Stephane's bedroom into small pieces.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_015",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 60,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "James speaks English pretty well.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Before James goes to college, he is going to travel around North America.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "He has an old friend from school in Brazil and a pen pal in Chile.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "He doesn't want to go and see the rainforest.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "When he is traveling around, he will call home twice a week.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_016",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 61,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 61.mp3",
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Jessie is going to work in a young people's home as soon as she finishes school.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Her job is to work with nurses and help people get dressed.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Jessie needn't to go for walks with people.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The job starts in July and it's for at least nine months.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "She is going to Florida with some friends after the job ends.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_017",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 62,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Human beings are not programed to be afraid of things that can hurt them.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Show a baby a picture of a snake or a big, poisonous spider and the baby will show fear.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "We are all afraid of some things and that is not good.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Phobias are usually the result of a good experience.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Phobias are in human beings' genes.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_018",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 63,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Charles Babbage was born in 1719.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Charles Babbage had the idea for the first programmable computer.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Charles designed a machine called the Difference Engine, but the British government did not provide funds.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The machine was never completed because Babbage ran out of money.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "In 1991, a team of engineers from the Science Museum in London built one of Babbage's machines using his original designs, and it worked perfectly.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_019",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 64,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Ten workers have been rescued from an accident 400 feet beneath the streets of New York.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The workers had spent the past 26 hours trapped underground.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The workers had been digging a tunnel for a new subway line when the roof of their tunnel collapsed.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "Sixteen men managed to escape immediately, but two were fatally injured.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Last night the nine men were recovering in the hospital.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_020",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 65,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Three children who had been missing for two days have been found safe and sound.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "The three-ten-year-olds, a boy and two girls, disappeared after school on Wednesday.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Police had released photographs of the two and had been searching nearby houses.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "A neighbor spotted three children and alerted the police.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "The children had slept outside in a garden and realized the concern they had caused.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_021",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 66,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 66.mp3",
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Paper has been used for hundreds of things for a long time ago.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Before paper, people wrote on animal skins, bones, and stones.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Papyrus was similar to paper.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "A Chinese government official invented the first real paper in 2700 BC.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "The first European paper mill was built in Spain in 1150.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_022",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 67,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Maria Guzman comes from Mexico City.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Maria Guzman studies chemistry at the National Autonomous University of Mexico.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The course lasts six months.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "She lives at home with her grandmother only.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Her grandmother speaks English because she went to an English speaking high school.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_023",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 68,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Jim Allen lives in the center of Toronto.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "His wife died ten years ago, so now he lives alone.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Until last year, he worked in a paper factory, but now he is retired.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "He left school when he was 15 and started work in the factory.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "Now he is living in Argentina.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_024",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 69,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "Mark and his best friend were in their tents reading honor books with their flashlights and just talking.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Mark and his friend heard the sound of a bear.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "Mark and his friend had all their food in the tent.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "They were extremely frightened.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "They made noises in the tent.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "J_025",
+    "section": "J",
+    "type": "listening_true_false_group",
+    "sourceTextNumber": 70,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "statements": [
+      {
+        "statementNumber": 1,
+        "statement": "The hometown of Thomas Edison is Milan, Ohio.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 2,
+        "statement": "Milan, Ohio is known for melons.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 3,
+        "statement": "The Milan Melon Festival takes place for four days every September.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 4,
+        "statement": "The festival was started in 1959.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      },
+      {
+        "statementNumber": 5,
+        "statement": "There are 1500 people who live in Milan.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]

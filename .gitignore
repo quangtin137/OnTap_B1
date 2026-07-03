@@ -22,3 +22,6 @@ test*.mjs
 # Source documents
 docs/*.pdf
 docs/*.docx
+
+*.bak
+data/raw/*.bak

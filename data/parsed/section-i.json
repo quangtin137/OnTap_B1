@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "I_001",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "blank_mcq",
+    "sourceTextNumber": 2,
+    "sourceTaskIndex": 2,
+    "audioPath": null,
+    "transcript": "Now here's an interesting story about the (1)\tof how memory works... or doesn't work.\n\nGive Tatiana Cooley 100 faces and names to memorize and she can remember 70 of\nthem 15 minutes later. Give her 4,000 numbers or (2)\twords and she'll repeat them better than most people. It's the same with a 54-line poem. So, why does Tatiana Cooley need sticky notes?\n\nShe says she's incredibly (3)\t! She recently defeated 16 challengers to keep her memory champion title, but when asked how many brothers and sisters she has, she replied, \"Six...er...seven...er six.\"\n\nShe keeps a daily To Do list and says she \"lives by reminder notes.\" According to Tatiana, the ability (4)\tthing is different from remembering things on a daily basis. She says her memorizing is \"not on the same level as remembering to call people.\"\n\nTatiana (5)\tthat she is not unique. She believes that anybody can train their mind to memorize. She uses two techniques: visualization and association. For visualization, she looks at material and mentally photographs it. For association, she makes up a story to\n\n(6)\trandom numbers and words.\n\nTatiana noticed that her ability to memorize was better than average when she was studying in college. She found that taking (7) notes was enough to prepare for tests. She didn't have to do anything else.\n\nTatiana gives credit for her (8)\tto her mother and father. They only allowed her to watch news and educational programs on TV when she was growing up. They played games to help her memory and encouraged her to read and learn languages. She reads in\n\nPortuguese, Spanish, and French. She thinks (9).\tis fun. She says, \"I've always loved to learn. I've been like a sponge my whole life.\"\n\nSo, there you go, folks, it's reassuring to know that even a memory champion needs a little help (10)\teveryday things sometimes. And, our next story is...",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "history",
+          "B": "theory",
+          "C": "mystery",
+          "D": "phenomenon"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "500",
+          "B": "900",
+          "C": "100",
+          "D": "50"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "open-minded",
+          "B": "absent-minded",
+          "C": "strong-minded",
+          "D": "wrong-minded"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "to recognize",
+          "B": "to realize",
+          "C": "to clarify",
+          "D": "to memorize"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "consists",
+          "B": "exists",
+          "C": "insists",
+          "D": "emits"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "link",
+          "B": "think",
+          "C": "bring",
+          "D": "click"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "letter",
+          "B": "lecture",
+          "C": "better",
+          "D": "whatever"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "family",
+          "B": "facilities",
+          "C": "abilities",
+          "D": "variety"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "memorization",
+          "B": "visualization",
+          "C": "association",
+          "D": "modernization"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "memorizing",
+          "B": "realizing",
+          "C": "recognizing",
+          "D": "remembering"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_002",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 7,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Who is the interviewer talking to?",
+        "options": {
+          "A": "Amundsen",
+          "B": "Shackleton",
+          "C": "Lewis",
+          "D": "Annelise"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is the topic today?",
+        "options": {
+          "A": "Adventure and exploration",
+          "B": "Vacation and relaxation",
+          "C": "Excitement and entertainment",
+          "D": "Mountains and oceans"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What hasn't Annelise Morgan done?",
+        "options": {
+          "A": "She has climbed mountains.",
+          "B": "She has sailed across the Pacific Ocean.",
+          "C": "She has walked across deserts.",
+          "D": "She has flown to the moon."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "When did she start her exploration?",
+        "options": {
+          "A": "When she was a child.",
+          "B": "When she was six.",
+          "C": "When she was sick.",
+          "D": "When she was a sixteen."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Who was she interested in?",
+        "options": {
+          "A": "Only men explorers",
+          "B": "Only women explorers",
+          "C": "All the famous explorers",
+          "D": "Those who love explorers"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Why did women explorers use to wear men's clothing?",
+        "options": {
+          "A": "To hide other explorers",
+          "B": "To protect themselves",
+          "C": "To disguise themselves",
+          "D": "To look stranger than others"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "What didn't old explorers have?",
+        "options": {
+          "A": "The difficulty",
+          "B": "High-tech equipment",
+          "C": "The hardship",
+          "D": "Heavy clothes"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "What doesn't she mention about modern explorers?",
+        "options": {
+          "A": "Fabric and clothes",
+          "B": "Light-weight equipment",
+          "C": "Satellite phones",
+          "D": "Slow transportation"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "What keeps explorers warm and dry?",
+        "options": {
+          "A": "Fabric and clothes",
+          "B": "Fire",
+          "C": "Blankets",
+          "D": "Animal skin"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "What makes the exploration more impressive?",
+        "options": {
+          "A": "High-tech",
+          "B": "Difficulties and hardship",
+          "C": "Light-weight",
+          "D": "Satellite phones"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_003",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "blank_mcq",
+    "sourceTextNumber": 9,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "I:\tHello. Our guest today is Dr. Raul Carvi, a scientist who studies (1) . Tell us, Dr\n\nCarvi, is this a new area of research?\n\nRC: Well, historically, a lot of the focus was on (2)\tto teach animals - mostly chimpanzees - language. There were some famous studies in the 1970s...\n\nI:\tCan you tell us about one?\n\nRC: Sure. One of the most famous studies was with a chimp named Washoe. (3) \n\nhad difficulty making sounds, so researchers taught Washoe sign language.\n\nI:\tBy (4)\tyou mean the language that deaf people use...using their hands to speak?\n\nRC: Yes, that's right. In the end, Washoe learned more than 130 words in sign language.\n\nI:\t130 words! That's (5)\t.\n\nRC: Yes, it surprised a lot of people. More recently there's been work with other animals and language...even birds... There is an African (6)\tnamed Alex who has learned to name 40 different objects.\n\nI: 40 objects? That seems like a lot for a bird. Is all the research focused on (7)\t?\n\nRC: It started that way, but I think nowadays researchers are looking at different ways animals might demonstrate intelligence...\n\nI: For example?\n\nRC: Well, people who work with animals a lot, such as zookeepers and veterinarians, always have stories about clever animals...animals that seem to apply some kind of thinking skills (8)\tfrom captivity or get more food or something...these kinds of things demonstrate a different kind of intelligence.\n\nI: And there are always so many personal stories from (9)\ttoo...stories about dogs or cats saving their owner's lives...rescuing someone from a fire or something. When I was a child, my grandmother had a cat that found its way home from 20 miles away. These (10)\tof things must also suggest intelligence.\n\nRC: Yes, that's right. And researchers are now looking at these kinds of personal stories, too.\n\nI:\tWell, there seems to be a lot of research for scientists studying animal intelligence...\n\nRC: Yes. It's all very exciting.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "animal intelligence",
+          "B": "animal independence",
+          "C": "animal extinction",
+          "D": "animal civilization"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "finding",
+          "B": "arriving",
+          "C": "trying",
+          "D": "deciding"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "The chimp",
+          "B": "The team",
+          "C": "The cat",
+          "D": "The fish"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "find language",
+          "B": "nice language",
+          "C": "five languages",
+          "D": "sign language"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "exciting",
+          "B": "amazing",
+          "C": "confiding",
+          "D": "challenging"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "gray carrot",
+          "B": "great pilot",
+          "C": "great carrot",
+          "D": "gray parrot"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "language learning",
+          "B": "message sending",
+          "C": "luggage carrying",
+          "D": "garbage burning"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "to expect",
+          "B": "to kidnap",
+          "C": "to escape",
+          "D": "to reflect"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "cat owners",
+          "B": "pet owners",
+          "C": "rat owners",
+          "D": "bird owners"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "nine",
+          "B": "five",
+          "C": "kinds",
+          "D": "prizes"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_004",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 10,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Who are Alicia and Ryan?",
+        "options": {
+          "A": "They are the callers.",
+          "B": "They are the audience.",
+          "C": "They are the consultants.",
+          "D": "They are the viewers."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Who is the first caller?",
+        "options": {
+          "A": "Cassie",
+          "B": "Larry",
+          "C": "Ryan",
+          "D": "Mitch"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What is the first question about?",
+        "options": {
+          "A": "Personal e-mail at work",
+          "B": "Personal computer at home",
+          "C": "Personal computer at work",
+          "D": "Personal problem with the boss"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "The first problem is that\t.",
+        "options": {
+          "A": "one friend doesn't have enough work to do",
+          "B": "bosses don't allow sending e-mail at work",
+          "C": "no friends send e-mail at work",
+          "D": "one friend keeps sending e-mail at work"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Where does Cassie work?",
+        "options": {
+          "A": "In a big office",
+          "B": "In a big shop",
+          "C": "In a big store",
+          "D": "In a big hotel"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "What makes Cassie uncomfortable?",
+        "options": {
+          "A": "The atmosphere at work",
+          "B": "The gossip at work",
+          "C": "The relationship at work",
+          "D": "Her job"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "What does Alicia advise Cassie to do to solve the problem?",
+        "options": {
+          "A": "To keep quiet",
+          "B": "To stay out of it",
+          "C": "To leave the office",
+          "D": "To try to do something about the problem"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Why is Mitch frustrated?",
+        "options": {
+          "A": "Because of his own son",
+          "B": "Because of his owner's son",
+          "C": "Because of his friend's son",
+          "D": "Because of his job"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "What does Alicia advise Mitch to do?",
+        "options": {
+          "A": "To do what he wants",
+          "B": "To leave his job",
+          "C": "To look for another job",
+          "D": "To face it"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "What does Ryan think about Alicia's idea?",
+        "options": {
+          "A": "He agrees with her.",
+          "B": "He asks Mitch to leave his job.",
+          "C": "He thinks the boss is right.",
+          "D": "He doesn't agree with her."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_005",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 13,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What was the weather like in the United States this past year?",
+        "options": {
+          "A": "It was a typical year for weather.",
+          "B": "It was a terrible year for weather.",
+          "C": "It was a wonderful year for weather.",
+          "D": "It was a beautiful year for weather."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Temperatures around the Great Lakes in January are\t.",
+        "options": {
+          "A": "high",
+          "B": "low",
+          "C": "hot",
+          "D": "cold"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Why were airports closed?",
+        "options": {
+          "A": "Because of rain",
+          "B": "Because of storm",
+          "C": "Because of snow",
+          "D": "Because of smoke"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What was the weather like in March?",
+        "options": {
+          "A": "Cold",
+          "B": "Cool",
+          "C": "Wet",
+          "D": "Hot"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What happened through the summer?",
+        "options": {
+          "A": "Flood",
+          "B": "Drought",
+          "C": "Snow",
+          "D": "Storm"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "What happened in Mississippi Valley?",
+        "options": {
+          "A": "Storms",
+          "B": "Thunders",
+          "C": "Thunderstorms",
+          "D": "Dust-storms"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "What happened in several states?",
+        "options": {
+          "A": "Tornados",
+          "B": "Droughts",
+          "C": "Wildfires",
+          "D": "Earthquakes"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "When was the Gulf Coast pounded by hurricanes and tropical storms?",
+        "options": {
+          "A": "In November",
+          "B": "In September",
+          "C": "In October",
+          "D": "In December"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "How fast did the wind move?",
+        "options": {
+          "A": "45 miles per hour",
+          "B": "35 miles per hour",
+          "C": "135 miles per hour",
+          "D": "145 miles per hour"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "How many people were evacuated from their house?",
+        "options": {
+          "A": "5,000,000",
+          "B": "5,000",
+          "C": "50,000",
+          "D": "9,000"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_006",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 14,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Who was Wilma Rudolph in the 50s?",
+        "options": {
+          "A": "A great runner",
+          "B": "A great hunter",
+          "C": "A great founder",
+          "D": "A great drummer"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What happened to her when she was very young?",
+        "options": {
+          "A": "She had polio and couldn't work.",
+          "B": "She had polio and couldn't talk.",
+          "C": "She had polio and couldn't walk.",
+          "D": "She had a cold and couldn't walk."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What is untrue about Wilma Rudolph?",
+        "options": {
+          "A": "She could walk again.",
+          "B": "She worked very hard.",
+          "C": "She won three gold medals in the Olympics.",
+          "D": "She would never be able to walk again."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How was Nancy Drew?",
+        "options": {
+          "A": "She was only dependent.",
+          "B": "She was really clever and independent.",
+          "C": "She was so determined.",
+          "D": "She was mysterious."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Why did the speaker use to dream about being Nancy Drew?",
+        "options": {
+          "A": "Because of the car",
+          "B": "Because of her mystery",
+          "C": "Because of her books",
+          "D": "Because she was a detective."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Who does the speaker admire?",
+        "options": {
+          "A": "Those who risk their lives to sell people.",
+          "B": "Those who risk their lives to save people.",
+          "C": "Those who fix their time to save people.",
+          "D": "Those who read about lives to tell people."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Who rescues people on the coast?",
+        "options": {
+          "A": "Volunteer doctors",
+          "B": "Volunteer scuba-divers",
+          "C": "Volunteer coastguards",
+          "D": "Volunteer policemen"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Who or what does the speaker talk about?",
+        "options": {
+          "A": "His cat",
+          "B": "His pet",
+          "C": "His mom",
+          "D": "His dad"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "How old is the man?",
+        "options": {
+          "A": "Fifty",
+          "B": "Sixty-three",
+          "C": "Sixty",
+          "D": "Thirty-three"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "How many kids did he bring up?",
+        "options": {
+          "A": "Four",
+          "B": "Five",
+          "C": "Six",
+          "D": "Three"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_007",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "blank_mcq",
+    "sourceTextNumber": 15,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "G: Right behind me is the Brooklyn Bridge. This is often called New York City's most beautiful bridge. It was completed (1)\tand it took fifteen years and cost 15\n\nmillion dollars to build. When it was built, it was the world's longest suspension bridge. These two towers were just about the (2)\tstructures in the city at that time.\n\nT.1: Who designed the bridge?\n\nG: The bridge was designed by John Roebling, but he died after (3)\tearly in the project. It was his son Washington Roebling who actually managed and completed the project. It was a huge project and quite dangerous.\n\nT.2: Why? Did people fall from the bridge?\n\nG: Actually, the main danger was decompression sickness.\n\nT.2: Decompression sickness? What's that?\n\nG: Decompression sickness is (4)\twhen you come back up too quickly from being deep underwater. The two towers had to be (5)\tinto the mud at the bottom of the river, so workers had to work down there. They were lowered into the water in large wooden boxes. Coming back up, they got air bubbles in their (6)\n\n\t. Several of the workers died or became ill from that.\n\nT.2: Wow!\n\nG: Washington Roebling himself (7) in the middle of the project and he couldn't continue. He had to stay in bed, so he directed the rest of the project from his bedroom window, using (8)\tHe dictated his orders to his wife, and she told\n\nthe workers what to do. Some people say she was really the one who built the bridge in the end.\n\nT.1: That's an incredible story. Was this the first bridge across the river?\n\nG: It was the first bridge to go across the (9)\t, so it was very important, and a lot of people used it. It cost a penny per person - one cent - to walk across the bridge, and ten cents to drive a one-horse wagon across. (10)\tfor a horse or a cow. So don't go bringing any horses or cows across the bridge now. It might get expensive!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "in 1983",
+          "B": "in 1893",
+          "C": "in 1883",
+          "D": "in 1993"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "smallest",
+          "B": "tallest",
+          "C": "shortest",
+          "D": "longest"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "a sickness",
+          "B": "an earthquake",
+          "C": "an accident",
+          "D": "a collapse"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "happens",
+          "B": "that happens",
+          "C": "why happens",
+          "D": "what happens"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "sink",
+          "B": "sunk",
+          "C": "sinking",
+          "D": "sinked"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "bloodstream",
+          "B": "heart",
+          "C": "brain",
+          "D": "body"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "got fixed",
+          "B": "got struck",
+          "C": "got sacked",
+          "D": "got sick"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "a telescope",
+          "B": "a telephone",
+          "C": "a television",
+          "D": "a telegram"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "Fast River",
+          "B": "East River",
+          "C": "First River",
+          "D": "Bridge River"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "Five tens",
+          "B": "Ten cents",
+          "C": "Five cents",
+          "D": "Five pence"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_008",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "blank_mcq",
+    "sourceTextNumber": 19,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "transcript": "When I had just left high school, I was (1)\toverseas for a year. But I wasn't sure that that was what I wanted. I was worried about going so far away, leaving my friends... you know. So, I was (2)\tto a friend of my father's about this, and he said, \"Travel while you're young.\" It's a clich├⌐, I know, but talking to him, I suddenly realized that I was going to be old one day and that I didn't want to (3) then that I'd had a chance and not taken it. So, I put off going to college, went overseas, and it (4)\tto be a fantastic experience. If he hadn't said that to me, I might never have gone.\n\nMy mother always said, \"If something's bothering you, go for a walk by yourself.\" She used to do this all the time. We just (5)\tit as normal. Now I realize that she was doing that to get a chance to be by herself, and to think about things. And now I do (6)\n\n . Whenever I have a problem that I can't work out, I go out for a walk, and it always helps me feel better!\n\nMy (7)\thad a mirror by the front door, and she always looked at herself in the mirror before she went out. It became a bit of a joke in the family, because the mirror was too high for her, and she had to stand on (8)\tto look in it. But she said, \"Whatever you do, always check a mirror before you go out. You never know when you might have food stuck between your teeth!\"\n\nI was really shy, and I was nervous about going to a party where I didn't know anyone. And the friend that I was going with said, \"Look, just (9) . People aren't really interested in you. What they really want is to talk about themselves. Just keep on asking questions. Try to find out about them.\" I did, and it (10)\t. And ever since then I've always done that whenever I meet new people, and it keeps the conversation going.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "offered a job",
+          "B": "ordered a job",
+          "C": "looking for job",
+          "D": "applying for job"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "telling",
+          "B": "taking",
+          "C": "talking",
+          "D": "speaking"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "realize",
+          "B": "recognize",
+          "C": "memorize",
+          "D": "criticize"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "came out",
+          "B": "turned down",
+          "C": "changed about",
+          "D": "turned out"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "adapted",
+          "B": "expected",
+          "C": "accepted",
+          "D": "collected"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "what I did",
+          "B": "what she did",
+          "C": "what he did",
+          "D": "what they did"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "great mother",
+          "B": "crazy mother",
+          "C": "lazy mother",
+          "D": "grandmother"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "tiptoe",
+          "B": "big toes",
+          "C": "window",
+          "D": "big shoes"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "pay attention",
+          "B": "ask questions",
+          "C": "get attraction",
+          "D": "make acquaintance"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "worried",
+          "B": "walked",
+          "C": "talked",
+          "D": "worked"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_009",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 31,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the main topic of the conversation?",
+        "options": {
+          "A": "Problems with living in an apartment",
+          "B": "A search for a new apartment",
+          "C": "The cost of rent near universities"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Why doesn't Ann like her current apartment?",
+        "options": {
+          "A": "It's too expensive.",
+          "B": "The neighborhood is noisy.",
+          "C": "It's located some distance from school."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How much money does Ann want to pay for rent?",
+        "options": {
+          "A": "No more than $200",
+          "B": "Around $200",
+          "C": "A little more than $200"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What kind of place is she looking for?",
+        "options": {
+          "A": "Somewhere that is within a short driving distance of campus",
+          "B": "An apartment with furniture already in it",
+          "C": "A place where she can live alone"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "How is Roger going to help her?",
+        "options": {
+          "A": "He is planning on calling a friend who owns an apartment building.",
+          "B": "He will check the newspapers to see if he can find an apartment for rent.",
+          "C": "He is going to visit an apartment building near his place."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "What is the name of the caller?",
+        "options": {
+          "A": "Nick",
+          "B": "Nate",
+          "C": "Neil"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "According to the girl, her father:",
+        "options": {
+          "A": "is not home.",
+          "B": "is on another line.",
+          "C": "can't come to the telephone."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "What is the man's telephone number?",
+        "options": {
+          "A": "598-7482",
+          "B": "587-4728",
+          "C": "589-7248"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "The man tells the girl:",
+        "options": {
+          "A": "that he will call again sometime after 7:00 PM.",
+          "B": "to ask her father to call him later.",
+          "C": "that he will drop by around 8:30 PM."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "What does the girl refuse to tell the caller?",
+        "options": {
+          "A": "Her age",
+          "B": "Her name",
+          "C": "Her address"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_010",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 32,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the name of the caller?",
+        "options": {
+          "A": "Nick",
+          "B": "Nate",
+          "C": "Neil"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "According to the girl, her father:",
+        "options": {
+          "A": "is not home.",
+          "B": "is on another line.",
+          "C": "can't come to the telephone."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What is the man's telephone number?",
+        "options": {
+          "A": "598-7482",
+          "B": "587-4728",
+          "C": "589-7248"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "The man tells the girl:",
+        "options": {
+          "A": "that he will call again sometime after 7:00 PM.",
+          "B": "to ask her father to call him later.",
+          "C": "that he will drop by around 8:30 PM."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What does the girl refuse to tell the caller?",
+        "options": {
+          "A": "Her age",
+          "B": "Her name",
+          "C": "Her address"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_011",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 33,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What time does the man get up?",
+        "options": {
+          "A": "At 5:00 a.m.",
+          "B": "At 6:00 a.m.",
+          "C": "At 7:00 a.m."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What time does he get to work?",
+        "options": {
+          "A": "At 7:00 a.m.",
+          "B": "At 8:00 a.m.",
+          "C": "At 9:00 a.m."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does he do with his family around 6:30 p.m.?",
+        "options": {
+          "A": "They read books together.",
+          "B": "They play games.",
+          "C": "They eat dinner."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What do the man and his wife do after the kids go to bed?",
+        "options": {
+          "A": "They watch TV.",
+          "B": "They clean the house.",
+          "C": "They listen to music."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is one thing the man does NOT say about his wife?",
+        "options": {
+          "A": "She has to take their children to school.",
+          "B": "She helps the kids with their homework.",
+          "C": "She goes shopping for food."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_012",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 34,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What kind of movie is the girl going to see on her date?",
+        "options": {
+          "A": "Horror",
+          "B": "Romance",
+          "C": "Science fiction"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "At what theater is the movie playing?",
+        "options": {
+          "A": "Central Palace",
+          "B": "Campus Plaza",
+          "C": "Common Plex"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How is the girl getting to the movie?",
+        "options": {
+          "A": "She is getting a ride with her brother.",
+          "B": "Her date is coming to pick her up.",
+          "C": "She is going by bus and will meet her date there."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What time does the movie begin?",
+        "options": {
+          "A": "7:30 p.m.",
+          "B": "8:00 p.m.",
+          "C": "8:30 p.m."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What time does she have to be home?",
+        "options": {
+          "A": "10:00 p.m.",
+          "B": "10:30 p.m.",
+          "C": "11:00 p.m."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "What does the man plan to wear during the summer months?",
+        "options": {
+          "A": "A cool hat",
+          "B": "Casual shoes",
+          "C": "Light pants"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "What is one thing the man is NOT going to pack for the winter season?",
+        "options": {
+          "A": "A coat",
+          "B": "Some sweaters",
+          "C": "A jacket"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "What is the weather like in the spring?",
+        "options": {
+          "A": "It's windy.",
+          "B": "It's rainy.",
+          "C": "It's cool."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "What is an example of an occasion where the man might need formal clothes?",
+        "options": {
+          "A": "A party",
+          "B": "A business meeting",
+          "C": "A wedding"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "What did the man wear to his high school graduation?",
+        "options": {
+          "A": "Jeans and tennis shoes",
+          "B": "A casual shirt and tie",
+          "C": "A suit and dress shoes"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_013",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 35,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does the man plan to wear during the summer months?",
+        "options": {
+          "A": "A cool hat",
+          "B": "Casual shoes",
+          "C": "Light pants"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is one thing the man is NOT going to pack for the winter season?",
+        "options": {
+          "A": "A coat",
+          "B": "Some sweaters",
+          "C": "A jacket"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What is the weather like in the spring?",
+        "options": {
+          "A": "It's windy.",
+          "B": "It's rainy.",
+          "C": "It's cool."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is an example of an occasion where the man might need formal clothes?",
+        "options": {
+          "A": "A party",
+          "B": "A business meeting",
+          "C": "A wedding"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What did the man wear to his high school graduation?",
+        "options": {
+          "A": "Jeans and tennis shoes",
+          "B": "A casual shirt and tie",
+          "C": "A suit and dress shoes"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_014",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 36,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What's the matter with Steve?",
+        "options": {
+          "A": "He has a cold.",
+          "B": "He has the flu.",
+          "C": "He has a stomachache."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How long has Steve been sick?",
+        "options": {
+          "A": "Since Friday",
+          "B": "Since Saturday",
+          "C": "Since Sunday"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How often should Steve take the medicine the doctor prescribes?",
+        "options": {
+          "A": "Three times a day with meals",
+          "B": "Four times a day before meals",
+          "C": "Three times a day after meals"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Carla suggest he do?",
+        "options": {
+          "A": "Take herbal medicine",
+          "B": "See another doctor",
+          "C": "Eat chicken soup"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What does Steve decide to do?",
+        "options": {
+          "A": "Talk to another friend",
+          "B": "Listen to Carla's suggestion",
+          "C": "See the same doctor again"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_015",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 37,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "How much does the father owe his son an allowance?",
+        "options": {
+          "A": "Three dollars",
+          "B": "Thirteen dollars",
+          "C": "Thirty dollars"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Why hasn't the father given his son allowance?",
+        "options": {
+          "A": "Because he didn't remember to do it.",
+          "B": "Because he doesn't have any money now.",
+          "C": "Because his son already has money."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "When does the father usually give his son money?",
+        "options": {
+          "A": "On Friday",
+          "B": "On Saturday",
+          "C": "On Sunday"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Where does the man get money to pay his son?",
+        "options": {
+          "A": "In his bedroom",
+          "B": "At the bank",
+          "C": "From the bookstand"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Choose one thing the boy does NOT mention about how he will spend his money.",
+        "options": {
+          "A": "He will buy some toys.",
+          "B": "He will save some of it.",
+          "C": "He will give part to the needy."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_016",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 38,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the name of the course?",
+        "options": {
+          "A": "Intercultural Communication",
+          "B": "Interaction in Communication",
+          "C": "International Cooperation"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What time does the class meet?",
+        "options": {
+          "A": "3:05 PM to 4:15 PM",
+          "B": "3:15 PM to 4:50 PM",
+          "C": "3:50 PM to 4:50 PM"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "On average, how often will the class meet in the research lab during the last part of the course?",
+        "options": {
+          "A": "Twice a month",
+          "B": "Three times a month",
+          "C": "Four times a month"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "If today is Tuesday, when should the textbook be available in the bookstore?",
+        "options": {
+          "A": "Today after class",
+          "B": "On Wednesday",
+          "C": "On Thursday"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which item was NOT mentioned as part of determining a student's final grade in the class?",
+        "options": {
+          "A": "Quizzes",
+          "B": "A research project",
+          "C": "Attendance"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_017",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 39,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What news event is being reported?",
+        "options": {
+          "A": "A bomb threat at a hospital",
+          "B": "A flood at a school",
+          "C": "A fire at an apartment building"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "When did this event occur?",
+        "options": {
+          "A": "In the morning",
+          "B": "In the early afternoon",
+          "C": "In the evening"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Who was rescued?",
+        "options": {
+          "A": "A baby",
+          "B": "A boy",
+          "C": "An elderly woman"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "The dog helped rescue this person by\t.",
+        "options": {
+          "A": "attracting people's attention by barking",
+          "B": "pulling the person to safety",
+          "C": "comforting the person until help came"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is the current medical condition of the survivor?",
+        "options": {
+          "A": "In critical, but stable condition",
+          "B": "In serious condition",
+          "C": "In good condition"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_018",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 40,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "This presentation was most likely part of which type of recording?",
+        "options": {
+          "A": "A TV weather program on seasonal changes",
+          "B": "An informal discussion between friends",
+          "C": "An academic speech at school"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Based on what you heard; how would you characterize the winter season?",
+        "options": {
+          "A": "January receives about 30 inches of snow.",
+          "B": "Winter temperatures hover below freezing for the 3-month period.",
+          "C": "Outdoor activities tend to be popular during this season."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Which statement is NOT true about the spring?",
+        "options": {
+          "A": "Spring usually begins at the end of March.",
+          "B": "Plentiful wind currents make some outdoor activities possible.",
+          "C": "Nighttime temperatures dip below 50 degrees."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is the summer season like in this area?",
+        "options": {
+          "A": "Mild and breezy",
+          "B": "Hot and dry",
+          "C": "Have a fall picnic"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is one activity people like to do in the fall?",
+        "options": {
+          "A": "Go and see the fall colors",
+          "B": "Clean their houses",
+          "C": "Warm and humid"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_019",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 41,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 41.mp3",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does Susan have to do on Saturday morning?",
+        "options": {
+          "A": "Walk the dog",
+          "B": "Clean the house",
+          "C": "Go to the doctor"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Where does Susan have to go at 12:30?",
+        "options": {
+          "A": "To school",
+          "B": "To the dentist",
+          "C": "To the science museum"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What time is Susan meeting with Julie?",
+        "options": {
+          "A": "At 12:00 p.m.",
+          "B": "At 1:00 p.m.",
+          "C": "At 2:00 p.m."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What will Susan do after she cooks dinner?",
+        "options": {
+          "A": "Clean the dishes",
+          "B": "Play soccer with her brother",
+          "C": "Call a friend"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Why can't they watch a video at Susan's house?",
+        "options": {
+          "A": "They can't decide on a video.",
+          "B": "Susan's mother is going to use it.",
+          "C": "The TV isn't working."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_020",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 42,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 42.mp3",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does the boy want to do at the beginning of the conversation?",
+        "options": {
+          "A": "Go play outside",
+          "B": "Watch TV",
+          "C": "Play video games"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is one thing the boy is NOT assigned to do around the house?",
+        "options": {
+          "A": "Clean the garage",
+          "B": "Vacuum the floors",
+          "C": "Wash the walls"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does the boy have to do in his bedroom?",
+        "options": {
+          "A": "Put away his books",
+          "B": "Make his bed",
+          "C": "Pick up his dirty clothes"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is the father going to do while the boy is doing his household chores?",
+        "options": {
+          "A": "Wash the car",
+          "B": "Paint the house",
+          "C": "Work in the yard"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Where will the father and son go after the housework is done?",
+        "options": {
+          "A": "To a movie",
+          "B": "Out to eat",
+          "C": "To a ball game"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_021",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 43,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "The man makes a reservation finally for which day?",
+        "options": {
+          "A": "March 20th",
+          "B": "March 21st",
+          "C": "March 22nd"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What kind of room does the man prefer?",
+        "options": {
+          "A": "A non-smoking room",
+          "B": "A smoking room",
+          "C": "Either one is okay"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Why doesn't he want to reserve the suite?",
+        "options": {
+          "A": "It doesn't have a nice view.",
+          "B": "It doesn't come with a sauna bath.",
+          "C": "It's too expensive."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Including tax, how much is the man's room?",
+        "options": {
+          "A": "80 dollars",
+          "B": "88 dollars",
+          "C": "96 dollars"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "How do you spell the man's name?",
+        "options": {
+          "A": "Maxner",
+          "B": "Maexner",
+          "C": "Mexner"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_022",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 44,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the woman's name?",
+        "options": {
+          "A": "Julie",
+          "B": "Jenny",
+          "C": "Jane"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Where is the woman originally from?",
+        "options": {
+          "A": "Argentina",
+          "B": "The United States",
+          "C": "Chile"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "About how old was the man when he returned to the United States?",
+        "options": {
+          "A": "7 years old",
+          "B": "10 years old",
+          "C": "17 years old"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is the man studying?",
+        "options": {
+          "A": "Physics",
+          "B": "Biology",
+          "C": "Psychology"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is the woman's job?",
+        "options": {
+          "A": "A sales representative",
+          "B": "A computer programmer",
+          "C": "A receptionist"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_023",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 45,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Where did Doug and Diane first meet?",
+        "options": {
+          "A": "At school",
+          "B": "At a restaurant",
+          "C": "At a party"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How did he know where she lived?",
+        "options": {
+          "A": "He asked a friend for directions.",
+          "B": "He followed her home.",
+          "C": "He looked her up in the phone book."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Where does Doug invite her to go with him on Thursday?",
+        "options": {
+          "A": "To a restaurant",
+          "B": "To a theater",
+          "C": "To a dance"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is Diane's response to his invitation on Thursday?",
+        "options": {
+          "A": "She can't go out because she has to study.",
+          "B": "She is sorry, but she has another date.",
+          "C": "She has to work that day, so she can't go."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "How does Diane feel about Doug's idea for Friday?",
+        "options": {
+          "A": "She thinks it would be a great idea if she had the time.",
+          "B": "She feels that it would be an uninteresting outing.",
+          "C": "She has done the activity before, so she'd rather not go."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_024",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 46,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the man's name?",
+        "options": {
+          "A": "His name is Mike.",
+          "B": "He goes by Nick.",
+          "C": "His friends call him Nate."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Where is the man from?",
+        "options": {
+          "A": "He's from Brownston.",
+          "B": "His hometown is Brownsburg.",
+          "C": "He's originally from Brownsville."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How old is the man?",
+        "options": {
+          "A": "He's in his early twenties.",
+          "B": "He's in his mid-twenties.",
+          "C": "He's in his late twenties."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Where did the man meet Sarah?",
+        "options": {
+          "A": "He met her on a bus.",
+          "B": "They were introduced at a party.",
+          "C": "He saw her in a language class."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Sarah's older sister is worried that Nick\t.",
+        "options": {
+          "A": "is a terrible language teacher",
+          "B": "is going to be a negative influence on her",
+          "C": "charges too much money for lessons"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_025",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 47,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 47.mp3",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Gregorio is well known for his ability to work with\t.",
+        "options": {
+          "A": "famous athletes",
+          "B": "animals",
+          "C": "world dancers"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is one thing that is NOT true about him?",
+        "options": {
+          "A": "He's tall.",
+          "B": "He's wearing green slacks.",
+          "C": "He has on a blue jacket."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Georgina do for a living?",
+        "options": {
+          "A": "She's a popular sports figure.",
+          "B": "She's famous for her cooking skills.",
+          "C": "She makes a living selling tennis shoes."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Georgina is a\twoman wearing a yellow dress.",
+        "options": {
+          "A": "large",
+          "B": "heavy",
+          "C": "small"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is the other invited guest, Brad Pitt, doing in the conversation?",
+        "options": {
+          "A": "He's sitting in the room.",
+          "B": "He's standing by a table.",
+          "C": "He's eating some refreshments."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_026",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 48,
+    "sourceTaskIndex": 1,
+    "audioPath": "audio/Text 48.mp3",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is the woman's name?",
+        "options": {
+          "A": "Her name is Ruth Ann.",
+          "B": "It's Ronda.",
+          "C": "The woman's name is Rachel."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "The woman spent most of her life in\t.",
+        "options": {
+          "A": "California",
+          "B": "Utah",
+          "C": "New York"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does the woman do for a living?",
+        "options": {
+          "A": "She is a computer programmer.",
+          "B": "She works at a school.",
+          "C": "She has a job at a bank."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How often does the woman go to the gym?",
+        "options": {
+          "A": "She goes there three times a week.",
+          "B": "She works out four times a week.",
+          "C": "She exercises five times a week."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which statement is NOT true about the conversation?",
+        "options": {
+          "A": "The man is from a city called Salt Lake.",
+          "B": "The woman gives the man her phone number.",
+          "C": "The woman knows a lot about science."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_027",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 49,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Why can't Elaine Strong answer the phone?",
+        "options": {
+          "A": "She's in a meeting.",
+          "B": "She's out of the office.",
+          "C": "She's talking with another customer."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What does the caller want the secretary to send?",
+        "options": {
+          "A": "Information on after-sales service",
+          "B": "A picture of the newest computers",
+          "C": "A list of software products"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What time should the secretary send the material?",
+        "options": {
+          "A": "2:30 PM",
+          "B": "3:30 PM",
+          "C": "5:00 PM"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is the caller's name?",
+        "options": {
+          "A": "Cordell",
+          "B": "Kordel",
+          "C": "Kordell"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What is the caller's telephone number?",
+        "options": {
+          "A": "560-1287",
+          "B": "560-1828",
+          "C": "560-2187"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "I_028",
+    "section": "I",
+    "type": "listening_mcq_group",
+    "subtype": "question_mcq",
+    "sourceTextNumber": 50,
+    "sourceTaskIndex": 1,
+    "audioPath": null,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does the man want to do after he graduates?",
+        "options": {
+          "A": "He wants to become a teacher.",
+          "B": "He hopes to go on to graduate school.",
+          "C": "He'd like to work at a hotel."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is the woman majoring in?",
+        "options": {
+          "A": "history",
+          "B": "French",
+          "C": "computer science"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How does the woman pay for college?",
+        "options": {
+          "A": "She has a part-time job.",
+          "B": "She received a scholarship.",
+          "C": "Her parents are paying for it."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Where does the man work part-time?",
+        "options": {
+          "A": "at a bakery",
+          "B": "in a library",
+          "C": "at a restaurant"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What thing did the man NOT say about his job?",
+        "options": {
+          "A": "His co-workers are friendly.",
+          "B": "He works long hours.",
+          "C": "The pay is okay."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]
