@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "D_001",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 1,
+    "title": null,
+    "passage": "TOM CRUISE\nTom Cruise is one of the most successful actors in cinema history. However, life hasn't always been that easy for him. As a young boy, Tom was shy and had (1) in finding friends, although he really enjoyed (2)\tpart in school plays.\n(3) he had finished High School. Tom went to New York to look for work. He found employment as a porter, and at the same time he (4)\tdrama classes. In 1980, the film director Franco Zeffirelli (5)\tTom his first part in a film. Ten years later, he had become (6) successful that he was one of the highest-paid actors in Hollywood, (7)\tmillions of dollars for (8) film.\nToday, Tom (9) appears in films and is as (10)\tas ever with his thousands of fans from all around the world.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "worry",
+          "B": "problem",
+          "C": "fear",
+          "D": "difficulty"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "making",
+          "B": "holding",
+          "C": "taking",
+          "D": "finding"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "While",
+          "B": "During",
+          "C": "After",
+          "D": "Until"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "prepared",
+          "B": "waited",
+          "C": "attended",
+          "D": "happened"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "suggested",
+          "B": "offered",
+          "C": "tried",
+          "D": "advised"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "so",
+          "B": "such",
+          "C": "too",
+          "D": "very"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "paying",
+          "B": "earning",
+          "C": "winning",
+          "D": "reaching"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "another",
+          "B": "all",
+          "C": "each",
+          "D": "some"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "yet",
+          "B": "ever",
+          "C": "already",
+          "D": "still"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "popular",
+          "B": "favourite",
+          "C": "preferred",
+          "D": "approved"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_002",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 2,
+    "title": null,
+    "passage": "ZOOS\nPeople began to keep animals in zoos (1)\t3,000 years ago, when the rulers of China opened an enormous zoo called the Gardens of Intelligence. In many of the early zoos, animals (2)\ttaught to perform for the visitors. This no longer (3)\tand it is accepted that the purpose of zoos is for people to see animals behaving naturally.\nToday, most cities have a zoo or wildlife park. However, not (4) approves of zoos. People who think that zoos are a good idea say they (5)\tus with the opportunity to (6)\tabout the natural world and be close to wild animals. Both of\n(7)\twould not be possible (8) zoos. On the other hand, some people\ndisapprove of zoos because they (9) it is wrong to put animals in cages, and argue that in zoos which are not (10)\tproperly, animals live in dirty conditions and eat unsuitable food.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "above",
+          "B": "over",
+          "C": "more",
+          "D": "beyond"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "are",
+          "B": "have",
+          "C": "were",
+          "D": "had"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "appears",
+          "B": "becomes",
+          "C": "develops",
+          "D": "happens"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "somebody",
+          "B": "everybody",
+          "C": "nobody",
+          "D": "anybody"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "produce",
+          "B": "bring",
+          "C": "provide",
+          "D": "make"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "discover",
+          "B": "learn",
+          "C": "find",
+          "D": "realise"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "that",
+          "B": "what",
+          "C": "whose",
+          "D": "these"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "without",
+          "B": "instead",
+          "C": "except",
+          "D": "unless"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "hope",
+          "B": "expect",
+          "C": "imagine",
+          "D": "believe"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "ordered",
+          "B": "managed",
+          "C": "decided",
+          "D": "aimed"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_003",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 3,
+    "title": null,
+    "passage": "SWEDEN'S ICE HOTEL\nThe village of Jukkasjarvi is in Swedish Lapland, and winter temperatures there can reach -40°C. But 6,000 holidaymakers (1)\tgo there annually, to visit what is probably Europe's most unusual accommodation. In this hotel you eat, drink, and sleep in rooms made\n(2) ice. If you want, you can (3)\tget married in one. The bar is nice too, and putting hot drinks on it is obviously not (4) ! The bedrooms are around -4°C, but fortunately guests are (5)\twith special sleeping bags that will keep\n(6)\twarm in the coldest of temperatures. (7)\toutdoor clothes can be supplied too, if needed.\nThe hotel is never more than six months old (8)\tit melts in summer and\n(9)\twinter it is rebuilt. Creating the hotel (10) 10,000 tonnes of ice, plus 30,000 tonnes of snow.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "therefore",
+          "B": "ever",
+          "C": "also",
+          "D": "still"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "by",
+          "B": "of",
+          "C": "within",
+          "D": "for"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "even",
+          "B": "however",
+          "C": "already",
+          "D": "yet"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "supported",
+          "B": "recognised",
+          "C": "recommended",
+          "D": "agreed"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "given",
+          "B": "offered",
+          "C": "provided",
+          "D": "delivered"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "these",
+          "B": "those",
+          "C": "they",
+          "D": "them"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "Suitable",
+          "B": "Convenient",
+          "C": "Acceptable",
+          "D": "Satisfactory"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "although",
+          "B": "because",
+          "C": "so",
+          "D": "while"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "other",
+          "B": "any",
+          "C": "each",
+          "D": "another"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "brings",
+          "B": "puts",
+          "C": "fetches",
+          "D": "takes"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_004",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 4,
+    "title": null,
+    "passage": "HENRY FORD\nHenry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he (1) driven it 1,500 kilometres, he sold it and built two bigger carts. Then, in 1903, he (2) the Ford Motor Company. By (3) strong but light steel, he built cheap cars for\n(4) people to buy. In 1908, he built the first Ford Model 'T', (5) sold for\n$825. He was soon selling 100 cars (6) day. By 1927, the Ford Motor Company was\n(7) $700 million. Early Ford cars were simple and cheap, but (8) things simple sometimes (9) less choice. 'You (10) have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "is",
+          "B": "was",
+          "C": "had",
+          "D": "has"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "raised",
+          "B": "started",
+          "C": "led",
+          "D": "appeared"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "putting",
+          "B": "operating",
+          "C": "using",
+          "D": "managing"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "usual",
+          "B": "ordinary",
+          "C": "general",
+          "D": "typical"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "where",
+          "B": "which",
+          "C": "who",
+          "D": "what"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "a",
+          "B": "some",
+          "C": "the",
+          "D": "one"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "rich",
+          "B": "worth",
+          "C": "expensive",
+          "D": "dear"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "remaining",
+          "B": "staying",
+          "C": "keeping",
+          "D": "holding"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "meant",
+          "B": "decided",
+          "C": "planned",
+          "D": "intended"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "will",
+          "B": "ought",
+          "C": "need",
+          "D": "can"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_005",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 5,
+    "title": null,
+    "passage": "ALEXANDER GRAHAM BELL\nAlexander Graham Bell was born in Scotland in 1847. His father, an expert on speech,\n(1) a way of teaching how words (2)\tbe pronounced. He translated the\n(3) of words into straight or curvy lines.\nAlexander (4) to be a teacher and, when his mother went deaf, he started to be\n(5) in how deaf people communicate. In 1870, because his children were in poor health, Alexander and his family moved to the United States. He hoped that a warmer\n(6) would be better for the whole family. It was while he was teaching deaf children there (7) he invented a new machine. It was very (8) to the human ear itself, and Bell discovered it could carry human speech (9) a wire from one place to another. It was not long before the telephone was a part of (10) our lives!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "grew",
+          "B": "built",
+          "C": "developed",
+          "D": "worked"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "ought",
+          "B": "should",
+          "C": "might",
+          "D": "would"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "calls",
+          "B": "voices",
+          "C": "noises",
+          "D": "sounds"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "trained",
+          "B": "became",
+          "C": "educated",
+          "D": "taught"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "amazed",
+          "B": "interested",
+          "C": "surprised",
+          "D": "excited"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "geography",
+          "B": "season",
+          "C": "climate",
+          "D": "weather"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "so",
+          "B": "because",
+          "C": "since",
+          "D": "that"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "likely",
+          "B": "similar",
+          "C": "same",
+          "D": "accurate"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "above",
+          "B": "about",
+          "C": "along",
+          "D": "around"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "any",
+          "B": "each",
+          "C": "all",
+          "D": "every"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_006",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 6,
+    "title": null,
+    "passage": "THE ART OF DRAWING\nDrawing has always been a very popular hobby. Young children draw with a pencil as\n(1) as they can hold one. Drawing is often seen as a special skill, and it is\n(2) that some people seem to draw perfect pictures without any effort. Yet drawing, like writing, can be (3)\t; you can draw accurately if you work really hard at it.\nDrawing is first (4) all about looking carefully. It sounds easy to say that all you\n(5) to do is look at things, but it really is that simple. The best way to draw a familiar\n(6) is to imagine that you are looking at it for the first (7)\t.\nNowadays there are (8) courses and materials available than ever before,\n(9) means that you can experiment to improve your skills. The only (10) is your imagination.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "fast",
+          "B": "immediately",
+          "C": "soon",
+          "D": "shortly"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "true",
+          "B": "actual",
+          "C": "exact",
+          "D": "real"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "discovered",
+          "B": "made",
+          "C": "learnt",
+          "D": "reached"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "of",
+          "B": "in",
+          "C": "from",
+          "D": "for"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "should",
+          "B": "need",
+          "C": "must",
+          "D": "could"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "topic",
+          "B": "subject",
+          "C": "area",
+          "D": "person"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "period",
+          "B": "term",
+          "C": "moment",
+          "D": "time"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "more",
+          "B": "many",
+          "C": "plenty",
+          "D": "much"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "who",
+          "B": "what",
+          "C": "where",
+          "D": "which"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "final",
+          "B": "end",
+          "C": "limit",
+          "D": "finish"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_007",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 7,
+    "title": null,
+    "passage": "Cave Paintings in Australia\nA cave containing over 200 paintings was discovered in the Wollemi National Park, Australia, eight years ago. Some of the paintings are (1)\tleast 3,000 years old. (2)\tis even more surprising is that the cave was found by chance by someone walking in the area. However, the site of the cave was so difficult to reach that it (3) a long time before researchers could visit it.\nThe exact location of the site has to be (4)\tsecret. This is to (5)\tthe cave from being visited by sightseers who do not (6) how easy it is to (7) the paintings.\nThe paintings show people and animals, (8)\tbirds, lizards and other Australian animals that can (9)\tbe seen today. According to researchers, (10)\tits recent discovery, nobody had visited the cave for around 200 years.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "in",
+          "B": "of",
+          "C": "to",
+          "D": "at"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "How",
+          "B": "What",
+          "C": "Why",
+          "D": "Which"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "lasted",
+          "B": "spent",
+          "C": "took",
+          "D": "finished"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "remained",
+          "B": "set",
+          "C": "controlled",
+          "D": "kept"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "prevent",
+          "B": "miss",
+          "C": "escape",
+          "D": "avoid"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "catch",
+          "B": "realise",
+          "C": "dream",
+          "D": "feel"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "waste",
+          "B": "injure",
+          "C": "damage",
+          "D": "upset"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "involving",
+          "B": "adding",
+          "C": "including",
+          "D": "consisting"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "yet",
+          "B": "already",
+          "C": "ever",
+          "D": "still"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "by",
+          "B": "after",
+          "C": "until",
+          "D": "on"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_008",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 8,
+    "title": null,
+    "passage": "The driest place on Earth\nThe Atacama Desert in Chile is known as the driest place on Earth. It is almost 1,000 kilometers (1)\tlength, lying between the Pacific Ocean and the Andes mountains. Under a centimeter of rain (2)\tannually, and the center is so dry (3)\tscientists have never recorded (4) rain there.\nOver a million people (5) live in the Atacama today. Most live on the coast, which is also home to teams of astronomers who are there to (6)\tadvantage of the clear skies. In the north, farmers grow tomatoes with water they have collected from underground rocks. However, for (7)\twho have their farms on higher ground, the water comes from melting snow.\nPeople generally seem to (8)\tknowledge about what the desert has to offer, but in (9)\t, there is plenty to do - from seeing the amazing natural sights to playing golf, one of the more recent activities (10) tourists to the region.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "by",
+          "B": "at",
+          "C": "to",
+          "D": "in"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "pours",
+          "B": "falls",
+          "C": "sinks",
+          "D": "lowers"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "as",
+          "B": "that",
+          "C": "when",
+          "D": "than"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "any",
+          "B": "no",
+          "C": "some",
+          "D": "little"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "totally",
+          "B": "exactly",
+          "C": "actually",
+          "D": "finally"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "have",
+          "B": "make",
+          "C": "get",
+          "D": "take"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "those",
+          "B": "these",
+          "C": "them",
+          "D": "they"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "fail",
+          "B": "lose",
+          "C": "miss",
+          "D": "lack"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "case",
+          "B": "turn",
+          "C": "fact",
+          "D": "time"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "arriving",
+          "B": "attracting",
+          "C": "approaching",
+          "D": "arranging"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_009",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 9,
+    "title": null,
+    "passage": "Alpacas\nAlpacas were first kept by the Inca people in the mountains of South America, more than six thousand years ago. These animals (1)\tclothes, food, and fuel for their owners. The softest wool was (2)\tworn by the leaders of Incan society though.\nWhen Spanish explorers (3) in the fifteenth century, sheep were introduced and these gradually (4)\talpacas in the region. It wasn't (5) the middle of the 20th century that both farmers and fashion designers began to recognize the (6)\tof alpacas again. They are easy to look (7)\tsince they eat grass and are used to low temperatures. Their wool, which comes in a (8) of natural colors from white to dark brown, is lighter and warmer than sheep's wool and (9) strong.\nIt is not surprising (10)\tthat alpacas are becoming a familiar sight in the fields of North America, Australia, and the UK.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "supported",
+          "B": "provided",
+          "C": "turned",
+          "D": "gained"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "mainly",
+          "B": "fully",
+          "C": "extremely",
+          "D": "absolutely"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "reached",
+          "B": "delivered",
+          "C": "arrived",
+          "D": "transferred"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "retired",
+          "B": "removed",
+          "C": "returned",
+          "D": "replaced"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "until",
+          "B": "after",
+          "C": "during",
+          "D": "before"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "prizes",
+          "B": "rewards",
+          "C": "qualities",
+          "D": "points"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "at",
+          "B": "after",
+          "C": "for",
+          "D": "like"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "row",
+          "B": "group",
+          "C": "range",
+          "D": "crowd"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "only",
+          "B": "also",
+          "C": "instead",
+          "D": "too"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "therefore",
+          "B": "already",
+          "C": "otherwise",
+          "D": "enough"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_010",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 10,
+    "title": null,
+    "passage": "HORSES\nHorses have been valuable to humans for thousands of years. Because there are several different (1) of horses such as coldbloods, which are large but gentle, or hotbloods that are (2)\tfor their running ability, there are horses for every purpose. We use them for transport as (3)\tas for physical work, for example (4)\tfarm machinery. It's now also very (5) to see horses used in sports.\nHorses need food and water in large (6)\t. A horse can drink (7)\ttwenty and forty liters of water a day, and around a kilo of food for (8)\tfifty kilos of its body weight. Horses need to be out in the fields, as grass is part of their diet.\nThey can live for (9)\t25 years, so their owners need to give them (10)\tof love and attention - but horses always give lots back.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "makes",
+          "B": "style",
+          "C": "marks",
+          "D": "sorts"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "known",
+          "B": "noticed",
+          "C": "familiar",
+          "D": "realized"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "long",
+          "B": "far",
+          "C": "well",
+          "D": "soon"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "going",
+          "B": "pulling",
+          "C": "taking",
+          "D": "doing"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "obvious",
+          "B": "clear",
+          "C": "common",
+          "D": "regular"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "totals",
+          "B": "sums",
+          "C": "taking",
+          "D": "amount"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "from",
+          "B": "between",
+          "C": "about",
+          "D": "beyond"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "both",
+          "B": "any",
+          "C": "every",
+          "D": "all"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "after",
+          "B": "through",
+          "C": "over",
+          "D": "towards"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "plenty",
+          "B": "more",
+          "C": "full",
+          "D": "enough"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_011",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 11,
+    "title": null,
+    "passage": "WOOL\nWool comes from sheep and certain other animals like goats and rabbits. Over a million tonnes of wool is produced every year, of (1)\t60% goes into clothes. The wool that is used (2)\tcomes from Australian Merino sheep. Their wool is good for baby clothes, as it is soft, (3)\tbabies warm, and can (4)\ttheir bodies.\nWhen wool is first cut from the sheep, it (5)\ta high level of valuable oil, so before the wool is used, it must be cleaned. The (6) way to do this is by putting the wool\nin warm water. The oil that is (7)\tfrom the wool is widely used in products like hand creams.\nSheep were first used by humans several thousand years ago, (8)\tit is believed that this was for meat (9) than wool. When people developed a way of cutting the wool from sheep it (10)\ta more important material.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "what",
+          "B": "whose",
+          "C": "which",
+          "D": "that"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "mostly",
+          "B": "nearly",
+          "C": "properly",
+          "D": "truly"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "stays",
+          "B": "helps",
+          "C": "rests",
+          "D": "keeps"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "protect",
+          "B": "wrap",
+          "C": "care",
+          "D": "save"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "involves",
+          "B": "contains",
+          "C": "receives",
+          "D": "consists"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "simplest",
+          "B": "clearest",
+          "C": "plainest",
+          "D": "nearest"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "carried",
+          "B": "passed",
+          "C": "removed",
+          "D": "divided"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "while",
+          "B": "but",
+          "C": "or",
+          "D": "because"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "rather",
+          "B": "instead",
+          "C": "apart",
+          "D": "except"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "arrived",
+          "B": "turned",
+          "C": "grew",
+          "D": "became"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_012",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 12,
+    "title": null,
+    "passage": "Finding Gold\nMost people would agree that finding the perfect ring for your partner is difficult. However, John Greenwood, a Scottish engineer, (1)\thimself an extra challenge.\n(2)\tof taking a trip to the jeweler's, John (3)\tmuch of last year standing up to his knees in freezing water. He was looking for tiny pieces of gold (4)\tthe stones on the river beds in the Scottish Highlands.\nUsing very (5)\tequipment, John worked hard to (6) enough gold to make not just an engagement ring for his girlfriend, Morag, (7)\talso their two wedding rings. \"I was out there (8)\tweekend and in the evenings before it got dark, in freezing cold water,\" he said.\nExperts think that John was amazingly lucky to find so much gold in such a (9)\ttime. Many people (10)\tfor 30 years without getting anything.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "did",
+          "B": "made",
+          "C": "gave",
+          "D": "had"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "Rather",
+          "B": "Besides",
+          "C": "Along",
+          "D": "Instead"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "took",
+          "B": "paid",
+          "C": "spent",
+          "D": "held"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "among",
+          "B": "towards",
+          "C": "against",
+          "D": "through"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "easy",
+          "B": "plain",
+          "C": "necessary",
+          "D": "basic"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "choose",
+          "B": "collect",
+          "C": "pick",
+          "D": "select"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "or",
+          "B": "and",
+          "C": "but",
+          "D": "even"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "every",
+          "B": "some",
+          "C": "most",
+          "D": "any"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "little",
+          "B": "short",
+          "C": "quick",
+          "D": "small"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "reach",
+          "B": "follow",
+          "C": "search",
+          "D": "keep"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_013",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 13,
+    "title": null,
+    "passage": "CAMPING\nAlthough some groups of people have always lived outdoors in tents, camping as we know it today only began to be (1) about 50 years ago. The increase in the use of cars and improvements in camping (2) have allowed more people to travel longer (3)\ninto the countryside and to stay there in greater comfort.\nMany campers like to be (4) themselves in quiet areas, so they (5) their tent and food and walk or cycle into the forests or the mountains. Others, preferring to be near people, drive to a public or privately-owned campsite (6) has up-to-date facilities, (7) hot showers and swimming pools.\nWhether campers are (8) in the mountains or on a busy site, they should remember to (9) the area clean and tidy. In the forests, they must put out any fires and keep food hidden to avoid attracting (10) animals.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "a famous",
+          "B": "popular",
+          "C": "favourite",
+          "D": "current"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "tools",
+          "B": "baggage",
+          "C": "equipment",
+          "D": "property"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "ways",
+          "B": "directions",
+          "C": "voyages",
+          "D": "distances"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "on",
+          "B": "by",
+          "C": "at",
+          "D": "of"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "take",
+          "B": "make",
+          "C": "pick",
+          "D": "do"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "where",
+          "B": "who",
+          "C": "which",
+          "D": "when"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "such",
+          "B": "like",
+          "C": "as",
+          "D": "just"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "lonely",
+          "B": "single",
+          "C": "separate",
+          "D": "alone"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "remain",
+          "B": "stay",
+          "C": "leave",
+          "D": "let"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "wild",
+          "B": "natural",
+          "C": "loose",
+          "D": "free"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_014",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 14,
+    "title": null,
+    "passage": "Technology and the young\nModern technology is changing and improving all the time. Every month, scientists (1)\nnew gadgets and (2) to help us with our daily lives, and (3) ways to make existing technology faster and better. Our homes are full of hardware (such as DVD players and computers) and (4) (such as computer games and MP3s).\n(5) suggests, however, that it's young people who are best able to deal with this change. Whereas teenagers have no problem (6) a DVD player, their mums and dads and grandparents often find using new technology (7) and difficult.\nBut if you're a teenager who criticises your parents for their (8) of technological awareness, don't be too hard on them! Some time (9) the future, when you've got children of your own, your ability to deal with new technology will probably (10) and your children will feel more comfortable with new technology than you do. You won't want them to criticise you, will you?",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "estimate",
+          "B": "invent",
+          "C": "involve",
+          "D": "experiment"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "experiments",
+          "B": "effects",
+          "C": "laboratories",
+          "D": "equipment"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "involve",
+          "B": "discover",
+          "C": "decrease",
+          "D": "connect"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "screens",
+          "B": "gadgets",
+          "C": "software",
+          "D": "laptops"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "Research",
+          "B": "Experiment",
+          "C": "Program",
+          "D": "Technology"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "involving",
+          "B": "operating",
+          "C": "discovering",
+          "D": "inventing"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "automatic",
+          "B": "unique",
+          "C": "sudden",
+          "D": "complicated"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "research",
+          "B": "experiment",
+          "C": "effect",
+          "D": "lack"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "to",
+          "B": "in",
+          "C": "on",
+          "D": "at"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "decrease",
+          "B": "involve",
+          "C": "lack",
+          "D": "estimate"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_015",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 15,
+    "title": null,
+    "passage": "William the hero!\nBrave William Baldock, who is six years old, is a hero after helping his mother when she fell downstairs. William quickly rang (1) an ambulance when he discovered his mother had broken her leg. In spite of being frightened, he (2) the emergency services what had happened and answered all the questions they asked him. He also telephoned his father (3)\nwork, and then his grandmother, to explain what he had (4) . While waiting for (5) people to come, William looked after his 18-month-old sister.\nWhen ambulance man Steve Lyn went to the house, he was amazed: \"It's (6) that a young boy of six knew the right number to (7) , and was able to give us the correct information. (8)\tof William's quick thinking, we were able to (9)\nthere immediately.\"\nMrs Baldock left hospital yesterday, very (10) to both William and the ambulance service.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "to",
+          "B": "off",
+          "C": "for",
+          "D": "with"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "said",
+          "B": "talked",
+          "C": "spoke",
+          "D": "told"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "in",
+          "B": "at",
+          "C": "on",
+          "D": "by"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "done",
+          "B": "made",
+          "C": "acted",
+          "D": "worked"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "these",
+          "B": "every",
+          "C": "each",
+          "D": "this"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "pleased",
+          "B": "fine",
+          "C": "clever",
+          "D": "great"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "put",
+          "B": "set",
+          "C": "dial",
+          "D": "hit"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "Since",
+          "B": "Because",
+          "C": "As",
+          "D": "Although"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "manage",
+          "B": "find",
+          "C": "get",
+          "D": "reach"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "agreeable",
+          "B": "happy",
+          "C": "grateful",
+          "D": "approving"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_016",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 16,
+    "title": null,
+    "passage": "The History of Film\nThe world's first film was shown in 1895 by two French brothers, Louis and Auguste Lumière. Although it only (1) of short, simple scenes, people loved it and films have (2) popular ever since. The first films were silent, with titles on the screen to (3) the story.\nSoon the public had (4) favourite actors and actresses and, in this (5) ,\nthe first film stars appeared. In 1927, the first 'talkie', a film with sound, was shown and from then on, the public (6) only accept this kind of film.\nFurther improvements continued, particularly in America, (7) produced 95% of all films. With the arrival of television in the 1950s, (8) people went to see films, but in (9) years cinema audiences have grown again. More countries have started to produce films that influence film-making and there are currently (10) national film industries.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "consisted",
+          "B": "contained",
+          "C": "belonged",
+          "D": "held"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "gone",
+          "B": "been",
+          "C": "made",
+          "D": "kept"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "join",
+          "B": "read",
+          "C": "explain",
+          "D": "perform"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "your",
+          "B": "his",
+          "C": "our",
+          "D": "their"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "reason",
+          "B": "way",
+          "C": "method",
+          "D": "result"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "should",
+          "B": "would",
+          "C": "might",
+          "D": "will"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "who",
+          "B": "where",
+          "C": "when",
+          "D": "which"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "other",
+          "B": "each",
+          "C": "fewer",
+          "D": "any"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "recent",
+          "B": "now",
+          "C": "modern",
+          "D": "present"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "many",
+          "B": "lots",
+          "C": "much",
+          "D": "plenty"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_017",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 17,
+    "title": null,
+    "passage": "The History of Shoes\nIn the past, importance was not given to shoes being comfortable or fashionable. These early foot coverings were probably animal skins, (1) people tied round their ankles during cold (2) . We still use leather today, but (3) materials such as silk, plastic, or cotton are also popular, (4) on what is in fashion.\nIt was only one hundred and fifty years (5) that people began to wear a different shoe on each foot. Formerly, the two shoes had been straight instead of shaped and (6) be worn on the left or the right foot. All shoes used to be made by hand, but now, (7) there are shoemakers still using their (8) skills, most shoes are now machine-made in large factories. The introduction of sewing machines (9) the shoe industry to produce large\n(10) of cheaper shoes for a wider range of buyers.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "who",
+          "B": "why",
+          "C": "which",
+          "D": "where"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "weather",
+          "B": "climate",
+          "C": "temperature",
+          "D": "condition"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "either",
+          "B": "both",
+          "C": "another",
+          "D": "other"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "turning",
+          "B": "depending",
+          "C": "resting",
+          "D": "taking"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "before",
+          "B": "beyond",
+          "C": "ago",
+          "D": "after"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "must",
+          "B": "could",
+          "C": "ought",
+          "D": "might"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "although",
+          "B": "if",
+          "C": "unless",
+          "D": "since"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "typical",
+          "B": "usual",
+          "C": "model",
+          "D": "traditional"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "let",
+          "B": "allowed",
+          "C": "gave",
+          "D": "got"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "quantities",
+          "B": "totals",
+          "C": "sums",
+          "D": "sizes"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_018",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 18,
+    "title": null,
+    "passage": "San Francisco\nSan Francisco lies on the coast of northern California. The earliest Europeans to discover the (1)\nwere led by a Spanish explorer (2) name was Gaspar de Portola.\nHe first saw it in 1769. Surprisingly, (3) San Francisco Bay is a wonderful natural harbour, it was discovered by land (4) than by sea.\nIn 1849, people (5) in San Francisco in their thousands (6) to find gold. However, it was not the men looking for the gold that got rich. The richest people (7) their money from owning banks and law firms and they built themselves large houses on one of the hills. This was (8) as Nob Hill.\nNowadays, tourists are (9) to San Francisco because there they can see famous places like Chinatown and the Golden Gate Bridge. Many even (10) the short boat trip to the island of Alcatraz to see the former prison.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "area",
+          "B": "part",
+          "C": "space",
+          "D": "position"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "who",
+          "B": "whose",
+          "C": "what",
+          "D": "which"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "if",
+          "B": "unless",
+          "C": "although",
+          "D": "despite"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "except",
+          "B": "instead",
+          "C": "apart",
+          "D": "rather"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "reached",
+          "B": "arrived",
+          "C": "entered",
+          "D": "approached"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "wondering",
+          "B": "hoping",
+          "C": "considering",
+          "D": "depending"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "did",
+          "B": "became",
+          "C": "made",
+          "D": "brought"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "told",
+          "B": "called",
+          "C": "named",
+          "D": "known"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "interested",
+          "B": "attracted",
+          "C": "pleased",
+          "D": "excited"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "take",
+          "B": "spend",
+          "C": "go",
+          "D": "travel"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_019",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 19,
+    "title": null,
+    "passage": "Grass\nGrass is probably the most successful living plant in the world. There are over 9,000 different types of grasses and they are (1) in every region on the earth. They are the (2)\nflowering plants that can exist in the freezing (3) of the Arctic and the Antarctic.\nGrasslands support a wide range of animal life, from tiny insects and birds to huge animals like cows and lions. All of them (4) on grass in one way or another.\nGrass (5) very quickly after it js cut or (6) Unlike other plants, the new leaves grow from (7) the soil, not from the top of the plant. That is (8) large families of animals are able to live together in one area. As (9) as they have eaten all the grass there, a fresh meal is always (10) because the plants start to grow again.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "noticed",
+          "B": "realised",
+          "C": "caught",
+          "D": "found"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "single",
+          "B": "one",
+          "C": "only",
+          "D": "special"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "environment",
+          "B": "scene",
+          "C": "situation",
+          "D": "background"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "depend",
+          "B": "build",
+          "C": "turn",
+          "D": "hang"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "repeats",
+          "B": "recovers",
+          "C": "reduces",
+          "D": "remains"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "hurt",
+          "B": "broken",
+          "C": "injured",
+          "D": "damaged"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "beside",
+          "B": "behind",
+          "C": "below",
+          "D": "beyond"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "why",
+          "B": "where",
+          "C": "what",
+          "D": "when"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "fast",
+          "B": "soon",
+          "C": "quickly",
+          "D": "often"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "available",
+          "B": "present",
+          "C": "free",
+          "D": "complete"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "D_020",
+    "section": "D",
+    "type": "cloze_text_mcq_group",
+    "sourceTextNumber": 20,
+    "title": null,
+    "passage": "HONEY\nHoney is a sweet liquid made by bees. It (1) of water and sugars. Bees may travel as\n(2) as seventy-five thousand kilometres and visit over two million flowers to produce just half a kilo of honey. The colour and flavour of honey depend (3) the type of flower visited. In (4) there are more than three hundred (5)\tof honey.\nThe lighter-coloured ones are generally milder in flavour than darker honey. In ancient (6)\nhoney was the main sweet food, as sugar was very (7) Honey was of great\n(8) to the ancient Egyptians, who used it as payment.\nToday, honey is produced and eaten in (9) part of the world. Research suggests that it prevents tiredness and improves athletic performance. However, honey is not just food - it (10)\nbe taken for sore throats and is used in many skin and hair-care products.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "marker": "(1)",
+        "answer": null
+      },
+      {
+        "blankNumber": 2,
+        "marker": "(2)",
+        "answer": null
+      },
+      {
+        "blankNumber": 3,
+        "marker": "(3)",
+        "answer": null
+      },
+      {
+        "blankNumber": 4,
+        "marker": "(4)",
+        "answer": null
+      },
+      {
+        "blankNumber": 5,
+        "marker": "(5)",
+        "answer": null
+      },
+      {
+        "blankNumber": 6,
+        "marker": "(6)",
+        "answer": null
+      },
+      {
+        "blankNumber": 7,
+        "marker": "(7)",
+        "answer": null
+      },
+      {
+        "blankNumber": 8,
+        "marker": "(8)",
+        "answer": null
+      },
+      {
+        "blankNumber": 9,
+        "marker": "(9)",
+        "answer": null
+      },
+      {
+        "blankNumber": 10,
+        "marker": "(10)",
+        "answer": null
+      }
+    ],
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Blank (1)",
+        "options": {
+          "A": "involves",
+          "B": "contains",
+          "C": "includes",
+          "D": "consists"
+        },
+        "answer": null,
+        "blankNumber": 1
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Blank (2)",
+        "options": {
+          "A": "well",
+          "B": "long",
+          "C": "soon",
+          "D": "far"
+        },
+        "answer": null,
+        "blankNumber": 2
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Blank (3)",
+        "options": {
+          "A": "to",
+          "B": "on",
+          "C": "for",
+          "D": "with"
+        },
+        "answer": null,
+        "blankNumber": 3
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Blank (4)",
+        "options": {
+          "A": "case",
+          "B": "order",
+          "C": "fact",
+          "D": "place"
+        },
+        "answer": null,
+        "blankNumber": 4
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Blank (5)",
+        "options": {
+          "A": "varieties",
+          "B": "collections",
+          "C": "sets",
+          "D": "differences"
+        },
+        "answer": null,
+        "blankNumber": 5
+      },
+      {
+        "questionNumber": 6,
+        "prompt": "Blank (6)",
+        "options": {
+          "A": "seasons",
+          "B": "times",
+          "C": "years",
+          "D": "dates"
+        },
+        "answer": null,
+        "blankNumber": 6
+      },
+      {
+        "questionNumber": 7,
+        "prompt": "Blank (7)",
+        "options": {
+          "A": "distant",
+          "B": "rare",
+          "C": "small",
+          "D": "slim"
+        },
+        "answer": null,
+        "blankNumber": 7
+      },
+      {
+        "questionNumber": 8,
+        "prompt": "Blank (8)",
+        "options": {
+          "A": "cost",
+          "B": "price",
+          "C": "value",
+          "D": "charge"
+        },
+        "answer": null,
+        "blankNumber": 8
+      },
+      {
+        "questionNumber": 9,
+        "prompt": "Blank (9)",
+        "options": {
+          "A": "all",
+          "B": "some",
+          "C": "most",
+          "D": "every"
+        },
+        "answer": null,
+        "blankNumber": 9
+      },
+      {
+        "questionNumber": 10,
+        "prompt": "Blank (10)",
+        "options": {
+          "A": "shall",
+          "B": "need",
+          "C": "can",
+          "D": "ought WRITING"
+        },
+        "answer": null,
+        "blankNumber": 10
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]

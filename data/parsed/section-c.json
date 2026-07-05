@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "C_001",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 1,
+    "title": null,
+    "passage": "My family and I recently went to Australia, to see my grandparents. But before we\nvisited them, we went sightseeing along the Great Ocean Road, on the Australian coast.\nDad had intended to drive, but even though he was used to driving miles without getting exhausted, he then read on the website that the road wouldn't be an easy drive, with a number of sharp bends. Anyway, we thought he deserved to enjoy the fantastic views too, which he couldn't do as our driver. So, we persuaded him to book discount bus tickets and off we went.\nOur first stop was where wild kangaroos lived - and Dad and I were taking a walk when a big one appeared! For a moment, it seemed to consider coming towards us, which made me slightly nervous - but then it went off along the road, stopping to check if we were following. Although it was with us for a while, I was so excited I didn't even manage to pull out my camera. Then it looked back once more and went off into the bushes.\nThat wasn't the only wildlife we saw. I thought it unlikely we'd see Australia's famous koala bears during our short visit, as I'd heard they were rare - but we weren't disappointed at our next stop. In fact, we discovered there were roughly six million in that area! Sadly, some gum trees they were in had very few leaves left, which people told us was because of the koalas, although I'd read that lack of water is actually the problem. Still, I guess they looked cute and were easy to find - we just followed the tourists looking up into the trees!\nDad had booked a campsite for the night, with ready-made tents - for an adventure! I wasn't sure about that, but they were actually luxury tents, within walking distance of some famous rocks and other places we hoped to visit. However, Dad also said the sounds of wild creatures would help us sleep. That sounded worrying - until the 'wild creatures' turned out to be frogs! So I was embarrassed by my fears - and kept awake by the frogs! But we had fun making meals together - we'd brought food, as we knew there'd be nowhere to eat. In fact, this whole trip was fantastic!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Donna's Dad decided not to drive the Great Ocean Road himself because",
+        "options": {
+          "A": "He realized he wouldn't enjoy the views as much.",
+          "B": "He thought it would be too tiring for him.",
+          "C": "He discovered the bus would be a cheaper option.",
+          "D": "He found out the route was very challenging."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "When Donna saw a kangaroo along the route, she was",
+        "options": {
+          "A": "worried that it might approach her.",
+          "B": "amazed at the size of it.",
+          "C": "sad that it didn't stay with them long.",
+          "D": "disappointed that she had forgotten her camera."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Donna says that the koala bears they saw were",
+        "options": {
+          "A": "responsible for damage to the trees.",
+          "B": "even more attractive than people had told her.",
+          "C": "more common than she'd expected.",
+          "D": "very skilled at hiding away from tourists."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What was Donna's opinion of the place where they stayed?",
+        "options": {
+          "A": "She found it was less comfortable than she'd hoped.",
+          "B": "She liked the fact that it was convenient for sightseeing.",
+          "C": "She enjoyed hearing the sounds of nature as she slept.",
+          "D": "She was disappointed there was no restaurant nearby."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What might Donna write in her blog during the trip?",
+        "options": {
+          "A": "The bus we're traveling on is pretty comfortable, with great views from the window. Grandma and Grandad are enjoying it, too!",
+          "B": "We can see quite a lot as we drive along. I just wish we could stop and get out to explore properly.",
+          "C": "Yesterday we went to see some huge rocks near our campsite - and we were really impressed! I'm surprised they're not well known.",
+          "D": "I wasn't looking forward to camping, in case there were wild animals, but we haven't seen anything at all dangerous, so I feel silly now!"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_002",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 2,
+    "title": null,
+    "passage": "COASTEERING\nLily Carter had no idea what present she wanted for her 14th birthday. But she'd always been keen on challenging sports, especially to do with water, like surfing and sailing. So when her parents heard about an activity called coasteering - exploring rocks along the coast by climbing and swimming - they thought Lily would love it. They found a course offered at an activity center called Porthdean, just along the coast from the family home, which was perfect. So after checking it was led by experienced instructors, they signed her up. Lily had seen a TV show about coasteering and was interested in doing it, although she'd thought only adults could take part. But then she discovered that on courses at Porthdean, there'd also be people her age jumping from rocks into the sea, and also exploring caves - which she was never normally allowed to do, so she really wanted to go. But she still asked her dad to go along too and, although he wondered whether he'd like coasteering himself, he knew how much Lily wanted someone to accompany her, so he agreed. Lily and her dad drove to Porthdean, where they attended a session with their instructors to learn basic safety and techniques and be given helmets and special wetsuits to keep the cold out. The group they joined was quite small, which meant they got lots of individual attention. Says Lily, 'The entire trip was awesome - although the water was freezing! But our instructors encouraged the whole group so much, we were ready to try absolutely all the challenges, even stuff we hadn't expected at all, like jumping off high cliffs! I must admit, the one I jumped off wasn't that high, but Dad went much higher!' 'Anyway, Dad and I hadn't realized how hard it would be physically, so we were glad we were fit,' explains Lily. 'Even so, afterward, we actually felt like we'd done loads of hard exercise in the gym! But I'll keep the memories of that trip forever, I reckon. And the instructors are going to put a video of it onto the website, so my friends will see it. They'd never believe me otherwise!'",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Why did Lily's parents choose Porthdean for her coasteering present?",
+        "options": {
+          "A": "It offered various courses in her favorite watersport.",
+          "B": "The instructors there were highly recommended.",
+          "C": "It wasn't too far away from where they lived.",
+          "D": "She had already tried some activities there."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How did Lily feel about the coasteering course?",
+        "options": {
+          "A": "pleased that it included something she'd always wanted to try",
+          "B": "excited about doing the experience all on her own",
+          "C": "keen to find out more about what it involved",
+          "D": "interested to see whether she was the only teenager"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Lily particularly liked her instructors because they made sure everyone",
+        "options": {
+          "A": "was comfortable with the kit they were given.",
+          "B": "felt confident about the new things they would attempt.",
+          "C": "got the same amount of attention.",
+          "D": "knew all the activities they would take part in."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Lily says that after the course, she was",
+        "options": {
+          "A": "happy she'd shared something so exciting with her dad.",
+          "B": "sorry she hadn't worked at getting fitter before she went.",
+          "C": "proud that her friends all thought she'd done well.",
+          "D": "surprised at how exhausted she was by the activities."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Lily text to a friend while she was away on the course?",
+        "options": {
+          "A": "I don't think Dad was sure before he came that he'd enjoy it - but actually, he's been braver than me!",
+          "B": "I wanted to do the coasteering course, and mentioned it to my parents before my birthday. But I never expected they'd let me go!",
+          "C": "Our session before the activities was great, although I really didn't think I'd need a wetsuit for the cold - and I was right!",
+          "D": "Going into caves was amazing. I'd love to explore them by myself when we're next at the beach - I'm sure my parents will let me!"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_003",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 3,
+    "title": null,
+    "passage": "Several times a week, teenager Karina Moore trains at her local pool to jump from the high-diving board into the water - in an attempt to become a national diving champion.\nKarina first learned about diving during a family break in Spain, where the resort's pool had a high-diving board. Young people were diving off it, and it looked fun, but Karina didn't join in, even though she was a strong swimmer. Then after returning home, she discovered a long-distance runner she'd always admired had started diving for relaxation - so she became more interested.\nKarina joined a beginners' diving class at her local pool. They had several sessions jumping onto soft materials before trying the high board. \"The water looked a long way down,' says Karina, 'but after our training, I felt I'd handle it - without injuring myself! They'd warned me I'd land in the water fast - at around 60 kph - but I was prepared. I couldn't wait to get started -although the others weren't so keen! Anyway, I wasn't disappointed by the experience.'\nIn Karina's area, there's now lots of interest in high diving, but it's sometimes difficult for swimmers to find suitable practice facilities. Although the pools are deep enough, they're in use so often by diving clubs that other people don't get opportunities to practise. Fortunately, though, Karina's coach noticed her talent and helped her develop her techniques. After only two years, she's winning competitions in her area.\nBut what's it like to concentrate so much on diving? 'I train 20 hours a week' says Karina, 'and I won't pretend it's easy - you have to enjoy it to spend so much time doing it!\nIt's not easy for my parents either, though - they drive me to training sessions early in the morning, and that costs money. But they've had financial help from sports organisations, luckily. And my schoolwork and social life are good. I still meet my mates - and there's always the phone! The only thing I hadn't realised was that the pool water would damage my hair -\n- I used to love my long hair, but I've had to cut it short because it looked awful! But I'll definitely keep on diving!'",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What made Karina keen to take up diving?",
+        "options": {
+          "A": "She wanted to repeat her holiday experience.",
+          "B": "She found out her athletics hero had taken it up.",
+          "C": "She'd visited a pool where some teenagers were doing it.",
+          "D": "She wanted a new challenge after her success at swimming."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How did Karina feel the first time she used the highboard?",
+        "options": {
+          "A": "worried about how far it was above the pool",
+          "B": "pleased to experience it with other beginners",
+          "C": "confident that she wouldn't get hurt",
+          "D": "shocked to hit the water at such speed"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does the writer suggest about diving facilities in Karina's area?",
+        "options": {
+          "A": "They're not used as much as they could be.",
+          "B": "There aren't enough coaches teaching people to use them.",
+          "C": "There aren't as many boards as there used to be.",
+          "D": "They're not available to the public for long enough each day."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How does Karina feel about spending so much time diving?",
+        "options": {
+          "A": "surprised by one effect it has had on her",
+          "B": "sorry she no longer sees her friends so much",
+          "C": "anxious about the amount of money it costs",
+          "D": "grateful to be able to focus on something she loves"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would the writer say about Karina?",
+        "options": {
+          "A": "She's a young girl who's achieved a lot by becoming a national diving champion - and all with very little support.",
+          "B": "She's made enormous progress in a very short time - after only a couple of years, she's already showing great signs of success.",
+          "C": "She has a lot of natural talent, but she's already thinking of having a break from the high board for a while.",
+          "D": "She's sad that she's given up almost everything for her sport - and her lifestyle really sounds quite hard."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_004",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 4,
+    "title": null,
+    "passage": "CROSS-COUNTRY SKIING IN SWEDEN\nby Jenna Walton, aged 15\nLast year, Mum and I wanted to try a winter sport called cross-country skiing - travelling on skis across the countryside. And pictures of one area in Sweden, with people skiing along through forests on wonderful white snow, persuaded us that destination was a good choice. We hadn't done much skiing, though, so weren't sure how difficult cross-country skiing was, compared with skiing fast down steep mountains. But we signed up to join a group of people, of all ages, plus a guide.\nWe'd read about the place we went to before we left, so we knew it was close to where Sweden ends and Norway starts. And our family knew we couldn't text home, as there was no internet connection - and actually, it was relaxing to be far from anywhere, or anyone. What we hadn't realised was that from there, we'd be able to see amazing colored lights in the sky, which appeared at certain times of year, called the Northern Lights - what a sight!\nOn our first day there, I hated getting up in the dark, but it meant I saw the sun come up over the forest, so I was glad I did. And sunshine was forecast for the week, I was delighted to hear! But the real problem was my 15kg rucksack, full of food and clothes - I had no idea it would weigh that much. Anyway, we skied for hours across mainly flat snow. Having special light skis was supposed to help us climb the few hills there were - although I still couldn't do it!\nFinally, we stopped for the night. It wasn't until we'd reached our hut that our guide mentioned we'd just crossed a frozen lake to get there - but nothing surprised us by that point! Anyway, he gave us all jobs to do - cutting firewood and cooking food - and soon we were having dinner, made from whatever food we'd brought - a strange mix, but it tasted delicious. And everywhere was so peaceful outside that none of us stayed awake long.\nMum and I want to try another winter sports trip, maybe snowboarding. But we'll probably end up just as exhausted as we were after this trip!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Jenna and her mum decided to go cross-country skiing in Sweden because",
+        "options": {
+          "A": "they wanted a change from mountain skiing holidays.",
+          "B": "they'd heard the sport would be easier than skiing down hills.",
+          "C": "they'd met a group of people who wanted to go, too.",
+          "D": "they found a place there that they were keen to visit."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "After their arrival, what did they discover about where they were staying?",
+        "options": {
+          "A": "It wasn't far from the border with another country.",
+          "B": "They could get great views of a spectacular natural event.",
+          "C": "It was at a point where they couldn't use technology.",
+          "D": "They weren't near local people or their homes."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How did Jenna feel about the long trips through the snow on skis?",
+        "options": {
+          "A": "surprised she had to carry such a heavy bag",
+          "B": "pleased about the weight of the skis she was given",
+          "C": "glad that going uphill wasn't as hard as she'd thought",
+          "D": "worried the good weather they were having wouldn't last"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Regarding their accommodation, Jenna says everyone",
+        "options": {
+          "A": "had difficulties getting to sleep there.",
+          "B": "was unhappy at the quality of the food.",
+          "C": "had to help out with all the housework.",
+          "D": "was shocked to hear details of their journey there."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Jenna text to a friend about her trip?",
+        "options": {
+          "A": "One reason we chose this trip was that we thought we'd be among loads of trees, which we love - but that hasn't happened so far.",
+          "B": "The people in our group were really friendly - but they were all Mum's age and older, really.",
+          "C": "I'm not used to getting out of bed so early to do things! But it was worth it, as the sunrise was wonderful.",
+          "D": "Mum and I have agreed that although the trip was great, we might attempt something less tiring on our next winter holiday."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_005",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 5,
+    "title": null,
+    "passage": "OUR SCHOOL NEWSPAPER\nby Michael Williams\nSome years ago, our head teacher, Mrs Waters, decided to start a school newspaper, and get as many students as possible to take on the job of producing it - and parents, too. She felt the newspaper would help them learn more about school life, through articles on things like sports achievements and arts projects, which not all students know about if they're not taking part. Students took the whole thing very seriously - and we now have a prize-winning newspaper!\nSome of my friends joined the newspaper team immediately and enjoyed it. I'd always loved creative writing and drawing cartoons, which I thought would be perfect in the newspaper, so I signed up. My dad, who's a journalist, was pleased - he thought that even though I wasn't keen on a job like his, the newspaper would be a great opportunity for me. And he was right - I loved it! Dad often came along to give advice, which was popular with the students. It was difficult sometimes, if he was busy, but he learned a lot about the school that way.\nMy first job was writing a report about a sports event - a writing style I'd never attempted before. But Dad reminded me it was similar in some ways to writing a story - getting information in the right order. Once I'd understood that, there was no stopping me - and after my first efforts, I developed quite a professional style, which was brilliant. Sometimes the team couldn't use what I'd written, or my cartoons, for whatever reason, but I didn't mind. And sometimes it was hard to finish stuff on time, but I usually got there.\nI'm now one of the editors - we decide what goes into the newspaper, so our names no longer appear in print. And it's stressful sometimes as we don't have much time, but we try to manage that properly. We also correct mistakes in people's articles, which we all had to get used to, but we were soon doing it without thinking - and in our own schoolwork, too. I still put off calling people outside school for comments on stuff, but I guess it's all good experience - at least, that's what Dad says!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Michael's head teacher wanted to start a student newspaper to",
+        "options": {
+          "A": "provide an activity for students not interested in sport or art.",
+          "B": "make students feel more confident about taking part in something.",
+          "C": "keep students better informed about what was happening at school.",
+          "D": "give students the experience of being responsible for something."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Michael decided to join the newspaper because",
+        "options": {
+          "A": "he had ideas about some work he could do for it.",
+          "B": "he was considering a career in journalism.",
+          "C": "his friends had encouraged him to do so.",
+          "D": "he liked the idea of being part of a team."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "When Michael first started working on the newspaper, he was",
+        "options": {
+          "A": "disappointed when his stories sometimes weren't used.",
+          "B": "delighted at the way his writing skills improved.",
+          "C": "pleased to find he could make use of his art skills.",
+          "D": "worried he'd be late completing some of his writing."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Michael say about his role on the newspaper now?",
+        "options": {
+          "A": "He feels uncomfortable about correcting other students' work.",
+          "B": "He still needs to improve the way he manages his time.",
+          "C": "He's happier to handle making telephone calls to others.",
+          "D": "He's become better at making articles more accurate."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Michael's dad say about the newspaper?",
+        "options": {
+          "A": "I was surprised at how keen Michael was to get involved - he's never shown that much interest in writing before.",
+          "B": "I occasionally had problems finding the time to help out at Michael's school, but the students really seemed to like my suggestions.",
+          "C": "Michael would never admit it, but I know he's proud to see his name in the newspaper these days - and I am, too!",
+          "D": "It's been great to finally find out about life at the school through reading the newspaper. I didn't really know much about it before."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_006",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 6,
+    "title": null,
+    "passage": "by Jack Madison, 15\nA while ago, my friend Olivia was telling me about a whale-watching trip she'd been on, in Canada. I wanted to tell her I was about to do the same thing, off the north coast of the UK, where my grandparents live. Whales had recently appeared there again, and my grandparents were convinced we'd see some - so I was sure my trip would be as good as Olivia's! But then I saw some reviews of the trip my dad had booked for us, when no- one had seen any whales at all. So, in the end, I decided not to tell Olivia anything about my trip, in case it wasn't successful!\nAnyway, Dad and I set off on our trip - which was Dad's idea - and it was fantastic! Travelling out to sea on the tour boat with our guide, we soon reached the spot where whales often appeared. Then we waited - and nothing happened. I was sure this wouldn't last, though. People kept calling out they'd seen one, which was exciting - but then it turned out they were wrong. Then finally I saw something move under the water - a minke whale! So I felt like a hero for the rest of the trip!\nThe whale was a wonderful sight, with its huge back not far from the boat. Our guide said it was around five tonnes in weight and around 10 metres long. Yet, despite its size, it swam alongside us at speed, and with little effort. We waited to see if more appeared, and some time later, we saw three more some distance away, that kept diving under the water and coming up again. Then just after I'd filmed them, they disappeared.\nAlthough the water's less deep around the coast, larger whale species appear in the area with minke whales, feeding on fish. But minkes are curious creatures, so they're more likely to approach tourist boats - which was why we were successful! Then later, up on the cliffs, we looked out to sea, searching for signs of whales. Sometimes seabirds diving into the water means whales are around, as they're stealing the whales' meal. We were unlucky, sadly - but we'll be back!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Jack wasn't keen to mention his whale-watching trip to Olivia because",
+        "options": {
+          "A": "he thought her trip sounded a lot more exciting.",
+          "B": "he'd read some negative reports about where he was going.",
+          "C": "he wasn't sure if his dad had definitely arranged it.",
+          "D": "he didn't know whether she was very interested in whales."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "On board the whale-watching boat, Jack",
+        "options": {
+          "A": "was proud to be the first person to see a whale.",
+          "B": "began to worry that they might all be disappointed.",
+          "C": "tried not to get excited when anyone saw something.",
+          "D": "was glad he'd persuaded his dad to come with him."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "When Jack saw the minke whale, he was",
+        "options": {
+          "A": "surprised at how close it came to the boat.",
+          "B": "amazed that it was so much bigger than he'd imagined.",
+          "C": "impressed that it moved through the water so easily.",
+          "D": "delighted to see it had arrived with several others."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Jack suggests minke whales appeared in the same area as the boat because",
+        "options": {
+          "A": "they knew there were plenty of fish there.",
+          "B": "they were attracted by the arrival of the visitors.",
+          "C": "they didn't have to compete for food with seabirds.",
+          "D": "they preferred how deep the water was there."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Jack text to his grandparents about the whales?",
+        "options": {
+          "A": "I'll send you my video of the group of whales - they only appeared briefly, so they weren't as interesting as the first one we saw.",
+          "B": "Dad said he'd really wanted to go to Canada to watch whales, like my friend Olivia - but now we're really happy we came here.",
+          "C": "I must take you up to the cliffs to look for whales - we've seen them every time we've been there, so far.",
+          "D": "You were so sure our whale-watching trip would be a success, while I still had doubts - but you were right."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_007",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 7,
+    "title": null,
+    "passage": "SO WHAT HAPPENS AFTER SCHOOL?\nBy Sam Adam\nI was wondering what I should do with my life when I finish school. My parents told me that I still had a couple of years ahead of me but that did not reassure me. So I went online and found everything about career advisors.\nMost secondary schools in England have members of staff who give careers advice to their students. They are called careers advisors. A year before they leave school, the careers advisor will talk to the students one by one and ask them what they want to do in the future. The advisor will look at the students' grades to see what subjects they are stronger in. For example, if they are good at maths, they can become an accountant.\nThe advice is not just about the part of finding a job; it's also telling the student what university course they must do first. If a student wants to become a lawyer, he or she will have to go to university for three or four years to study law. However, if someone wants to be a doctor, they will need good grades in biology and other science subjects. With good grades, they can go to university and do their basic medical training which is six years. But their studying doesn't finish at university. They then have to study at a hospital for another two or three years.\nThe careers advisor also helps students who don't have the grades to go to university. The advisor helps the students with their CVs and shows them how to find and apply for jobs. Sometimes there are short courses they can do to learn a new skill quickly. For example, they can go on a hairdressing course and then learn more while they work. Some organizations offer training on the job, such as factories and farms. The government has many areas which offer possibilities for those who can't go to university. Students can join the army and be trained to become soldiers, or if they want, they could become sailor with the Navy.\nSo I guess that now I shouldn't be feeling so anxious. When the time comes, I'll make sure I'll ask a careers advisor for help.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "How do career advisors meet the students?",
+        "options": {
+          "A": "in a small group",
+          "B": "in individual meetings",
+          "C": "all the class together",
+          "D": "the whole school at the same time"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What does the advisor look for before giving advice?",
+        "options": {
+          "A": "what the student isn't very good at",
+          "B": "university courses in other countries",
+          "C": "what the student is better at",
+          "D": "the student's CV and folder"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What happens after studying medicine at a university?",
+        "options": {
+          "A": "The student must go on to study biology as well.",
+          "B": "The student can train others to become doctors, too.",
+          "C": "The student can practice medicine immediately after.",
+          "D": "The student carries on learning for another few years."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How do advisors help students with not very good grades?",
+        "options": {
+          "A": "They show them the best way to get a job.",
+          "B": "They help them with on-the-job training.",
+          "C": "They give extra classes to help them get to university.",
+          "D": "They take them to a farm and a factory to show them their options."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Sam text to a friend who seeks career advice?",
+        "options": {
+          "A": "I'm as worried as you are as I don't know what options are available for us.",
+          "B": "I guess you could ask your parents for help; that's what I did.",
+          "C": "There is no need to panic as there are people at school that can help you with that.",
+          "D": "Your teachers will make career decisions for you so that you don't have to deal with it."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_008",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 8,
+    "title": null,
+    "passage": "MY NEW HOBBY - GARDENING\nby Beth Collins\nA garden is much more than just creating a beautiful environment. It can be a way to save or even make money and, more than that, it can be a place where you can express yourself. For me it's a bit of all these things. I know it may sound strange for a 13-year-old to be interested in gardening but I always have been and I would love to make a career out of it.\nI have learned many things these past few years I have been reading about and doing some gardening. So, here is my top advice about gardening. First, you do not need to spend a lot of money to have a beautiful garden. Some of the gardens I think are the prettiest are just lines of plants. There aren't many garden decorations and pathways. It's just beautiful plants loaded with fruits and vegetables. We can also find many useful things for free, from pieces of old wood, to old pots and pans. Or, we can build things for free from materials that other people have thrown away.\nIf you just remember that planting way more than you need will take the stress away of losing some plants, you will save yourself a lot of worry, too.\nYou need to ask yourself, which plants produce enough food to make them worth growing. I actually sat down and did the maths on that one this spring. It amazed me what some plants were worth. A tomato, for example, can produce £50-£150 worth of fruit. It takes up a lot of space but that's a lot of money coming out of a 50p seed! So if I had known sooner what each plant could save us, I would have told my parents to fill our garden with different plants.\nAnd finally, gardening doesn't have to be all or nothing. But then I guess that's more of a\npersonality weakness than anything. I struggle with doing things a little at a time. Once I decide to do something, I usually devote every waking hour to it for a little while and then get tired. So it's okay to just have one tomato plant, and it's okay to have an off year. It will save you a lot of stress.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Beth wants to express",
+        "options": {
+          "A": "how designing your own garden should be hard work.",
+          "B": "how gardens can mean different things to different people",
+          "C": "the importance of selling flowers to make money.",
+          "D": "how gardeners have the best job when it comes to profit."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How does Beth describe her perfect garden?",
+        "options": {
+          "A": "decorative",
+          "B": "colorful",
+          "C": "simple",
+          "D": "complicated"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What advice does Beth give to future gardeners?",
+        "options": {
+          "A": "spend lots of money to make your garden perfect",
+          "B": "use what you can find around you",
+          "C": "refuse to spend any money on your garden",
+          "D": "ask other gardeners to help you"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How does Beth feel about gardening?",
+        "options": {
+          "A": "She wants to grow everything she eats.",
+          "B": "She hasn't learned from her mistakes.",
+          "C": "She needs to work harder in her garden.",
+          "D": "She has learned plenty of useful tips."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Beth text her friend about gardening?",
+        "options": {
+          "A": "I'm so excited about my new hobby; it's not only fun but I hope I'll make money out of it one day.",
+          "B": "Gardening is so hard; you have to spend a lot of money and it's stressful, too.",
+          "C": "I'm now spending lots of time watching my parents do the gardening and it looks great.",
+          "D": "Gardening needs lots of skills and money but it's certainly worth it. I love it."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_009",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 9,
+    "title": null,
+    "passage": "GETTING A WEEKEND JOB\nby Paula Mark, aged 16\nLast summer I wanted to start earning money so I could save to go on holiday with my friends. But if you are under eighteen, you are limited to what jobs you can do. I applied for jobs at a few shops in my neighborhood but none of them had any jobs for teens. I thought I would never find a weekend job. Then, one day my mum gave me the local newspaper and showed me an advert for the local zoo. They were looking for teenagers to work at the weekend. So I immediately applied for that job online.\nWithin a few days, I got a phone call asking me to go for an interview. I put on my best clothes and went to the zoo's office the next day to meet the manager. The interview must have gone very well because when I got home, I got a phone call from him saying that I got the job. He asked me if I could start the following Saturday. And of course I said yes!\nOn Saturday morning I got up very early and went to the zoo. I was there too early and the gates were still locked. At nine o'clock the manager arrived to open the zoo. He took me to the staffroom and gave me a uniform which I had to put on over my normal clothes. He also gave me a pair of\nboots. He told me that the ground was wet and dirty everywhere, so I would need them.\nMy first job was to clean the elephant house. It was great fun because I was with another girl that had been working there for some months. She was really friendly and gave me lots of tips. And there were two baby elephants trying to play with us. They were very funny! My colleague told me that our next job was to clean the lion's cage. I was really scared but luckily the lion wasn't in the cage at that point.\nIt's been a couple of months since I started my weekend job and each week I am taken to work with other animals and people. I really love it!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "How did Paula hear about the job at the zoo?",
+        "options": {
+          "A": "She was told about the job opening by a friend.",
+          "B": "She went to the zoo to ask about the job.",
+          "C": "One of her parents saw the ad first and informed her.",
+          "D": "She saw the advert online."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "When did the zoo manager call Paula to say she was successful?",
+        "options": {
+          "A": "on the same day she met with him",
+          "B": "on Saturday morning",
+          "C": "a few days after she applied for the job",
+          "D": "at the weekend"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What happened when Paula arrived at the zoo?",
+        "options": {
+          "A": "The manager was waiting for her.",
+          "B": "She was given some boots.",
+          "C": "She had to find the staffroom.",
+          "D": "The zoo hadn't opened yet."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What did Paula do after she met with the manager?",
+        "options": {
+          "A": "She changed her clothes and put on a uniform.",
+          "B": "She was introduced to a girl she would be working with.",
+          "C": "She was given some work clothes and footwear.",
+          "D": "She was taken immediately to clean the lion's cage."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Paula text a friend who is looking for a weekend job?",
+        "options": {
+          "A": "It's so disappointing that there aren't any jobs available for teens these days.",
+          "B": "I'm not sure if you'll be able to have a part-time job while you are still at school. It's so hard.",
+          "C": "I'm sure something you like will come up. I am looking forward to going to work every weekend.",
+          "D": "Knowing the right people is the only thing that can get you into a nice job."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_010",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 10,
+    "title": null,
+    "passage": "by Tina Newbury\nAt the age of 14 I have already decided that I want to be a vet. So, last summer I convinced my parents to spend our summer holidays volunteering. I really wanted to deal with sea animals, so when a friend told me about Archelon, the sea turtle organisation in Greece, I was really excited because I would leave the UK for the first time and go to a perfect destination, but I had no idea how amazing it would really be or how many new friends I would make. Now, I would recommend volunteering to any student who wants to get. job\nexperience, or simply have fun and meet great people.\nTurtles have been on our planet for millions of years but are dying in large numbers because of fishing and pollution. This was a shock to me when I spent a few days at the Rescue Centre in Athens before leaving for my first project. There, I found out that the majority of the centre's turtles had been injured on the head by humans. Some were by accident, from speedboats, but a lot were done on purpose, often by angry fishermen, as these creatures get caught in their fishing nets while trying to eat the fish which are part of their natural diet. For the fishermen, however, this has a cost, as fewer fish mean less money, so they view the turtle as their enemy, even though these turtles are a protected species. And as if this isn't enough for these unlucky creatures to deal with, they also face the problem of eating plastic bags, thinking they are jellyfish, which are a key part of their diet.\nThe following months were spent learning and having fun. In five different locations, but the most memorable was the last project, where we camped in an old museum with no electricity or water. However, the main problem was the insects which shared the museum with us, especially those that bit. But even that could not stop me from enjoying the daily contact with the turtles, and relaxing around a campfire. sharing stories after sunset. Volunteering is a life experience I really recommend for any student.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What do we learn about Tina in the first paragraph?",
+        "options": {
+          "A": "She has a job with animals.",
+          "B": "She only likes sea animals.",
+          "C": "She is going to be an animal doctor.",
+          "D": "She finished studying a year ago."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "While Tina was in Greece,",
+        "options": {
+          "A": "she found out about an organisation called Archelon.",
+          "B": "she enjoyed herself and formed new friendships.",
+          "C": "she volunteered for several animal organisations.",
+          "D": "she worked for Archelon as part of her training."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Tina say about the fishermen?",
+        "options": {
+          "A": "Their actions make her angry.",
+          "B": "She understands their actions.",
+          "C": "They try to look after the turtles.",
+          "D": "They try to catch the turtles."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Tina suggests that",
+        "options": {
+          "A": "despite the difficulties she enjoyed herself.",
+          "B": "insects spoilt her last project.",
+          "C": "having no water was a big problem.",
+          "D": "she enjoyed the nights most."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which of the following is the best description of Tina?",
+        "options": {
+          "A": "a professional woman who is paid to look after sea turtles",
+          "B": "a girl who hopes to help animals through her work in the future",
+          "C": "a girl who has been volunteering abroad in her summer holidays for years",
+          "D": "a girl who had wanted to help turtles all her life"
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_011",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 11,
+    "title": null,
+    "passage": "by Peter Newman\nLast week my parents and I visited Freshly, a modern British restaurant, in the centre of Brighton, Sussex. So it was the perfect opportunity to write a review for the school paper.\nAll of the ingredients used in Freshly come from Sussex and the surrounding area. It was also the first restaurant in the world to be serving only English wine. Since opening in 2018\nFreshly has won many awards. The owner and head chef at the restaurant is only 24 years old and she has been cooking three-course meals for her family since she was nine and still at junior school. Jane did an apprenticeship at the famous Grand Hotel, in Brighton, and later also went to catering school in London. She says this was one of the hardest courses she has ever done and sometimes she was so tired that she could hardly speak. Despite this, she never felt like giving up because she knew she was following her dream.\nFreshly is a small restaurant with a view over the back streets of Brighton where you can watch the world walk by. The staff are always welcoming. The head waiter is very informative\nabout the food and how it is cooked and also from where all the ingredients have come from.\nThe chefs are not scared to experiment, so the menu changes regularly. The chefs are\nlucky enough to be a team of good friends, and they try to eat out at different restaurants as often as they can. They take a lot of inspiration from their favorite chefs to make the Freshly experience as perfect as possible.\nOne thing to remember, however, is that you are limited to what they have that day on the menu. Freshly, however, will always cater to people with special food needs and vegetarians. The food is beautifully prepared and comes in small tasty portions. Wonderful homemade bread, too. Very nice - but expensive. Four set menus with an extra cheeseboard, two bottles of water, and 2 coffees will cost around £150 without a tip. So yes, fine dining; but at a price.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "The food at Freshly",
+        "options": {
+          "A": "is grown by the staff.",
+          "B": "comes from places in or close to Brighton.",
+          "C": "comes from all over the world.",
+          "D": "comes all over Britain."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Where did the owner start to train as a chef?",
+        "options": {
+          "A": "at junior school",
+          "B": "at university",
+          "C": "at home with the help of her family",
+          "D": "in a hotel"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "How did Jane feel while she was training to be a chef?",
+        "options": {
+          "A": "She was really tired but felt positive about the experience.",
+          "B": "She wanted to give up because of the pressure.",
+          "C": "She wasn't sure if she would be successful.",
+          "D": "She found it quite easy to finish the training."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What is said about Freshly restaurant?",
+        "options": {
+          "A": "The head waiter is in charge of the menu.",
+          "B": "The staff often change jobs because they like to do different things.",
+          "C": "It is a big and fancy restaurant with a great view.",
+          "D": "The staff have a very good relationship with each other."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Peter say about Freshly restaurant?",
+        "options": {
+          "A": "Freshly restaurant may serve tasty food but it is extremely pricey - not worth it.",
+          "B": "A great effort from a successful young chef who supports local products.",
+          "C": "A famous chef who tried rather unsuccessfully to set up a different kind of restaurant.",
+          "D": "The cheerful staff and nice location are the only things that are worth mentioning."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_012",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 12,
+    "title": null,
+    "passage": "THE REAL JUNK FOOD PROJECT\nby Sandra Manville\nAs I was looking for environmentally-friendly projects for the school paper, I found out about The Real Junk Food Project whose aim is to reduce the UK's huge amount of food waste, which is the highest in Europe. The UK, despite not having the largest population of a European country, throws away almost two million tonnes worth of food every year, more than even Germany, which comes in second despite having a larger population. Every year, 1.3 billion tonnes of food are thrown away while some 800 million people across the planet are dying from lack of food. This is terrible.\nThe Real Junk Food Project is against the waste of food that has gone past its sell-by date. Just because food has reached the end of life on the supermarket shelf, it does not mean that it cannot be eaten, as supermarkets put dates that run out days before the food becomes dangerous to eat. But supermarkets are only interested in making money and keeping fresh food coming to their shelves, not unnecessary waste.\nThe organisation, which collects the food from supermarkets, serves it as tasty meals to people in their cafes. Customers, in return, can pay as much as they want for it, or even nothing at all. Diners can then even volunteer in return for a meal. In this way, the organisation can provide for those who are poor or live on the street; a great social service.\nThere are now many more cafes than the original one which started in Leeds: one hundred and twenty-seven to be exact, and growing fast, in seven countries all over the world. The Leeds one alone, provides 35,000 people with meals every week. Along with the cafes, supermarket-style shops have opened, where you also pay or not, according to your ability.\nFor the main supermarkets this has nothing but advantages. They have to pay anyway to get rid of food waste, so the Junk Food Project is in fact doing them a favor, while at the same time, promoting them as more environmentally friendly by giving their waste food away.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is The Real Junk Food hoping to achieve?",
+        "options": {
+          "A": "make the UK produce less pollution than Germany",
+          "B": "make Europe produce less food than the UK",
+          "C": "stop the UK from throwing away so much food",
+          "D": "reduce the amount of food the UK produces"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What does Sandra get most upset about?",
+        "options": {
+          "A": "the fact that The Real Junk Food Project is not well-known",
+          "B": "the amount of waste in Germany",
+          "C": "the amount of food wasted in Europe",
+          "D": "the fact that some people don't have food"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Sandra say about supermarkets?",
+        "options": {
+          "A": "They don't care about poor people.",
+          "B": "They don't like wasting food.",
+          "C": "They sometimes sell out-of-date food.",
+          "D": "They do not avoid food waste."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Sandra say about the cafes?",
+        "options": {
+          "A": "They are run by volunteers wanting to help the poor.",
+          "B": "They are doing something valuable.",
+          "C": "They should only feed those who can't pay.",
+          "D": "The food does not taste as good as fresh products."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Sandra text a friend about The Real Junk Food Project?",
+        "options": {
+          "A": "I found out about a really cool way to eat for free when we go out.",
+          "B": "We could arrange to volunteer in a cafe whenever we have some free time to help.",
+          "C": "I tried eating at one of The Real Junk Food project's cafes but I wouldn't recommend it.",
+          "D": "It's a great idea but, unfortunately, it is not supported by many people."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_013",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 13,
+    "title": null,
+    "passage": "By Mandy Jones\nWhen I finished school, I did a business administration degree at Bristol University. After graduating, I worked for a credit card company for the next eight years. During all this time, I was an assistant marketing manager. Although I gained a lot of useful experience doing this job, last year I decided that I really needed a change. That's why I decided to move to Thomsen Holidays, where I have worked as a manager ever since. Here my main job is to think up new and interesting ideas for holidays.\nWhen I have to work from my office in the UK, I arrive at 9 a.m. The first thing I do is answer my e-mails, and then I plan the rest of my day. My main role is to look for new projects for Thomsen Holidays in our Mediterranean resorts. So, I have to come up with ideas, develop them and evaluate their success. We have lots of meetings in the office on a daily basis, which involve the marketing department, holiday representatives and people that we bring in from outside, such as entertainment organisers. Our aim is to develop an exciting idea and turn it into a realistic and workable project.\nOnce a month I spend a few days overseas, checking possible resorts, meeting with reps to develop their roles and working out how events could be sold to the customer. I often work with resort supervisors, use their local knowledge of bars and clubs for venues, talk through new ideas and find out how existing ones are working. I also get the chance to meet holidaymakers. When I do that, though, I have to be very open-minded because ideas can actually come from anywhere.\nI must say that I love my job for so many different reasons. But what I think I enjoy most is that I get to travel to all these amazing destinations while I'm actually being paid to do so. Not to mention that I work on projects that really excite me. I would never even consider changing jobs.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What do we learn about the writer in the first paragraph?",
+        "options": {
+          "A": "She learned a lot from her first job.",
+          "B": "She disliked her first job.",
+          "C": "She was fired from her first job.",
+          "D": "Her first job was with Bristol University."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Mandy has to...",
+        "options": {
+          "A": "send e-mails all day.",
+          "B": "find out if new ideas could actually work.",
+          "C": "entertain the holiday reps.",
+          "D": "spend all of her time having meetings in the office."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Mandy say about her job?",
+        "options": {
+          "A": "She never knows where or how a new idea might come to her.",
+          "B": "It makes her very popular with lots of people.",
+          "C": "She spends too much time in bars and clubs.",
+          "D": "She has a few problems with local people at the resorts."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What Mandy really likes about being a holiday company manager is that...",
+        "options": {
+          "A": "she always has a lot of work to do.",
+          "B": "she decides on which projects she wants to work.",
+          "C": "she has to do a lot of traveling as part of her work.",
+          "D": "she is still excited about going to the office every day."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which of the following is the best description of Mandy?",
+        "options": {
+          "A": "A working woman who very much enjoys what she does for a living.",
+          "B": "A travel agent who is trying to get a promotion.",
+          "C": "A woman who spends a lot of time on holiday and has an easy life.",
+          "D": "A woman who makes a lot of money by going to clubs and bars."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_014",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 14,
+    "title": null,
+    "passage": "MY FIRST SAFARI\nBy Jeremy Sanders\nI had spent all night on a flight to Africa and I must admit I felt exhausted once I landed. The only thing that made me feel better was a smiling, tanned pilot who took us quickly through Customs. Life suddenly became a lot better when I realised that we wouldn't have to wait at all to catch our next flight. We were just about to board a much smaller plane this time, for our first African safari.\nWhen you are on a short break every hour matters, so the fact that we were short-cutting the queues at Customs meant that we could be heading off to the countryside much sooner than anyone had expected.\nOur second flight, the one from Nairobi, lasted less than an hour but was the most fascinating one I had ever been on. It took us out of the city until we reached Mount Kenya. There the view suddenly changed. Our pilot started flying lower, pointing out to the elephants, giraffes, gazelles and even rhinos as they ran beneath us. We did several rounds before reaching our final destination, Loisaba Lodge, where we landed.\nLoisaba Wilderness is a 150sq km, privately-managed wildlife area of land kept in its natural state, especially for wild animals to live in and be protected. It is much larger than many of Kenya's parks and a safe place for more than 250 species of birds and 50 species of mammals, including elephants. The wildlife here, unlike in the game parks, is still wild, and so, far more exciting to see than bored lions lying in front of tourists.\nWe were soon taken to our rooms, located high up on a hill. From each of the seven rooms guests can walk out on to their private balcony to enjoy the wildly dramatic view - 61,000 acres of savannah and rocky area lie beneath you. A bit further away, you can observe, what I believe was the highlight of the visit, a watering hole, always drawing in animals for a drink. I'm telling you, it's just breathtaking; one cannot visit this place only once in their lifetime.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "When Jeremy arrived in Africa...",
+        "options": {
+          "A": "he was quite excited about his trip.",
+          "B": "he was too tired after the long flight.",
+          "C": "he felt anxious about what was going to happen next.",
+          "D": "he needed to get a good sleep as it was the middle of the night"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Why was Jeremy so pleased to be met by the pilot?",
+        "options": {
+          "A": "Because he wanted to make the most of his time on holiday.",
+          "B": "Because he thought the pilot might not meet him.",
+          "C": "Because he expected the pilot to be unfriendly.",
+          "D": "Because he did not know where to go."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Jeremy say about the flight from Nairobi?",
+        "options": {
+          "A": "It was far too long.",
+          "B": "The pilot flew in a dangerous way.",
+          "C": "They were followed by a smaller plane.",
+          "D": "It offered many impressive views."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Jeremy suggest about Loisaba?",
+        "options": {
+          "A": "It is still a safe and natural environment for animals.",
+          "B": "Tourists are no longer allowed there.",
+          "C": "Many of the animals are being hunted.",
+          "D": "The wild animals often attack people."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which of the following might Jeremy write about his experience?",
+        "options": {
+          "A": "\"I am really concerned about the wild animals in Africa as they are facing great dangers.\"",
+          "B": "\"It was thrilling to get a taste of natural Africa. It has been without a doubt an unforgettable experience.\"",
+          "C": "\"Visiting Africa does not differ much from a day trip to the zoo. The conditions and animal facilities are almost the same.\"",
+          "D": "\"Unfortunately tourists are once again taking over beautiful Africa. They are ruining the landscape and threatening the animals' survival.\""
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_015",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 15,
+    "title": null,
+    "passage": "TOM CRUISE\nBy Sarah Holden\nWhen our teacher asked us to interview a person that we admire, I had never thought I could actually interview Tom Cruise. I had been thinking for some time who else I could talk to, but it seemed to me that anyone else would come a poor second.\nThen, one day, out of the blue, as I was enjoying a hot cup of chocolate in our local coffee shop, l heard a man asking me if he could sit next to me. As I turned around and saw Tom Cruise smiling at me, I was at a loss for words. He was so pleasant and friendly that I felt confident and asked him for a mini-interview. Much to my surprise, he happily agreed.\nOver the years, Tom Cruise has become one of the most popular and successful actors in the world. He has long been an international star, who gets paid millions of dollars for every film he makes. \"I'm lucky,\" says Tom. \"I'm doing what I love, and I'm having a great time. Lots of people would love to do this job, but they didn't get the chances that I did.\"\nFor many of us, however, Tom is more than just lucky or good-looking, as great acting ability and determination were needed for him to become one of Hollywood's biggest names.\nIs Tom happy with his success so far? He has a different outlook on his career than one might expect. \"I've always looked to the future,\" says Tom. \"I feel I'm always developing as an actor. I'm looking for new things all the time. I want to challenge myself to be better and always try new things. I know I've made a lot of progress in my career, but I still have ambitions for the\nfuture.\"\nAfter interviewing him, I understood that Tom Cruise has a mind of his own and he's not at all like the characters in his movies. That's why, I believe, he has had so much success in his career; because of both his talent as an actor and his personal strength. Tom always knew what he wanted to do with his life and did his best to succeed.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "When Sarah was asked to interview the person she admired,...",
+        "options": {
+          "A": "she never thought that she was likely to talk to Tom Cruise.",
+          "B": "she was disappointed that her idol refused to talk to her.",
+          "C": "she could not make up her mind as to whom she admired the most.",
+          "D": "she was surprised to find out that she could write about a celebrity."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Sarah says that Tom Cruise...",
+        "options": {
+          "A": "is actually less friendly than he might seem.",
+          "B": "did not originally want to be interviewed.",
+          "C": "was uncomfortable talking about himself.",
+          "D": "is very Iikeable as a person."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Tom say about other people who try to become actors?",
+        "options": {
+          "A": "They are not as hard-working as successful actors.",
+          "B": "He was more fortunate at certain points in his career.",
+          "C": "They did not love the job as much as he did.",
+          "D": "He took more risks than them to achieve success."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "How does Tom describe his attitude to his work?",
+        "options": {
+          "A": "He is only interested in making millions of dollars as an international star.",
+          "B": "He is unlucky and has had many breaks in his career.",
+          "C": "He looks forward and wants to improve and develop.",
+          "D": "He is determined to become famous one day, whatever the cost."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What might Sarah say about Tom Cruise?",
+        "options": {
+          "A": "\"Tom Cruise's success seems to be more down to luck and connections than anything else.\"",
+          "B": "\"Tom Cruise's success is such that almost anyone can achieve it quite easily.\"",
+          "C": "\"Tom Cruise wouldn't be so successful if he didn't try and work so hard.\"",
+          "D": "\"Tom Cruise has not been greatly successful as he has a lot more to do.\""
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_016",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 16,
+    "title": null,
+    "passage": "GIVING BACK TO THE PEOPLE\nEver since she arrived on the pop scene in the early eighties, Madonna has remained one of the most well-known celebrities in the world. She has shown herself to be a talented singer, dancer, songwriter and actress. Having achieved all this, one cannot doubt that she has a strong belief in herself and her abilities. She seems to have gained such a strong personality through her own painful childhood experiences. She went to a strict Catholic school, was one of many children, and her family was split up after her mother died from cancer.\nEventually, in search of fame, she left college and went to New York with only her suitcase and a few dollars. Madonna became one of the biggest stars on the planet, and has sold over 200 million records worldwide, making her the most successful solo artist alive. Few, though,\nmay have realised that her rough start in life is exactly what made her so determined to get ahead and to decide to help so many others.\nMadonna's single cause over the past 10 years of her life is to give back to the people as much as she can. This is why she has made such a huge effort to bring an end to the extreme poverty and hardship experienced by Malawi's 2 million orphans. She founded Raising Malawi, a non-profit organisation that gives children in Malawi food, clothing, shelter, education, medical care and psychological support. At the same time, she supports other non-government organisations that offer many poor African families opportunities to earn money themselves. These programmes try to change the lives of these people once and for all.\nIt makes you wonder, doesn't it? What would happen if every one of us, just like Madonna did, gave back to those in need? Without a doubt, the world would be such a better place to live in. And it's not simply because certain people would be able to have the things that they should have never lived without in the first place, but also because through volunteering and charity, everyone can become a better person, experiencing benefits one would have never even imagined.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Madonna's career...",
+        "options": {
+          "A": "is steadily in decline since her first appearance in the eighties.",
+          "B": "has not been limited to the pop scene.",
+          "C": "has been down to luck rather than talent.",
+          "D": "is the result of a lifetime of opportunities."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "As a child, Madonna was probably...",
+        "options": {
+          "A": "happiest during her school days.",
+          "B": "lonely and without anyone to talk to.",
+          "C": "unhappy in New York.",
+          "D": "made stronger due to difficult events."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does the writer say about Madonna's success?",
+        "options": {
+          "A": "She is the best-selling artist alive.",
+          "B": "She earned a lot of money early on in her career.",
+          "C": "Her success is mainly due to luck.",
+          "D": "Her move to New York didn't help much with her career."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "According to the text Raising Malawi...",
+        "options": {
+          "A": "has earned Madonna a lot of money.",
+          "B": "is a charity that helps poor African families.",
+          "C": "tries to make a difference in the lives of many children in Malawi",
+          "D": "has failed to attract other's attention to the issues it deals with."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "How would the writer probably describe Madonna?",
+        "options": {
+          "A": "\"She is a woman that may seem to care for others but in fact only does so for herself.\"",
+          "B": "\"She has failed to achieve what she could have because of a life of hardship that eventually brought her down.\"",
+          "C": "\"Her success doesn't mean much to her as she always wants to become better and better.\"",
+          "D": "\"What she is truly passionate about is helping those in need have a better future.\""
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_017",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 17,
+    "title": null,
+    "passage": "HOW TO FOLLOW YOUR DREAMS\nBy Paul Staples\nI have had many years as a successful rock star, but will always remember how it all started and how I formed my first band. At sixteen I was still growing up in a bad part of town. I didn't have any way to express myself; I was disappointed by the terrible state of the neighbourhood and the unfairness that existed. Rich people, who had everything, lived just one mile away, while we had nothing, and could only hope for the worst of jobs.\nOne night, while I was at a friend's house we found a pair of electric guitars and started playing. We pretty much taught ourselves the music, and when a couple of other guys, who really knew how to play, joined us I knew we had something. With my songs, I could express far more emotion and I could communicate with other people. Soon after that we set up our own band.\nThe songs we write are still very important to us. They're about telling others how we feel about the problems and issues around us; crime, unemployment, exploitation, and the inequality present in the country. Of course, we are also expressing our own dreams and desires. It is amazing to be on stage and have twenty thousand people sing the songs that you write, songs that are about people like them, and in the end, these songs are for people like them.\nOur music has been very popular and is worth listening to, as it is the ordinary people who have made it such a success. We sing what we feel, so we're sure that if people listen to the music, they'Il understand our message, too.\nSo my advice to anyone dreaming of becoming a rock star is to never give up! Learn how to play a musical instrument and take vocal lessons. Put together a band and practise as much as you can. Write your own music, record it and let your friends listen to it. Play in front of an audience. Make a Youtube channel with your music and videos of live performances. You will, sooner or later, find yourself with a larger fan base and this will be the time when the adventure will begin!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What could a reader learn about Paul's childhood?",
+        "options": {
+          "A": "His family always treated him terribly.",
+          "B": "He was surrounded by rich people.",
+          "C": "He grew up in a poor area of town.",
+          "D": "His family had the worst jobs in the area."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How does Paul describe his lyrics?",
+        "options": {
+          "A": "They express their feelings on serious issues.",
+          "B": "They are written by a professional songwriter.",
+          "C": "They are about the problem of international conflict.",
+          "D": "They are the most important thing in his life."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Paul say about performing on stage?",
+        "options": {
+          "A": "It was his great dream, as he always loved attention.",
+          "B": "He only performs in front of crowds of twenty thousand or more.",
+          "C": "Most people at the concerts do not understand his music.",
+          "D": "He feels amazing when the crowd sing his own songs."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Paul would advise anyone interested in becoming a rock star to...",
+        "options": {
+          "A": "try hard to make it but if it doesn't work out soon, give up.",
+          "B": "start as a solo artist and try to become popular without a band at first.",
+          "C": "make use of technology to make themselves known to the wider audience.",
+          "D": "perform in front of an audience only after practising for years."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "How might Paul describe being in a band?",
+        "options": {
+          "A": "Being in a band is the greatest thing I could ever hope to do. The best part is the money and being famous.",
+          "B": "We are now a hugely successful band all over the world. I want to make more pop and commercial music to make more money.",
+          "C": "Music has always been important to me as a way to comment on social problems and communicate with people.",
+          "D": "The enjoyment I got when I was younger is no longer there. I don't feel so connected with the people as I used to."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_018",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 18,
+    "title": null,
+    "passage": "THIS IS HOW IT ALL STARTED\nBy Joanna Summers\nI guess you could say that acting is in my blood as my mother and my father are both actors, my grandfather was a theatre musician and my grandmother was a singer and dancer. I suppose it seemed normal for me to perform for family and friends and I certainly wasn't shy while growing up. I actually used to enjoy the attention and I still have many enjoyable memories of the whole family singing and dancing together.\nThat's why it came as no surprise that I started going to Drama school from the young age of six. I attended classes there every Saturday for almost 10 years. We were taught how to sing and dance, as well as act, so I was quite good by my teens.\nOnce I'd left school, I went to drama school in London full-time to do a degree. I must say that at that time, and for a period of about six months, I needed a break. I had spent my whole childhood acting and it felt like I had missed out on so much.\nSo I started partying with friends, danced the nights away and slept late most mornings. It was only when my personal tutor told me that I was on my final warning that I realised it was time to stop. Partying was great but I was about to lose everything I had worked so hard for all these years.\nAfter the shock of that realisation, I got my act together very quickly, went back to classes and workshops and soon after, I ended up graduating with a first. I had always been confident about my acting skills but it was then that I felt truly ready to get myself out there professionally. A few months later, The Royal Shakespeare Company gave me my first real role and I acted alongside some great names in the world of the stage. Now, of course, I'm better known for my Hollywood roles and people will probably be amazed to hear that I started my acting career as a Shakespearean actor. But it's true; this is how it all started.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does Joanna say about her childhood?",
+        "options": {
+          "A": "Her parents made her become an actor.",
+          "B": "She grew up among entertainers.",
+          "C": "She did not want to perform for her family.",
+          "D": "She was too young to enjoy drama school."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "When Joanna finished school,...",
+        "options": {
+          "A": "she had a break of about six months before going to drama school.",
+          "B": "she had to work full-time in order to pay for drama school.",
+          "C": "she realised she was under a lot of pressure and needed to relax.",
+          "D": "she had doubts as to whether she wanted to spend her adulthood acting."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What happened when Joanna was a full-time drama student?",
+        "options": {
+          "A": "She was nearly told to leave the course.",
+          "B": "She had an argument with her personal tutor.",
+          "C": "She concentrated on developing as a serious dancer.",
+          "D": "She worked as a dancer in the evenings."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Joanna say about working as a Shakespearean actor?",
+        "options": {
+          "A": "She found it boring after a while.",
+          "B": "It is what she is mostly known for.",
+          "C": "It was something she had to do to get into Hollywood.",
+          "D": "It gave her the chance to work with famous actors."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "Which of the following is the best description of Joanna?",
+        "options": {
+          "A": "The young actress who is developing a career.",
+          "B": "The actress who has followed in her parents' footsteps and went from Shakespeare to Hollywood.",
+          "C": "The actress who struggled through drama school and became a Hollywood director.",
+          "D": "The actress whose wildlife is affecting her career but who is now trying to get serious."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_019",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 19,
+    "title": null,
+    "passage": "FIGHT FOR WHAT IS RIGHT\nBy Ted Williams\nI've always enjoyed being with other people and I suppose I've always had a strong opinion about what is wrong and what is right, ever since I was a very young child. That used to irritate my brothers and sisters because I would always tell our parents if they did something wrong. I remember they had secrets that they wouldn't share with me and I probably missed out on a lot because of that. Not that I blame them.\nWhen I finished school, I actually studied history at university and then, in my final year, I had a work placement in a lawyer's office. I was fascinated from day one and, as soon as I graduated, I applied to do a degree in law. I don't know why I hadn't thought of this earlier, but I was certain I would love to be a judge one day.\nSeveral years have gone by and I am still very fond of my job. I'm keen on fighting for justice, no matter what kind of case it is. Being a judge is not an easy profession, I must admit. It can be really challenging at times not to get emotionally involved. In most cases it helps if you just follow your head and not your heart when you can't make up your mind. The working hours are quite long and not all judges earn a lot of money. But for me, choosing an occupation was never about the financial aspect.\nWhen a court case is finished and I am confident that I have made the right decision, I am relieved. Knowing that people guilty of crimes will end up in prison and society will be a bit safer\ntomorrow could not make me any happier. However, I make it a personal rule not to take my work home with me. Once I leave the court, I switch off and concentrate on my family. They will always be my number one priority. When I'm at home, I'm no longer a judge; I'm a husband and a dad and that sometimes takes even more work.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Why did Ted's brothers and sisters get annoyed with him?",
+        "options": {
+          "A": "Because he was always misbehaving.",
+          "B": "Because he was their parents' favorite child.",
+          "C": "Because he followed them all the time.",
+          "D": "Because he got them into trouble."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "After finishing school, Ted",
+        "options": {
+          "A": "went to law school and then worked at a lawyer's office.",
+          "B": "decided he wanted to be a judge so he dropped out of university.",
+          "C": "studied something else for a few years before deciding to become a judge.",
+          "D": "studied at university to become a lawyer but was then unhappy with his choice."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Ted say about his job?",
+        "options": {
+          "A": "He has a lot of job satisfaction.",
+          "B": "He has made mistakes during his career.",
+          "C": "He always wins a case.",
+          "D": "It doesn't affect him emotionally."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What does Ted do at the end of the working day?",
+        "options": {
+          "A": "finish off any work that he has at home",
+          "B": "leave all his work problems at the court",
+          "C": "tell his family all about his working day",
+          "D": "stop spending time with his family"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Ted say if someone asked him to describe himself?",
+        "options": {
+          "A": "\"I am a strict family man who does not easily take no for an answer.\"",
+          "B": "\"Unfortunately I tend to put work before family most of the time.\"",
+          "C": "\"I care deeply about both my family and work and I try to keep them separated.\"",
+          "D": "\"I am proud to be a judge that everyone fears.\""
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_020",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 20,
+    "title": null,
+    "passage": "GETTING FIT AND SLIM\nI know that many people, myself included, each year make a promise to themselves to get fit and slim, join a gym and start a diet. But what happens to these gym visits and the lettuce diet? At least half of us who try to get fit and thinner give up after less than a month. Many people seem to blame their failure on lack of time. Lack of willpower is even more important, though.\nMuch of this has to do with the fact that we set unrealistic fitness goals - a flat stomach in eight weeks and a celebrity diet plan - instead of doing what we know will have the best results in the long term: exercising a bit more and eating a bit less. Most fitness clubs get many new members from January to March, but their use of the gym tends to decline after that. So how can someone beat the temptation to give up? First, no one should expect to fail as soon as they start; we must stay positive, even if we've failed before.\nMany people are fooled into believing that they really need to follow an expensive fitness and eating plan. But this is simply not true. The only correct answer seems to be to search for the thing that really interests and motivates you. It's fine to have many small motivations, but you should write them down and put them together to make a list of things to keep you going.\nYou also need to change the way you think about things. Women, for example, feel particularly guilty about exercising two or three hours a week, thinking this is 'selfish time' that\ntakes them away from responsibilities to family and friends. But it is much better to see this as vital 'self-care' time. Many people also think that three hours is a lot of time out of their ordinary week, but as we spend around 98 hours a week awake, that leaves us nearly 95 hours to do everything else that we need to do.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What is true of most people at the start of the year?",
+        "options": {
+          "A": "They have already given up getting fit.",
+          "B": "They are not sure whether they'll continue exercising.",
+          "C": "They decide to make an effort to get fit.",
+          "D": "They are too bored to start exercising."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "What is the main reason why people give up exercising?",
+        "options": {
+          "A": "They haven't got enough time.",
+          "B": "They have no one to exercise with them.",
+          "C": "They do not really want to do it.",
+          "D": "They have tried too many times before."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Another reason why people quit a fitness programme is that",
+        "options": {
+          "A": "They have achieved their goals.",
+          "B": "They expect too much of themselves.",
+          "C": "They become too tired.",
+          "D": "They can't afford to continue."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "In order to continue a successful fitness programme",
+        "options": {
+          "A": "You need to find a strong and lasting reason.",
+          "B": "You need a friend to exercise with.",
+          "C": "You can't avoid suffering for many hours.",
+          "D": "Your friends and family will have to suffer."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would the writer say about exercise?",
+        "options": {
+          "A": "It isn't actually worth of all this effort because of how slow the results are.",
+          "B": "No one should overtire themselves because it does not make much difference.",
+          "C": "Going to the gym is a waste of time and very boring.",
+          "D": "If you really want to get fit, you need to find the time and a reason why and then commit to it."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_021",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 21,
+    "title": null,
+    "passage": "CYCLIST VICKY HARMISTON\nReporter Mark Lewis writes about Vicky Harmiston, who has had a successful Caroer as a track cyclist - a cyclist who races on special race tracks.\nWhen Vicky Hamiston was a child, her parents gave her and her brother Jamie the freedom to decide what they did in their spare time. Vicky chose to do lots of different sports. She was a good swimmer, and the coach at the swimming club she went to thought she might be good enough to become a champion. But the club was a long way from her home so it was difficult for her to fit in the training around her schoolwork. When they were teenagers, Jamie, who loved cycling, bought himself a special track-racing bike and started taking part in competitions. Vicky thought it looked very exciting and decided to try it for herself. She says that was the best decision she ever made. Soon she was cycling every day and doing really well. The track was near her school, which meant it was no problem for her to attend training sessions after school every day.\nVicky went on to have a successful career in track cycling and won several competitions. Then, when she was 28, she retired from competitive cycling. Vicky told me: 'For years l'd loved\nwinning competitions but I began to get a bit tired of the whole thing - and when the excitement stops, there's no point. Luckily, l went on to have a new career.'\nVicky got a job with a charity called CycleZone. 'We work with young people who have never enjoyed sport she says. 'The first thing we do is teach them to ride a bike. We want them to learn to believe in themselves and their own abilities. CycleZone does a great job, and it gets young people together so they're part of a wider group.'\nThe charity uses celebrities to advertise the work they do. Vicky says, 'I know some people aren't sure whether the support of a celebrity is always positive for a charity. They say the celebrities are only doing it to push themselves forward, which prevents the public from seeing the real work of the charity. But if famous singers and actors, for example, can help, I think they should.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "When Vicky first started cycling",
+        "options": {
+          "A": "she had a very good coach.",
+          "B": "her parents gave her helpful advice.",
+          "C": "she could get to a race track easily.",
+          "D": "her brother gave her a great bike."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Why does Vicky say she stopped cycle racing?",
+        "options": {
+          "A": "She felt she was too old to do it.",
+          "B": "She was becoming bored with it.",
+          "C": "She had won everything she wanted.",
+          "D": "She was preparing for a new career."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does the charity CycleZone do for young people?",
+        "options": {
+          "A": "It teaches them how to do track racing.",
+          "B": "It supports those who have talent.",
+          "C": "It offers them the chance to try a variety of sports.",
+          "D": "It helps them become more confident."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "According to Vicky, some people believe that celebrities can",
+        "options": {
+          "A": "take attention away from what a charity does.",
+          "B": "help people understand a charity's work.",
+          "C": "make public care less about a charity.",
+          "D": "encourage more people to become involved with a charity."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Vicky say on her blog?",
+        "options": {
+          "A": "As a child, I always knew what I wanted to do when I grew up, but I never expected to become so famous.",
+          "B": "If you join CycleZone, you'll get to meet celebrities and learn how they've become successful.",
+          "C": "Although track cycling is not the only sport I've been good at, I've never regretted my choice of career.",
+          "D": "In my spare time, I love going to school and helping group sub children learn to ride bikes."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_022",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 22,
+    "title": null,
+    "passage": "Luka Horvat writes about his early career.\nMy dad was a professional basketball player in Germany, as his father had been before him, and I went to watch many of his games when I was a kid. You might think that seeing so many matches would give me a love of the sport, but it actually had the opposite effect. I loved telling my friends how good my dad was, of course, especially when he won a game, but I used to take a book with me\nto read instead of watching.\nStarting secondary school, I was still two years away from being a teenager but was already two meters tall. Seeing my height, my sports teacher asked if I'd be interested in training with the basketball team. Even though I enjoyed the session, I thought I'd need to develop my skills before I took part in a real match, but the teacher had more confidence in me than I did. It took me a while to agree, but a few weeks later I found myself playing against a team from another school. Mum and Dad coming to watch didn't really help - it made me more nervous. But it was OK in the end!\nFor the next four years, I practiced every day and did really well, even joining an adult team before I moved abroad to a special sports academy in the USA when I was fifteen. The coach there trains Olympic basketball players, and it was fantastic to work with him. However, I can't say I enjoyed my first experience of living far from my parents. At home, I'd never been able to spend much time with my friends due to all the training, so that wasn't such a change for me. I got used to everything about my new life in the end, though, and my English improved quickly too!\nI turned professional at the age of eighteen, three years after arriving in the USA. I'd been taller than most players in the professional league since I was fifteen, but had been much too light for my height, so had to get that right first. My coach already knew a team that would take me while I was still at college, so I joined them and have never regretted it.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What does Luka say about his childhood?",
+        "options": {
+          "A": "He had a great interest in basketball.",
+          "B": "He enjoyed watching his father play basketball.",
+          "C": "He felt proud of his father's success at basketball.",
+          "D": "He knew he wanted to become a basketball player."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How did Luka feel before his first match at secondary school?",
+        "options": {
+          "A": "He wasn't sure that he would do well.",
+          "B": "He was pleased that his parents would be there.",
+          "C": "He wasn't happy about his teacher's attitude.",
+          "D": "He was delighted to be part of the team."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Luka thinks the most difficult thing about moving to the USA was",
+        "options": {
+          "A": "learning a new language.",
+          "B": "being away from his family.",
+          "C": "getting a good coach.",
+          "D": "missing his friends."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "What did Luka have to do before he became a professional player?",
+        "options": {
+          "A": "complete his studies",
+          "B": "find a suitable team",
+          "C": "reach a certain height",
+          "D": "put on weight"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would be a good way to introduce this article?",
+        "options": {
+          "A": "Luka Horvat has always been as interested in reading as in basketball. Here, in his own words, he explains why.",
+          "B": "Luka Horvat tells us how he became the latest member of a sporting family to become a professional basketball player.",
+          "C": "Professional basketball player Luka Horvat explains how luck has been so much more important than hard work in his career.",
+          "D": "Even though he only started playing basketball as a teenager, Luka Horvat still managed to become a professional by the age of eighteen."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_023",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 23,
+    "title": null,
+    "passage": "Singer-songwriter\nSinger-songwriter Ana Ronson grew up in Ireland. Although her parents weren't musicians, there was always music in the house. Her grandfather played the guitar, and taught Ana and her brother to play.\nThe first time Ana tried singing in front of an audience was at school - she was so nervous that her teacher had to lead her off the stage. This teacher suggested that joining the school theatre club might make her more confident. After attending the club for a while, she happily sang with 50 other students at an end-of-term concert.\nA year later, her brother, who was in a band, asked her to write a song for them, and so she wrote her first ever song, Falling Stars. Writing it took just three days and she enjoyed it so much that she enrolled on a songwriting course run by a professional Songwriter. Despite being the youngest student, she already knew more about music than many of the others. But Ana says the teacher didn't listen to anything she said, and she wrote Something to Say about how annoyed this made her feel.\nShe posted this song online, and it became a huge success. She was delighted when people left comments saying that they loved it and found new meanings in the words each time they heard them. Joss Alton, the owner of a recording company called Isotope Music, flew from his office on the other side of Ireland to ask her to join Isotope. At first, she wasn't sure; she didn't know anything about the company, and didn't want someone telling her what to sing. However, Joss persuaded her this wouldn't happen, and a short time later she performed at a concert in Dublin arranged by Isotope. They sold all the tickets very quickly and it was an amazing evening. Ana says she's less interested in writing songs about when life's good; when it's not, there's more for her to say. One of her favorite songs is Decision, written about why her brother stopped singing for a while, and how unhappy it made him. While she hopes that fans will like her songs,\nher aim is to write about personal experiences that matter to her.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "What helped Ana stop being scared of singing to an audience?",
+        "options": {
+          "A": "practicing her singing with a band",
+          "B": "asking a teacher to stand on stage with her",
+          "C": "being in a drama group at school",
+          "D": "making sure she was not in the front row"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "How was the songwriting course useful for Ana?",
+        "options": {
+          "A": "She was able to meet some well-known singers.",
+          "B": "The teacher's attitude gave her an idea for a song.",
+          "C": "She learned a lot from other writers on the course.",
+          "D": "The teacher gave her advice about the music business."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "Ana decided to work with Joss Alton because",
+        "options": {
+          "A": "he promised to let her choose which songs to sing.",
+          "B": "he offered to help her put on a concert.",
+          "C": "she liked some other singers that he worked with.",
+          "D": "he owned a company in her hometown."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "Ana most enjoys writing songs that",
+        "options": {
+          "A": "she is sure her fans will like it.",
+          "B": "deal with difficult times.",
+          "C": "her brother can sing with his band.",
+          "D": "help people remember their own experiences."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Ana write to fans in her blog?",
+        "options": {
+          "A": "Listening to my parents playing music on their instruments really encouraged me to become a singer myself.",
+          "B": "Writing songs just gets easier with practice. Nowadays it only takes a week or so - it wasn't like that when I started!",
+          "C": "I loved playing the concert in Dublin. I hope that next time we'll sell all the tickets - it was a shame to have some empty seats!",
+          "D": "I read what people write about me online - it means a lot to me that they like listening carefully to my songs."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_024",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 24,
+    "title": null,
+    "passage": "by Louise Walton\nLast year I went on an amazing trip - travelling by boat on a guided group tour along the west coast of Canada. It was my brother Harry's idea. He's a journalist, like me, and he wanted to write articles about the trip. He's also a great fan of boats, although that's one interest we definitely don't share. But I'd dreamt of visiting the area ever since seeing it on TV as a child, especially as I knew it was where our great-grandparents had lived before moving to Europe. So I kept asking Harry if I could go too - until he finally agreed!\nA few weeks before we left home, there were storms in the area we were going to. But luckily the forecast for the time we intended to be there was for calm seas. Although there was plenty to arrange, l was busy at work so didn't have much time to think about what needed doing. But Harry promised he'd taken care of everything, so I knew everything would be all right.\nAfter arriving in Canada, we joined the group, packed our limited supplies into small boats and set off. The guide had mentioned that very few people now lived along that coast, and sure enough, the only other living creatures we saw for the first few days were dolphins and birds. We knew there were islands in the distance, but the early-morning fog made it hard to see very far, so I just focused on the beautiful patterns our boat made in the water.\nWe often stopped for hours to explore the rock pools on the beaches. They were full of amazing colored fish, many of which I didn't recognize. And it was great to be able to stop caring about how quickly or slowly the day was passing. We never forgot lunch or dinner, though, which we all made together over camp fires. When we finally fell asleep on the boats each evening, even though the beds were hard, it really felt like stress-free living!\nWhen the time came to leave, I was sad. How could I return to normal life again? But I knew if I stayed, I'd miss family and friends. I was also looking forward to telling everyone at home about our adventures!",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Why was Louise keen to go on the trip to Canada?",
+        "options": {
+          "A": "She liked the idea of spending time in a boat.",
+          "B": "She knew her brother wanted her to accompany him.",
+          "C": "She had wanted to travel there for a long time.",
+          "D": "She had heard from some relatives who lived there."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Just before their departure, Louise",
+        "options": {
+          "A": "began to wonder how they would deal with bad weather.",
+          "B": "was confident that they were fully prepared for the trip.",
+          "C": "wished she could help her brother more.",
+          "D": "felt she was better organized than usual."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "On the first morning of the trip, Louise says she admired",
+        "options": {
+          "A": "the way the sea around them looked.",
+          "B": "the wildlife which their boats attracted.",
+          "C": "the homes that people had built in the area.",
+          "D": "the views of islands they were passing."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "During the trip, Louise enjoyed",
+        "options": {
+          "A": "learning the names of the fish she saw.",
+          "B": "not having to cook regular meals.",
+          "C": "spending the nights in comfort.",
+          "D": "not having to worry about time."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would Louise write in her diary during the trip?",
+        "options": {
+          "A": "There are wonderful pools along the coast, left behind by the sea. I wish we had the time to look at them more carefully.",
+          "B": "I can't believe I'm in the same place I saw on that programme ages ago. Our great-grandparents would be amazed!",
+          "C": "We've brought a lot of stuff with us in the boats - I'm sure it's not all necessary. It's surprising they don't sink!",
+          "D": "It'll be hard to say goodbye to the place at the end, but I can't wait to get back to work -I've really missed it."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  },
+  {
+    "id": "C_025",
+    "section": "C",
+    "type": "reading_passage_mcq_group",
+    "sourceTextNumber": 25,
+    "title": null,
+    "passage": "I'd worked for the company for almost ten years. They were good employers and the money wasn't that bad. They trusted in my ability and always left me to get on with my work. And I shared an office and met some lovely people, so I certainly wasn't unhappy there. But I just couldn't stop wondering how better my life would be if I had my own business and could make my own decisions. And so one year ago this week I left my job.\nWe don't have a spare room at home, so the kitchen table has been my office. It was difficult to begin with, but I soon got used to working in this way. I started by visiting small businesses in the area to see if I could interest them in my services. My proudest moment was making my first sale, a website for a local cake shop. Soon after, I started getting calls from other people asking for help with websites of their own and I found myself getting quite busy. Of course, there have been challenges. I'm not earning quite as much as before but it's enough. I don't have to pay for transport to work anymore so that means I'm not spending quite so much. My biggest problem has been managing my time. There's no boss to tell me what to do and I'm sometimes a little lazy. I have this rule that work stops on a Friday afternoon so I can spend time with the family at weekends, so I need to pay more attention to\nthis.\nSo, I wouldn't say it's been easy, but I don't regret my decision at all. I've enjoyed being my own boss and I'm quite hopeful about the future. During the next 12 months, I plan to rent some office space as I'd like to be able to separate work from my home life. I'm going to need to earn more money to pay for it but I think it will help me to focus on my work.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "prompt": "Why did Steve leave his job?",
+        "options": {
+          "A": "He didn't like attending meetings.",
+          "B": "He wanted more control of his work.",
+          "C": "He had a great idea for a product.",
+          "D": "He wanted to earn more money."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 2,
+        "prompt": "Steve's greatest pleasure so far has been",
+        "options": {
+          "A": "getting his first customer.",
+          "B": "not having to drive to work.",
+          "C": "having his own office.",
+          "D": "not having to answer the telephone."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 3,
+        "prompt": "What does Steve say is the most difficult about working for himself?",
+        "options": {
+          "A": "working hard enough",
+          "B": "not having a regular salary",
+          "C": "feeling lonely",
+          "D": "working at the weekend"
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 4,
+        "prompt": "In the next year, Steve thinks",
+        "options": {
+          "A": "he will get an office job.",
+          "B": "He will earn less money.",
+          "C": "he might not need to work in his kitchen",
+          "D": "there will be much more competition."
+        },
+        "answer": null
+      },
+      {
+        "questionNumber": 5,
+        "prompt": "What would be a good introduction to this article?",
+        "options": {
+          "A": "In this article, Steve Cummins explains the problems of starting your own business and dealing with difficult customers.",
+          "B": "Thinking of starting your own business? Steve Cummins did just that and now wishes he had done it sooner.",
+          "C": "Steve Cummins made a big decision last year to leave his job. Read on to find out about the ups and downs of being your own boss.",
+          "D": "Steve Cummins explains below how he dealt with not enjoying his job by leaving his employer and starting his own business."
+        },
+        "answer": null
+      }
+    ],
+    "autoScored": false,
+    "answerKeyAvailable": false,
+    "usable": true,
+    "source": {
+      "datasetVersion": "hutech-b1-review-09-2025",
+      "sourceFile": "data/raw/hutech-b1-review-09-2025.raw.txt"
+    }
+  }
+]
