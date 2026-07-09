@@ -15,16 +15,31 @@
         <p class="eyebrow">B1 CEFR PRACTICE</p>
         <h1>OnTap B1 Exam Generator</h1>
         <p class="subtitle">
-          Sinh đề ôn tập theo đúng blueprint A-H (Reading, Writing, Listening), chấm điểm tự động và review câu sai.
+          Công cụ ôn tập B1 CEFR theo dữ liệu A-K đã parse. Hãy chọn chế độ học để bắt đầu.
         </p>
-        <div class="actions">
-          <button id="btnGenerate" class="btn btn-primary">Sinh đề mới</button>
+        
+        <div id="modeSelectionScreen">
+          <h3 class="screen-title">Select Learning Mode:</h3>
+          <div class="actions">
+            <button class="btn btn-primary btn-mode" data-mode="free_candidate">Free Candidate</button>
+            <button class="btn btn-primary btn-mode" data-mode="two_week">2-Week Learner</button>
+            <button class="btn btn-primary btn-mode" data-mode="four_week">4-Week Learner</button>
+          </div>
+        </div>
+
+        <div id="practiceMockScreen" class="hidden">
+          <h3 class="screen-title">Mode Selected: <span id="selectedModeLabel" class="mode-label"></span></h3>
+          <div class="actions">
+            <button id="btnPractice" class="btn btn-primary">Practice Mode</button>
+            <button id="btnMockExam" class="btn btn-primary">Mock Exam</button>
+          </div>
+          <p id="inlineMessage" class="status hidden inline-message"></p>
         </div>
         <p id="datasetStatus" class="status"></p>
       </header>
 
       <section id="examSummary" class="card summary hidden"></section>
-      <section id="examRoot" class="card"></section>
+      <section id="examRoot" class="card hidden"></section>
     </main>
 
     <script src="app.js"></script>

@@ -477,3 +477,20 @@ body {
   background: #f8f9fa;
   border-left: 4px solid var(--muted);
 }
+
+/* ── F1-F2 UI Utilities ──────────────────────────────────── */
+
+.screen-title {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.mode-label {
+  color: var(--accent);
+}
+
+.inline-message {
+  color: var(--accent-2);
+  font-weight: bold;
+  margin-top: 10px;
+}

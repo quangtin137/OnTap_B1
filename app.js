@@ -1,24 +1,30 @@
-const BLUEPRINT = {
-  A: 10,
-  B: 5,
-  C: 1,
-  D: 1,
-  E: 5,
-  F: 1,
-  G: 2,
-  H: 2
+const SECTION_REGISTRY = {
+  A: { id: "A", title: "Vocabulary & Grammar MCQ", type: "mcq", autoScored: true, answerKeyAvailable: true, practiceCount: 10, mockCount: 10 },
+  B: { id: "B", title: "Signs MCQ with image", type: "signs_mcq", autoScored: true, answerKeyAvailable: true, practiceCount: 5, mockCount: 5 },
+  C: { id: "C", title: "Reading passage MCQ group", type: "reading_group", autoScored: true, answerKeyAvailable: true, practiceCount: 1, mockCount: 1 },
+  D: { id: "D", title: "Cloze text MCQ group", type: "cloze_group", autoScored: true, answerKeyAvailable: true, practiceCount: 1, mockCount: 1 },
+  E: { id: "E", title: "Sentence transformation", type: "sentence_transformation", autoScored: true, answerKeyAvailable: true, practiceCount: 10, mockCount: 5 },
+  F: { id: "F", title: "Email/Letter writing", type: "email_writing", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 1 },
+  G: { id: "G", title: "Essay writing", type: "essay_writing", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 1 },
+  H: { id: "H", title: "Listening fill blanks", type: "listening_fill_blanks", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 1 },
+  I: { id: "I", title: "Listening MCQ", type: "listening_abc", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 2 },
+  J: { id: "J", title: "Listening True/False", type: "listening_tf", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 2 },
+  K: { id: "K", title: "Speaking topics", type: "speaking_topic", autoScored: false, answerKeyAvailable: false, practiceCount: 1, mockCount: 1 }
 };
 
-const SECTION_LABELS = {
-  A: "Vocabulary",
-  B: "Signs",
-  C: "Reading",
-  D: "Cloze Text",
-  E: "Transformation",
-  F: "Listening Fill",
-  G: "Listening ABC",
-  H: "True / False",
+const appState = {
+  examBank: null,
+  studyProfile: null,
+  selectedMode: null,
+  currentScreen: "mode-selection",
+  isDataLoaded: false,
+  loadErrors: []
 };
+window.__ONTAP_B1_STATE__ = appState;
+
+// Note: Old blueprint and section labels retained for backward compatibility of old renderer logic if needed later, but they are not used for new F1-F2 flow.
+const BLUEPRINT = { A: 10, B: 5, C: 1, D: 1, E: 5, F: 1, G: 2, H: 2 };
+const SECTION_LABELS = { A: "Vocabulary", B: "Signs", C: "Reading", D: "Cloze Text", E: "Transformation", F: "Listening Fill", G: "Listening ABC", H: "True / False" };
 
 let questionCursor = 1;
 let examState = null;
@@ -26,9 +32,30 @@ let examState = null;
 const examRoot = document.getElementById("examRoot");
 const summaryRoot = document.getElementById("examSummary");
 const datasetStatus = document.getElementById("datasetStatus");
-const btnGenerate = document.getElementById("btnGenerate");
 
-btnGenerate.addEventListener("click", initExam);
+const modeSelectionScreen = document.getElementById("modeSelectionScreen");
+const practiceMockScreen = document.getElementById("practiceMockScreen");
+const selectedModeLabel = document.getElementById("selectedModeLabel");
+const btnPractice = document.getElementById("btnPractice");
+const btnMockExam = document.getElementById("btnMockExam");
+const inlineMessage = document.getElementById("inlineMessage");
+
+document.querySelectorAll(".btn-mode").forEach(btn => {
+  btn.addEventListener("click", async (e) => {
+    const mode = e.target.dataset.mode;
+    await handleModeSelection(mode, e.target.textContent);
+  });
+});
+
+btnPractice.addEventListener("click", () => {
+  inlineMessage.textContent = "Practice Mode sẽ được triển khai ở Phase F4.";
+  inlineMessage.classList.remove("hidden");
+});
+
+btnMockExam.addEventListener("click", () => {
+  inlineMessage.textContent = "Mock Exam migration sẽ được triển khai ở Phase F5.";
+  inlineMessage.classList.remove("hidden");
+});
 
 examRoot.addEventListener("change", (e) => {
   const node = e.target.closest(".question");
@@ -75,8 +102,95 @@ examRoot.addEventListener("change", (e) => {
   }
 });
 
-initExam();
+// initExam(); // Disabled for Phase F1/F2 new flow
 
+async function handleModeSelection(modeId, modeName) {
+  datasetStatus.textContent = "Đang tải dữ liệu...";
+  datasetStatus.classList.remove("bad");
+  
+  if (!appState.isDataLoaded) {
+    try {
+      await loadAllParsedData();
+    } catch (e) {
+      datasetStatus.textContent = "Lỗi khi tải dữ liệu: " + e.message;
+      datasetStatus.classList.add("bad");
+      return;
+    }
+  }
+  
+  appState.selectedMode = modeId;
+  appState.studyProfile = buildStudyProfile(modeId);
+  appState.currentScreen = "practice-mock-choice";
+  
+  modeSelectionScreen.classList.add("hidden");
+  selectedModeLabel.textContent = modeName;
+  practiceMockScreen.classList.remove("hidden");
+  inlineMessage.classList.add("hidden");
+  datasetStatus.textContent = "Dữ liệu đã được tải thành công.";
+}
+
+function buildAllScope() {
+  const scope = {};
+  const sections = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"];
+  sections.forEach(s => {
+    scope[s] = { type: "all" };
+  });
+  return scope;
+}
+
+function buildStudyProfile(mode) {
+  const scope = buildAllScope();
+  if (mode === "free_candidate") {
+    return { mode, scope };
+  } else if (mode === "two_week") {
+    scope.E = { from: 1, to: 25 };
+    scope.H = { officialPool: [1, 2, 3], reviewedTexts: [1, 2], unreviewedTexts: [3] };
+    return { mode, scope };
+  } else if (mode === "four_week") {
+    scope.E = { from: 1, to: 30 };
+    scope.H = { officialPool: [1, 2, 3], reviewedTexts: [1, 2, 3], unreviewedTexts: [] };
+    return { mode, scope };
+  }
+  return { mode, scope };
+}
+
+async function loadAllParsedData() {
+  const sections = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k"];
+  const bank = {};
+  appState.loadErrors = [];
+  
+  for (const s of sections) {
+    try {
+      const res = await fetch(`data/parsed/section-${s}.json`);
+      if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+      const data = await res.json();
+      
+      let items = [];
+      if (Array.isArray(data)) {
+        items = data;
+      } else if (data.data && Array.isArray(data.data)) {
+        items = data.data;
+      } else {
+        items = [data];
+      }
+      
+      const filtered = items.filter(item => item.usable !== false);
+      bank[s.toUpperCase()] = filtered;
+    } catch (e) {
+      console.error(`Failed to load section ${s}:`, e);
+      appState.loadErrors.push(`Section ${s.toUpperCase()}: ${e.message}`);
+    }
+  }
+  
+  if (appState.loadErrors.length > 0) {
+    throw new Error("Không thể tải một số files dữ liệu.");
+  }
+  
+  appState.examBank = bank;
+  appState.isDataLoaded = true;
+}
+
+// Old unused initialization logic preserved
 async function initExam() {
   try {
     const bank = await fetch("data/exam-data.json").then((r) => r.json());
