@@ -29,11 +29,17 @@
 
         <div id="practiceMockScreen" class="hidden">
           <h3 class="screen-title">Mode Selected: <span id="selectedModeLabel" class="mode-label"></span></h3>
-          <div class="actions">
+          <div class="actions" id="practiceMockActions">
             <button id="btnPractice" class="btn btn-primary">Practice Mode</button>
             <button id="btnMockExam" class="btn btn-primary">Mock Exam</button>
           </div>
           <p id="inlineMessage" class="status hidden inline-message"></p>
+          <div id="practiceSectionScreen" class="hidden">
+            <h3 class="screen-title" style="margin-top: 10px;">Select Section to Practice:</h3>
+            <div class="actions" id="practiceSectionList" style="flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 15px;">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
         </div>
         <p id="datasetStatus" class="status"></p>
       </header>

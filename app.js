@@ -37,9 +37,12 @@ const datasetStatus = document.getElementById("datasetStatus");
 const modeSelectionScreen = document.getElementById("modeSelectionScreen");
 const practiceMockScreen = document.getElementById("practiceMockScreen");
 const selectedModeLabel = document.getElementById("selectedModeLabel");
+const practiceMockActions = document.getElementById("practiceMockActions");
 const btnPractice = document.getElementById("btnPractice");
 const btnMockExam = document.getElementById("btnMockExam");
 const inlineMessage = document.getElementById("inlineMessage");
+const practiceSectionScreen = document.getElementById("practiceSectionScreen");
+const practiceSectionList = document.getElementById("practiceSectionList");
 
 document.querySelectorAll(".btn-mode").forEach(btn => {
   btn.addEventListener("click", async (e) => {
@@ -49,14 +52,117 @@ document.querySelectorAll(".btn-mode").forEach(btn => {
 });
 
 btnPractice.addEventListener("click", () => {
-  inlineMessage.textContent = "Practice Mode sẽ được triển khai ở Phase F4.";
-  inlineMessage.classList.remove("hidden");
+  startPracticeMode();
 });
 
 btnMockExam.addEventListener("click", () => {
   inlineMessage.textContent = "Mock Exam migration sẽ được triển khai ở Phase F5.";
   inlineMessage.classList.remove("hidden");
+  practiceSectionScreen.classList.add("hidden");
 });
+
+function startPracticeMode() {
+  inlineMessage.classList.add("hidden");
+  practiceMockActions.classList.add("hidden");
+  practiceSectionScreen.classList.remove("hidden");
+  
+  practiceSectionList.innerHTML = "";
+  Object.values(SECTION_REGISTRY).forEach(sec => {
+    const btn = document.createElement("button");
+    btn.className = "btn btn-outline";
+    btn.textContent = `${sec.id} - ${sec.title}`;
+    btn.addEventListener("click", () => {
+      appState.currentScreen = "practice";
+      generatePracticeSet(sec.id, appState.studyProfile);
+    });
+    practiceSectionList.appendChild(btn);
+  });
+}
+
+function generatePracticeSet(sectionId, studyProfile) {
+  const reg = SECTION_REGISTRY[sectionId];
+  let pool = appState.scopedBank[sectionId] || [];
+  
+  if (sectionId === "H" && studyProfile.mode !== "free_candidate") {
+    pool = pool.filter(task => task._isReviewed === true);
+  }
+  
+  const profileScope = studyProfile.scope[sectionId] || {};
+  const count = profileScope.randomCount || reg.practiceCount || 1;
+  
+  const selected = pickRandom(pool, count);
+  renderPracticeSet(sectionId, selected, reg);
+}
+
+function renderPracticeSet(sectionId, practiceData, reg) {
+  document.querySelector(".hero").classList.add("hidden");
+  examRoot.classList.remove("hidden");
+  examRoot.innerHTML = "";
+  questionCursor = 1;
+
+  const header = document.createElement("div");
+  header.style.display = "flex";
+  header.style.justifyContent = "space-between";
+  header.style.marginBottom = "20px";
+  header.innerHTML = `
+    <button id="btnBackToMenu" class="btn btn-outline">← Back</button>
+    <button id="btnNewPractice" class="btn btn-primary">Luyện lượt mới</button>
+  `;
+  examRoot.appendChild(header);
+
+  header.querySelector("#btnBackToMenu").addEventListener("click", () => {
+    examRoot.classList.add("hidden");
+    document.querySelector(".hero").classList.remove("hidden");
+    appState.currentScreen = "practice-mock-choice";
+  });
+  
+  header.querySelector("#btnNewPractice").addEventListener("click", () => {
+    generatePracticeSet(sectionId, appState.studyProfile);
+  });
+
+  const title = `Phần ${sectionId} - ${reg.title}`;
+  
+  if (!reg.autoScored || !reg.answerKeyAvailable) {
+    const notice = document.createElement("div");
+    notice.style.padding = "12px";
+    notice.style.backgroundColor = "#fff3e0";
+    notice.style.borderLeft = "4px solid #ff9800";
+    notice.style.marginBottom = "20px";
+    notice.innerHTML = `<strong>Lưu ý:</strong> Phần này hiện chưa hỗ trợ chấm điểm tự động hoặc chưa có answer key. Không tính vào điểm.`;
+    examRoot.appendChild(notice);
+  }
+
+  if (sectionId === "A") {
+    renderMultipleChoiceGroup(title, "A", practiceData, examRoot);
+  } else if (sectionId === "B") {
+    renderMultipleChoiceGroup(title, "B", practiceData, examRoot, true);
+  } else if (sectionId === "C") {
+    practiceData.forEach(p => renderReadingPassage(p, examRoot));
+  } else if (sectionId === "D") {
+    practiceData.forEach(p => renderClozeText(p, examRoot));
+  } else if (sectionId === "E") {
+    renderTransformation(practiceData, examRoot);
+  } else if (sectionId === "H") {
+    renderListeningFill(practiceData, examRoot);
+  } else {
+    renderManualSection(title, sectionId, practiceData, examRoot);
+  }
+}
+
+function renderManualSection(title, sectionKey, items, parent) {
+  const block = sectionBlock(title, sectionKey);
+  items.forEach(item => {
+    block.insertAdjacentHTML("beforeend", `<div style="margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 8px;">
+      <h4>ID: ${escapeHtml(item.id)}</h4>
+      ${item.prompt ? `<p><strong>Prompt:</strong> ${escapeHtml(item.prompt)}</p>` : ""}
+      ${item.passage ? `<div class="passage">${escapeHtml(item.passage)}</div>` : ""}
+      ${item.transcript ? `<div class="passage">${escapeHtml(item.transcript)}</div>` : ""}
+      ${item.guidingQuestions ? `<ul>${item.guidingQuestions.map(q => `<li>${escapeHtml(q)}</li>`).join('')}</ul>` : ""}
+      <p><em>(Dữ liệu đang được hiển thị dạng basic - manual review)</em></p>
+    </div>`);
+  });
+  parent.appendChild(block);
+}
 
 examRoot.addEventListener("change", (e) => {
   const node = e.target.closest(".question");
@@ -64,6 +170,7 @@ examRoot.addEventListener("change", (e) => {
 
   const type = node.dataset.type;
   const answer = node.dataset.answer;
+  if (answer === undefined || answer === "null") return;
 
   let userValue = "";
   let isCorrect = false;
@@ -395,11 +502,57 @@ function showSection(key) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+function normalizeOptions(q) {
+  if (!q.options) return [];
+  if (Array.isArray(q.options)) return q.options;
+  if (typeof q.options === "object") {
+    if (q.options.A !== undefined) {
+      const arr = [];
+      const keys = Object.keys(q.options).sort();
+      for (const k of keys) arr.push(q.options[k]);
+      return arr;
+    }
+    return Object.values(q.options);
+  }
+  return [];
+}
+
+function getQuestionText(q) {
+  if (q.question) return q.question;
+  if (q.prompt) return q.prompt;
+  if (q.text) return q.text;
+  if (q.sentence) return q.sentence;
+  if (q.originalSentence) return q.originalSentence;
+  if (q.gappedSentence) return q.gappedSentence;
+  if (q.original) return q.original;
+  return "N/A";
+}
+
+function getAnswerIndex(q) {
+  const ans = q.answerIndex !== undefined ? q.answerIndex : (q.correctOption || q.correctAnswer || q.answerLetter || q.answer);
+  if (ans === null || ans === undefined) return null;
+  if (typeof ans === "number") return ans;
+  if (typeof ans === "string") {
+    const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
+    if (map[ans] !== undefined) return map[ans];
+  }
+  return null;
+}
+
 function renderMultipleChoiceGroup(title, sectionKey, questions, parent, includeImage = false) {
   const block = sectionBlock(title, sectionKey);
   questions.forEach((q) => {
     const qn = nextQn();
-    const options = q.options
+    const opts = normalizeOptions(q);
+    if (!opts || opts.length === 0) {
+      block.insertAdjacentHTML("beforeend", `<div class="manual-notice" style="margin-bottom: 15px;">Lỗi data: Câu ${escapeHtml(q.id)} thiếu options</div>`);
+      return;
+    }
+    
+    const ansIdx = getAnswerIndex(q);
+    const answerAttr = ansIdx !== null ? `data-answer="${ansIdx}"` : "";
+
+    const optionsHTML = opts
       .map(
         (opt, idx) => `<label><input type="radio" name="q_${sectionKey}_${q.id}" value="${idx}"> ${escapeHtml(opt)}</label>`
       )
@@ -407,10 +560,10 @@ function renderMultipleChoiceGroup(title, sectionKey, questions, parent, include
 
     block.insertAdjacentHTML(
       "beforeend",
-      `<div class="question" data-type="mcq" data-answer="${q.answerIndex}" data-key="${sectionKey}_${q.id}" data-qn="${qn}">
-        <h4>Câu ${qn}. ${renderQuestion(q.question)}</h4>
-        ${includeImage && q.image ? `<img class="sign-image" src="${escapeHtml(q.image)}" alt="sign-${escapeHtml(q.id)}" />` : ""}
-        <div class="options">${options}</div>
+      `<div class="question" data-type="mcq" ${answerAttr} data-key="${sectionKey}_${q.id}" data-qn="${qn}">
+        <h4>Câu ${qn}. ${renderQuestion(getQuestionText(q))}</h4>
+        ${includeImage && (q.image || q.path || q.imagePath) ? `<img class="sign-image" src="${escapeHtml(q.image || q.path || q.imagePath)}" alt="sign-${escapeHtml(q.id)}" />` : ""}
+        <div class="options">${optionsHTML}</div>
       </div>`
     );
   });
@@ -421,17 +574,25 @@ function renderReadingPassage(reading, parent) {
   const block = sectionBlock("Phần 1C - Reading Passage", "C");
   block.insertAdjacentHTML(
     "beforeend",
-    `<p class="passage-title">${escapeHtml(reading.title)}</p>
-     <div class="passage">${escapeHtml(reading.passage)}</div>`
+    `<p class="passage-title">${escapeHtml(reading.title || "")}</p>
+     <div class="passage">${escapeHtml(reading.passage || "")}</div>`
   );
 
-  reading.questions.forEach((q) => {
+  (reading.questions || []).forEach((q) => {
     const qn = nextQn();
+    const opts = normalizeOptions(q);
+    if (!opts || opts.length === 0) {
+      block.insertAdjacentHTML("beforeend", `<div class="manual-notice" style="margin-bottom: 15px;">Lỗi data: Câu ${escapeHtml(q.id)} thiếu options</div>`);
+      return;
+    }
+    const ansIdx = getAnswerIndex(q);
+    const answerAttr = ansIdx !== null ? `data-answer="${ansIdx}"` : "";
+
     block.insertAdjacentHTML(
       "beforeend",
-      `<div class="question" data-type="mcq" data-answer="${q.answerIndex}" data-key="C_${q.id}" data-qn="${qn}">
-        <h4>Câu ${qn}. ${escapeHtml(q.question)}</h4>
-        <div class="options">${q.options
+      `<div class="question" data-type="mcq" ${answerAttr} data-key="C_${q.id}" data-qn="${qn}">
+        <h4>Câu ${qn}. ${escapeHtml(getQuestionText(q))}</h4>
+        <div class="options">${opts
           .map((opt, idx) => `<label><input type="radio" name="q_C_${q.id}" value="${idx}"> ${escapeHtml(opt)}</label>`)
           .join("")}</div>
       </div>`
@@ -445,18 +606,28 @@ function renderClozeText(cloze, parent) {
   const block = sectionBlock("Phần 1D - Cloze Text", "D");
   block.insertAdjacentHTML(
     "beforeend",
-    `<p class="passage-title">${escapeHtml(cloze.title)}</p>
-     <div class="passage">${renderPassage(cloze.text)}</div>`
+    `<p class="passage-title">${escapeHtml(cloze.title || "")}</p>
+     <div class="passage">${renderPassage(cloze.text || cloze.passage || "")}</div>`
   );
 
   const LETTERS = ["A", "B", "C", "D"];
   let rows = "";
-  cloze.blanks.forEach((q) => {
+  const items = cloze.questions || cloze.blanks || [];
+  items.forEach((q) => {
     const qn = nextQn();
-    const cells = q.options
-      .map((opt, idx) => `<td><label><input type="radio" name="q_D_${q.id}" value="${idx}"> ${LETTERS[idx]}. ${escapeHtml(opt)}</label></td>`)
+    const opts = normalizeOptions(q);
+    if (!opts || opts.length === 0) {
+      rows += `<tr><td colspan="5"><div class="manual-notice">Lỗi data: Câu ${escapeHtml(q.id)} thiếu options</div></td></tr>`;
+      return;
+    }
+    const ansIdx = getAnswerIndex(q);
+    const answerAttr = ansIdx !== null ? `data-answer="${ansIdx}"` : "";
+
+    const cells = opts
+      .map((opt, idx) => `<td><label><input type="radio" name="q_D_${q.id}" value="${idx}"> ${LETTERS[idx] || idx}. ${escapeHtml(opt)}</label></td>`)
       .join("");
-    rows += `<tr class="question cloze-row" data-type="mcq" data-answer="${q.answerIndex}" data-key="D_${q.id}" data-qn="${qn}">
+      
+    rows += `<tr class="question cloze-row" data-type="mcq" ${answerAttr} data-key="D_${q.id}" data-qn="${qn}">
       <td class="cloze-num">${qn}.</td>
       ${cells}
     </tr>`;
@@ -475,11 +646,15 @@ function renderTransformation(items, parent) {
 
   items.forEach((q) => {
     const qn = nextQn();
+    const ans = q.answer || q.correctAnswer || "";
+    const answerAttr = ans ? `data-answer="${escapeHtml(ans)}"` : "";
+
     block.insertAdjacentHTML(
       "beforeend",
-      `<div class="question" data-type="text" data-answer="${escapeHtml(q.answer)}" data-key="E_${q.id}" data-qn="${qn}">
-        <h4>Câu ${qn}. ${escapeHtml(q.prompt)}</h4>
-        <div class="meta">Keyword: ${escapeHtml(q.keyword)}</div>
+      `<div class="question" data-type="text" ${answerAttr} data-key="E_${q.id}" data-qn="${qn}">
+        <h4>Câu ${qn}. ${escapeHtml(getQuestionText(q))}</h4>
+        ${q.transformedPrompt ? `<p style="margin-top: 4px; font-weight: 500;">${escapeHtml(q.transformedPrompt)}</p>` : ""}
+        <div class="meta">Keyword: ${escapeHtml(q.keyword || "")}</div>
         ${q.hint ? `<details style="margin-bottom: 12px; font-size: 0.9rem;"><summary style="color: var(--accent); font-weight: 600; cursor: pointer; outline: none; user-select: none;">💡 Xem gợi ý</summary><div style="margin-top: 6px; padding: 10px; background: #fffde7; border-left: 3px solid #fbc02d; border-radius: 4px; color: #424242; line-height: 1.5;">${escapeHtml(q.hint)}</div></details>` : ""}
         <div style="display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;">
           ${q.prefix ? `<span class="prefix" style="font-weight: 600; color: var(--accent); white-space: nowrap;">${escapeHtml(q.prefix)}</span>` : ""}
@@ -570,6 +745,32 @@ function renderTrueFalse(texts, parent) {
 }
 
 
+
+function renderListeningFill(texts, parent) {
+  const block = sectionBlock("Phần H - Listening Fill in Blanks", "H");
+  
+  texts.forEach((fill) => {
+    block.insertAdjacentHTML(
+      "beforeend",
+      `<p class="passage-title">${escapeHtml(fill.title || fill.id)}</p>
+       ${fill.audio ? `<audio controls src="${fill.audio}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
+       <div class="passage">${renderPassage(fill.transcript || fill.text || "")}</div>`
+    );
+
+    (fill.blanks || []).forEach((q) => {
+      const qn = nextQn();
+      block.insertAdjacentHTML(
+        "beforeend",
+        `<div class="manual-question" data-key="H_${fill.id}_${q.blankNumber}" data-qn="${qn}" style="margin-bottom: 15px;">
+          <h4>Câu ${qn}. Blank (${q.blankNumber || q.blankNo})</h4>
+          <input class="answer-input" type="text" name="q_H_${fill.id}_${q.blankNumber}" placeholder="Nhập từ/cụm từ..." />
+        </div>`
+      );
+    });
+  });
+
+  parent.appendChild(block);
+}
 
 function sectionBlock(title, sectionKey) {
   const block = document.createElement("section");
