@@ -56,10 +56,157 @@ btnPractice.addEventListener("click", () => {
 });
 
 btnMockExam.addEventListener("click", () => {
-  inlineMessage.textContent = "Mock Exam migration sẽ được triển khai ở Phase F5.";
-  inlineMessage.classList.remove("hidden");
-  practiceSectionScreen.classList.add("hidden");
+  startMockExam();
 });
+
+function startMockExam() {
+  inlineMessage.classList.add("hidden");
+  practiceMockActions.classList.add("hidden");
+  practiceSectionScreen.classList.add("hidden");
+  appState.currentScreen = "mock";
+  generateMockExam(appState.studyProfile);
+}
+
+function generateMockExam(studyProfile) {
+  const state = {
+    generatedAt: new Date().toISOString(),
+    A: pickRandom(appState.scopedBank.A || [], SECTION_REGISTRY.A.mockCount),
+    B: pickRandom(appState.scopedBank.B || [], SECTION_REGISTRY.B.mockCount),
+    C: pickRandom(appState.scopedBank.C || [], SECTION_REGISTRY.C.mockCount),
+    D: pickRandom(appState.scopedBank.D || [], SECTION_REGISTRY.D.mockCount),
+    E: pickRandom(appState.scopedBank.E || [], SECTION_REGISTRY.E.mockCount),
+    F: pickRandom(appState.scopedBank.F || [], SECTION_REGISTRY.F.mockCount),
+    G: pickRandom(appState.scopedBank.G || [], SECTION_REGISTRY.G.mockCount),
+    H: pickRandom(appState.scopedBank.H || [], SECTION_REGISTRY.H.mockCount),
+    I: pickRandom(appState.scopedBank.I || [], SECTION_REGISTRY.I.mockCount),
+    J: pickRandom(appState.scopedBank.J || [], SECTION_REGISTRY.J.mockCount),
+    K: pickRandom(appState.scopedBank.K || [], SECTION_REGISTRY.K.mockCount),
+  };
+  examState = state;
+  renderMockExam(state);
+}
+
+function renderMockExam(state) {
+  document.querySelector(".hero").classList.add("hidden");
+  examRoot.classList.remove("hidden");
+  summaryRoot.classList.add("hidden");
+  examRoot.innerHTML = "";
+  questionCursor = 1;
+
+  const header = document.createElement("div");
+  header.style.display = "flex";
+  header.style.justifyContent = "space-between";
+  header.style.marginBottom = "20px";
+  header.innerHTML = `
+    <button id="btnBackToMenuMock" class="btn btn-outline">← Thoát Mock Exam</button>
+    <h3 style="margin: 0; color: var(--accent);">Mock Exam</h3>
+  `;
+  examRoot.appendChild(header);
+
+  header.querySelector("#btnBackToMenuMock").addEventListener("click", () => {
+    if (!confirm("Bạn có chắc muốn thoát Mock Exam?")) return;
+    examRoot.classList.add("hidden");
+    summaryRoot.classList.add("hidden");
+    document.querySelector(".hero").classList.remove("hidden");
+    appState.currentScreen = "practice-mock-choice";
+    practiceMockActions.classList.remove("hidden");
+  });
+
+  renderMultipleChoiceGroup("Phần A - Vocabulary & Grammar", "A", state.A, examRoot);
+  renderMultipleChoiceGroup("Phần B - Signs", "B", state.B, examRoot, true);
+  state.C.forEach(p => renderReadingPassage(p, examRoot));
+  state.D.forEach(p => renderClozeText(p, examRoot));
+  renderTransformation(state.E, examRoot);
+
+  renderManualSection("Phần F - Email Writing", "F", state.F, examRoot);
+  renderManualSection("Phần G - Essay Writing", "G", state.G, examRoot);
+  
+  renderListeningFill(state.H, examRoot);
+  
+  renderListeningMCQManual(state.I, examRoot);
+  renderListeningTFManual(state.J, examRoot);
+  renderManualSection("Phần K - Speaking", "K", state.K, examRoot);
+
+  const footer = document.createElement("div");
+  footer.style.marginTop = "30px";
+  footer.style.textAlign = "center";
+  footer.innerHTML = `<button id="btnSubmitMock" class="btn btn-primary" style="font-size: 1.2rem; padding: 12px 30px;">Nộp Bài</button>`;
+  examRoot.appendChild(footer);
+
+  document.getElementById("btnSubmitMock").addEventListener("click", () => {
+    if (confirm("Xác nhận nộp bài?")) {
+      submitMockExam();
+    }
+  });
+}
+
+function submitMockExam() {
+  document.getElementById("btnSubmitMock").style.display = "none";
+  let totalCorrect = 0;
+  let totalScorable = 0;
+
+  const scorableQuestions = examRoot.querySelectorAll('.section-block[data-section="A"], .section-block[data-section="B"], .section-block[data-section="C"], .section-block[data-section="D"], .section-block[data-section="E"]');
+  
+  scorableQuestions.forEach(sec => {
+    const questions = sec.querySelectorAll(".question");
+    questions.forEach(node => {
+      const type = node.dataset.type;
+      const answer = node.dataset.answer;
+      if (answer === undefined || answer === "null") return;
+      if (type !== "mcq" && type !== "text") return;
+      
+      totalScorable++;
+      let isCorrect = false;
+      let userValue = "";
+
+      if (type === "mcq") {
+        const checked = node.querySelector("input[type='radio']:checked");
+        userValue = checked ? checked.value : "";
+        isCorrect = userValue === answer;
+      } else if (type === "text") {
+        const input = node.querySelector("input[type='text']");
+        userValue = input ? input.value : "";
+        const acceptedAnswers = answer.split("|");
+        isCorrect = acceptedAnswers.some((a) => normalizeText(userValue) === normalizeText(a));
+      }
+
+      let correctAnswerText = answer.includes("|") ? answer.split("|")[0] : answer;
+      if (type === "mcq") {
+        const correctInput = node.querySelector(`input[value="${answer}"]`);
+        if (correctInput && correctInput.parentElement) {
+          correctAnswerText = correctInput.parentElement.textContent.trim();
+        }
+      }
+
+      let existingResult = node.querySelector(".immediate-result");
+      if (!existingResult) {
+        existingResult = document.createElement("div");
+        existingResult.className = "immediate-result";
+        node.appendChild(existingResult);
+      }
+
+      if (isCorrect) {
+        totalCorrect++;
+        existingResult.innerHTML = `<span class="good">✔ Đúng!</span>`;
+        existingResult.style.borderLeftColor = "var(--ok)";
+      } else {
+        existingResult.innerHTML = `<span class="bad">✘ Sai. Đáp án đúng: ${escapeHtml(correctAnswerText)}</span>`;
+        existingResult.style.borderLeftColor = "var(--bad)";
+      }
+    });
+  });
+
+  summaryRoot.classList.remove("hidden");
+  summaryRoot.innerHTML = `
+    <h2 style="margin-bottom: 15px; color: var(--accent);">Kết quả Mock Exam</h2>
+    <span class="kpi"><span class="badge">Điểm tự động</span> ${totalCorrect} / ${totalScorable}</span>
+    <p style="margin-top: 15px; font-size: 0.95rem; color: #555;">
+      <strong>Lưu ý:</strong> Điểm tự động chỉ tính các phần A, B, C, D, E.<br/>
+      Các phần F, G, H, I, J, K không tính điểm tự động và cần chấm thủ công.
+    </p>
+  `;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
 
 function startPracticeMode() {
   inlineMessage.classList.add("hidden");
@@ -114,6 +261,8 @@ function renderPracticeSet(sectionId, practiceData, reg) {
     examRoot.classList.add("hidden");
     document.querySelector(".hero").classList.remove("hidden");
     appState.currentScreen = "practice-mock-choice";
+    practiceMockActions.classList.remove("hidden");
+    practiceSectionScreen.classList.add("hidden");
   });
   
   header.querySelector("#btnNewPractice").addEventListener("click", () => {
@@ -144,9 +293,77 @@ function renderPracticeSet(sectionId, practiceData, reg) {
     renderTransformation(practiceData, examRoot);
   } else if (sectionId === "H") {
     renderListeningFill(practiceData, examRoot);
+  } else if (sectionId === "I") {
+    renderListeningMCQManual(practiceData, examRoot);
+  } else if (sectionId === "J") {
+    renderListeningTFManual(practiceData, examRoot);
   } else {
     renderManualSection(title, sectionId, practiceData, examRoot);
   }
+}
+function renderListeningMCQManual(groups, parent) {
+  const block = sectionBlock("Phần I - Listening MCQ", "I");
+
+  groups.forEach((group) => {
+    block.insertAdjacentHTML(
+      "beforeend",
+      `<p class="passage-title">${escapeHtml(group.title || group.id)}</p>
+       ${group.audio || group.audioPath ? `<audio controls src="${escapeHtml(group.audio || group.audioPath)}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
+       ${group.transcript || group.text || group.passage ? `<div class="passage">${renderPassage(group.transcript || group.text || group.passage)}</div>` : ""}`
+    );
+
+    (group.questions || []).forEach((q) => {
+      const qn = nextQn();
+      const opts = normalizeOptions(q);
+      
+      const optionsHTML = opts
+        .map(
+          (opt, idx) => `<label><input type="radio" name="q_I_${q.id || qn}" value="${idx}"> ${escapeHtml(opt)}</label>`
+        )
+        .join("");
+
+      block.insertAdjacentHTML(
+        "beforeend",
+        `<div class="manual-question" data-key="I_${q.id || qn}" data-qn="${qn}" style="margin-bottom: 15px;">
+          <h4>Câu ${qn}. ${renderQuestion(getQuestionText(q))}</h4>
+          ${optionsHTML ? `<div class="options">${optionsHTML}</div>` : ""}
+        </div>`
+      );
+    });
+  });
+
+  parent.appendChild(block);
+}
+
+function renderListeningTFManual(groups, parent) {
+  const block = sectionBlock("Phần J - Listening True/False", "J");
+
+  groups.forEach((group) => {
+    block.insertAdjacentHTML(
+      "beforeend",
+      `<p class="passage-title">${escapeHtml(group.title || group.id)}</p>
+       ${group.audio || group.audioPath ? `<audio controls src="${escapeHtml(group.audio || group.audioPath)}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
+       ${group.transcript || group.text || group.passage ? `<div class="passage">${renderPassage(group.transcript || group.text || group.passage)}</div>` : ""}`
+    );
+
+    (group.statements || group.questions || []).forEach((q) => {
+      const qn = nextQn();
+      const text = q.statement || getQuestionText(q);
+      
+      block.insertAdjacentHTML(
+        "beforeend",
+        `<div class="manual-question" data-key="J_${q.id || qn}" data-qn="${qn}" style="margin-bottom: 15px;">
+          <h4>Câu ${qn}. ${escapeHtml(text)}</h4>
+          <div class="options">
+            <label><input type="radio" name="q_J_${q.id || qn}" value="T"> True</label>
+            <label><input type="radio" name="q_J_${q.id || qn}" value="F"> False</label>
+          </div>
+        </div>`
+      );
+    });
+  });
+
+  parent.appendChild(block);
 }
 
 function renderManualSection(title, sectionKey, items, parent) {
@@ -165,6 +382,7 @@ function renderManualSection(title, sectionKey, items, parent) {
 }
 
 examRoot.addEventListener("change", (e) => {
+  if (appState.currentScreen === "mock") return;
   const node = e.target.closest(".question");
   if (!node) return;
 
@@ -750,9 +968,14 @@ function renderListeningFill(texts, parent) {
   const block = sectionBlock("Phần H - Listening Fill in Blanks", "H");
   
   texts.forEach((fill) => {
+    let titleHtml = escapeHtml(fill.title || fill.id);
+    if (appState.currentScreen === "mock" && fill._isRisk) {
+      titleHtml += ` <span style="background: #ef5350; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; margin-left: 8px;">Chưa ôn / Risk</span>`;
+    }
+
     block.insertAdjacentHTML(
       "beforeend",
-      `<p class="passage-title">${escapeHtml(fill.title || fill.id)}</p>
+      `<p class="passage-title">${titleHtml}</p>
        ${fill.audio ? `<audio controls src="${fill.audio}" style="width: 100%; margin: 10px 0; border-radius: 8px;"></audio>` : ""}
        <div class="passage">${renderPassage(fill.transcript || fill.text || "")}</div>`
     );
