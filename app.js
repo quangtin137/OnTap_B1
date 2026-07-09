@@ -14,6 +14,7 @@ const SECTION_REGISTRY = {
 
 const appState = {
   examBank: null,
+  scopedBank: null,
   studyProfile: null,
   selectedMode: null,
   currentScreen: "mode-selection",
@@ -120,6 +121,7 @@ async function handleModeSelection(modeId, modeName) {
   
   appState.selectedMode = modeId;
   appState.studyProfile = buildStudyProfile(modeId);
+  appState.scopedBank = getScopedBank(appState.examBank, appState.studyProfile);
   appState.currentScreen = "practice-mock-choice";
   
   modeSelectionScreen.classList.add("hidden");
@@ -143,15 +145,77 @@ function buildStudyProfile(mode) {
   if (mode === "free_candidate") {
     return { mode, scope };
   } else if (mode === "two_week") {
-    scope.E = { from: 1, to: 25 };
-    scope.H = { officialPool: [1, 2, 3], reviewedTexts: [1, 2], unreviewedTexts: [3] };
+    scope.E = { type: "range", from: 1, to: 25, randomCount: 10 };
+    scope.H = { 
+      type: "selection", 
+      officialPoolIndexes: [0, 1, 2], 
+      reviewedIndexes: [0, 1], 
+      unreviewedIndexes: [2], 
+      randomCount: 1 
+    };
     return { mode, scope };
   } else if (mode === "four_week") {
-    scope.E = { from: 1, to: 30 };
-    scope.H = { officialPool: [1, 2, 3], reviewedTexts: [1, 2, 3], unreviewedTexts: [] };
+    scope.E = { type: "range", from: 1, to: 30, randomCount: 10 };
+    scope.H = { 
+      type: "selection", 
+      officialPoolIndexes: [0, 1, 2], 
+      reviewedIndexes: [0, 1, 2], 
+      unreviewedIndexes: [], 
+      randomCount: 1 
+    };
     return { mode, scope };
   }
   return { mode, scope };
+}
+
+function getNumericIdOrder(item) {
+  const match = String(item.id || "").match(/(\d+)/);
+  return match ? Number(match[1]) : Number.POSITIVE_INFINITY;
+}
+
+function getScopedBank(examBank, studyProfile) {
+  const scoped = {};
+  const sections = Object.keys(examBank);
+  
+  sections.forEach(s => {
+    const scopeData = studyProfile.scope[s];
+    if (!scopeData || scopeData.type === "all") {
+      scoped[s] = [...examBank[s]];
+    } else if (scopeData.type === "range") {
+      let items = [...examBank[s]];
+      items.sort((a, b) => {
+        if (a.questionNumber !== undefined && b.questionNumber !== undefined) {
+          return a.questionNumber - b.questionNumber;
+        }
+        const numA = getNumericIdOrder(a);
+        const numB = getNumericIdOrder(b);
+        if (numA !== Number.POSITIVE_INFINITY || numB !== Number.POSITIVE_INFINITY) {
+          return numA - numB;
+        }
+        return 0;
+      });
+      scoped[s] = items.slice(scopeData.from - 1, scopeData.to);
+    } else if (scopeData.type === "selection") {
+      let pool = [];
+      scopeData.officialPoolIndexes.forEach(idx => {
+        if (examBank[s][idx]) {
+          let clone = { ...examBank[s][idx] };
+          if (scopeData.reviewedIndexes && scopeData.reviewedIndexes.includes(idx)) {
+            clone._isReviewed = true;
+          } else {
+            clone._isReviewed = false;
+          }
+          if (scopeData.unreviewedIndexes && scopeData.unreviewedIndexes.includes(idx)) {
+            clone._isRisk = true;
+          }
+          pool.push(clone);
+        }
+      });
+      scoped[s] = pool;
+    }
+  });
+  
+  return scoped;
 }
 
 async function loadAllParsedData() {
