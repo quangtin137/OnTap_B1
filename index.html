@@ -29,6 +29,17 @@
 
         <div id="practiceMockScreen" class="hidden">
           <h3 class="screen-title">Mode Selected: <span id="selectedModeLabel" class="mode-label"></span></h3>
+          
+          <div id="customizeScopeScreen" class="card" style="margin-top: 20px; margin-bottom: 20px; padding: 15px; border-radius: 8px; border: 1px solid #ddd; box-shadow: none;">
+            <h4 style="margin-top: 0; color: var(--accent);">Customize Scope</h4>
+            <div id="scopeTableContainer" style="overflow-x: auto;"></div>
+            <div style="margin-top: 15px; display: flex; gap: 10px;">
+              <button id="btnApplyScope" class="btn btn-outline" style="border-color: var(--ok); color: var(--ok);">Apply Scope</button>
+              <button id="btnResetScope" class="btn btn-outline" style="border-color: #888; color: #888;">Reset to Mode Default</button>
+            </div>
+            <p id="scopeStatusMsg" style="margin-top: 10px; font-size: 0.9rem; font-weight: bold;"></p>
+          </div>
+
           <div class="actions" id="practiceMockActions">
             <button id="btnPractice" class="btn btn-primary">Practice Mode</button>
             <button id="btnMockExam" class="btn btn-primary">Mock Exam</button>

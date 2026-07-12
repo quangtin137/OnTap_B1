@@ -3,6 +3,7 @@ import { loadAllParsedData, buildStudyProfile, getScopedBank } from './js/data.j
 import { startPracticeMode } from './js/practice.js';
 import { startMockExam } from './js/mock.js';
 import { normalizeText, escapeHtml } from './js/utils.js';
+import { renderScopeUI, initScopeUI } from './js/scope-ui.js';
 
 const modeSelectionScreen = document.getElementById("modeSelectionScreen");
 const practiceMockScreen = document.getElementById("practiceMockScreen");
@@ -53,6 +54,8 @@ async function handleModeSelection(modeId, modeName) {
   practiceMockScreen.classList.remove("hidden");
   inlineMessage.classList.add("hidden");
   datasetStatus.textContent = "Dữ liệu đã được tải thành công.";
+  
+  renderScopeUI();
 }
 
 examRoot.addEventListener("change", (e) => {
@@ -101,3 +104,5 @@ examRoot.addEventListener("change", (e) => {
     existingResult.style.borderLeftColor = "var(--bad)";
   }
 });
+
+initScopeUI();
